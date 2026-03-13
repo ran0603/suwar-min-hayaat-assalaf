@@ -1,0 +1,3039 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileType": "index",
+    "totalCompanions": 8,
+    "lastUpdated": "2026-03-01"
+  },
+  "companions": [
+    {
+      "id": "sc-001",
+      "cardNumber": "001",
+      "volumeId": "vol-1",
+      "nameArabic": "أَنَسُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Anas ibn Malik al-Ansari",
+      "laqab": [
+        "خَادِمُ رَسُولِ اللَّهِ",
+        "أَبُو حَمْزَة"
+      ],
+      "gender": "sahabi",
+      "file": "sc-001-anas-ibn-malik-al-ansari.json",
+      "completeness": "full",
+      "profile": {
+        "conversionEra": "مدني قبل الهجرة النبوية إلى المدينة بقليل (أسلم مع أمه من أوائل أنصار المدينة)",
+        "conversionOrder": "من صغار الأنصار السابقين إلى الإسلام",
+        "hijrahStatus": "أنصاري (استقبل المهاجرين وخدم النبي بعد الهجرة)",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "خيبر",
+          "فتح مكة",
+          "حنين",
+          "الطائف",
+          "تبوك"
+        ],
+        "distinctions": [
+          "من صغار الصحابة وأكثرهم ملازمة للنبي عشر سنين",
+          "خادم النبي ﷺ",
+          "من المكثرين في رواية الحديث",
+          "دعا له النبي ﷺ بطول العمر وكثرة المال والولد",
+          "شهد له جمع من الصحابة بالعلم والفضل"
+        ],
+        "scholarlyRole": [
+          "محدّث",
+          "فقيه",
+          "معلّم"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 2286,
+        "quranRelation": {
+          "hafiz": true,
+          "specialRole": "من رواة بعض أسباب النزول والقراءات عن النبي ﷺ"
+        }
+      }
+    },
+    {
+      "id": "sc-002",
+      "cardNumber": "002",
+      "volumeId": "vol-1",
+      "nameArabic": "سَعِيدُ بْنُ عَامِرٍ الجُمَحِيُّ",
+      "nameTranslit": "Said ibn Amir al-Jumahi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-002-said-ibn-amir-al-jumahi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-003",
+      "cardNumber": "003",
+      "volumeId": "vol-1",
+      "nameArabic": "الطُّفَيْلُ بْنُ عَمْرٍو الدَّوْسِيُّ",
+      "nameTranslit": "At-Tufayl ibn Amr ad-Dawsi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-003-at-tufayl-ibn-amr-ad-dawsi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-004",
+      "cardNumber": "004",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ حُذَافَةَ السَّهْمِيُّ",
+      "nameTranslit": "Abdullah ibn Hudhafah as-Sahmi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-004-abdullah-ibn-hudhafa-as-sahmi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-005",
+      "cardNumber": "005",
+      "volumeId": "vol-1",
+      "nameArabic": "عُمَيْرُ بْنُ وَهْبٍ",
+      "nameTranslit": "Umayr ibn Wahb",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-005-umayr-ibn-wahb.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-006",
+      "cardNumber": "006",
+      "volumeId": "vol-1",
+      "nameArabic": "الْبَرَاءُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Al-Bara ibn Malik al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-006-al-bara-ibn-malik-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (بالنسبة للنسبة الظاهرة في الاسم فقط)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-007",
+      "cardNumber": "007",
+      "volumeId": "vol-1",
+      "nameArabic": "ثُمَامَةُ بْنُ أُثَالٍ",
+      "nameTranslit": "Thumamah ibn Uthal",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-007-thumamah-ibn-uthal.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-008",
+      "cardNumber": "008",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو أَيُّوبَ الأَنْصَارِيُّ",
+      "nameTranslit": "Abu Ayyub al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-008-abu-ayyub-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (بالنسبة للنسبة الظاهرة في الاسم فقط)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-009",
+      "cardNumber": "009",
+      "volumeId": "vol-1",
+      "nameArabic": "عَمْرُو بْنُ الْجَمُوحِ",
+      "nameTranslit": "Amr ibn al-Jamuh",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-009-amr-ibn-al-jamuh.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-010",
+      "cardNumber": "010",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ جَحْشٍ",
+      "nameTranslit": "Abdullah ibn Jahsh",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-010-abdullah-ibn-jahsh.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-011",
+      "cardNumber": "011",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ",
+      "nameTranslit": "Abu Ubaydah ibn al-Jarrah",
+      "laqab": [
+        "أَمِينُ هَذِهِ الْأُمَّةِ"
+      ],
+      "gender": "sahabi",
+      "file": "sc-011-abu-ubaydah-ibn-al-jarrah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "من السابقين الأولين؛ أسلم في اليوم التالي لإسلام أبي بكر على يديه",
+        "conversionOrder": "من أوائل من أقيم عليهم صرح الإسلام؛ كان مع عبد الرحمن بن عوف وعثمان بن مظعون والأرقم بن أبي الأرقم أول قواعد الإسلام",
+        "hijrahStatus": "مهاجر قرشي فهري عايش اضطهاد مكة كله ثم شهد الهجرة وما بعدها",
+        "battles": [
+          "بدر",
+          "أحد"
+        ],
+        "distinctions": [
+          "أمين هذه الأمة بنص حديث النبي",
+          "من السابقين الأولين إلى الإسلام",
+          "شهد بدرا وأبلى فيها بلاء عظيما",
+          "قتل أباه عبد الله بن الجراح في بدر دفاعا عن دينه",
+          "نزل فيه وفي أبيه قرآن من سورة المجادلة في مفاصلة أهل الإيمان مع من يحادّ الله ورسوله",
+          "من العشرة الذين أحاطوا بالنبي يوم أحد يذودون عنه",
+          "اقتلع حلقات درع النبي من وجنته بأسنانه يوم أحد حتى سقطت ثناياه وصار أهتم",
+          "شهد مع النبي المشاهد كلها حتى وفاته",
+          "اختاره النبي ليحكم بين وفد من النصارى ووصفه بالقوي الأمين",
+          "كان يجمع القوة والأمانة، ويقود السرايا في الشدائد مع قلة الزاد",
+          "رغِب فيه عمر يوم السقيفة للخلافة لِما علم من أمانته"
+        ],
+        "scholarlyRole": [
+          "أمير سرايا",
+          "قاضٍ بين الوفود بأمر النبي"
+        ],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "ورد بشأن موقفه مع أبيه سبب نزول آية من سورة المجادلة في الولاء والبراء"
+        }
+      }
+    },
+    {
+      "id": "sc-012",
+      "cardNumber": "012",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ مَسْعُودٍ",
+      "nameTranslit": "Abdullah ibn Masud",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-012-abdullah-ibn-masud.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-013",
+      "cardNumber": "013",
+      "volumeId": "vol-1",
+      "nameArabic": "سَلْمَانُ الْفَارِسِيُّ",
+      "nameTranslit": "Salman al-Farisi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-013-salman-al-farisi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-014",
+      "cardNumber": "014",
+      "volumeId": "vol-1",
+      "nameArabic": "عِكْرِمَةُ بْنُ أَبِي جَهْلٍ",
+      "nameTranslit": "Ikrimah ibn Abi Jahl",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-014-ikrima-ibn-abi-jahl.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-015",
+      "cardNumber": "015",
+      "volumeId": "vol-1",
+      "nameArabic": "زَيْدُ الْخَيْرِ",
+      "nameTranslit": "Zayd al-Khayr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-015-zayd-al-khayr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-016",
+      "cardNumber": "016",
+      "volumeId": "vol-1",
+      "nameArabic": "عَدِيُّ بْنُ حَاتِمٍ الطَّائِيُّ",
+      "nameTranslit": "Adi ibn Hatim at-Tai",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-016-adi-ibn-hatim-at-tai.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-017",
+      "cardNumber": "017",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو ذَرٍّ الغِفَارِيُّ",
+      "nameTranslit": "Abu Dharr al-Ghifari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-017-abu-dharr-al-ghifari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-018",
+      "cardNumber": "018",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ أُمِّ مَكْتُومٍ",
+      "nameTranslit": "Abdullah ibn Umm Maktum",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-018-abdullah-ibn-umm-maktum.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-019",
+      "cardNumber": "019",
+      "volumeId": "vol-1",
+      "nameArabic": "مُجَزَّأَةُ بْنُ ثَوْرٍ السَّدُوسِيُّ",
+      "nameTranslit": "Mujazzah ibn Thawr as-Sadusi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-019-mujazzah-ibn-thawr-as-sadusi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-020",
+      "cardNumber": "020",
+      "volumeId": "vol-1",
+      "nameArabic": "أُسَيْدُ بْنُ الْخُضَيْرِ",
+      "nameTranslit": "Usayd ibn al-Hudayr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-020-usayd-ibn-al-hudayr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-021",
+      "cardNumber": "021",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ",
+      "nameTranslit": "Abdullah ibn Abbas",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-021-abdullah-ibn-abbas.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-022",
+      "cardNumber": "022",
+      "volumeId": "vol-1",
+      "nameArabic": "النُّعْمَانُ بْنُ مُقَرِّنٍ الْمُزَنِيُّ",
+      "nameTranslit": "An-Nu'man ibn Muqarrin al-Muzani",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-022-an-numan-ibn-muqarrin-al-muzani.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-023",
+      "cardNumber": "023",
+      "volumeId": "vol-1",
+      "nameArabic": "صُهَيْبُ الرُّومِيُّ",
+      "nameTranslit": "Suhaib ar-Rumi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-023-suhaib-ar-rumi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-024",
+      "cardNumber": "024",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو الدَّرْدَاءِ",
+      "nameTranslit": "Abu ad-Darda",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-024-abu-ad-darda.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-025",
+      "cardNumber": "025",
+      "volumeId": "vol-1",
+      "nameArabic": "زَيْدُ بْنُ حَارِثَةَ",
+      "nameTranslit": "Zayd ibn Harithah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-025-zayd-ibn-harithah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-026",
+      "cardNumber": "026",
+      "volumeId": "vol-1",
+      "nameArabic": "أُسَامَةُ بْنُ زَيْدٍ",
+      "nameTranslit": "Usamah ibn Zayd",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-026-usamah-ibn-zayd.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-027",
+      "cardNumber": "027",
+      "volumeId": "vol-1",
+      "nameArabic": "سَعِيدُ بْنُ زَيْدٍ",
+      "nameTranslit": "Said ibn Zayd",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-027-said-ibn-zayd.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-028",
+      "cardNumber": "028",
+      "volumeId": "vol-1",
+      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ «فِي صِغَرِهِ»",
+      "nameTranslit": "Umayr ibn Sa'd (in youth)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-028-umayr-ibn-sad-youth.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور؛ عنوان الفصل يركّز على مرحلة صغره",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "اختيرت له حلقة خاصة في الكتاب بعنوان «في صغره» مما يدل على إبراز مواقفه في الطفولة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-029",
+      "cardNumber": "029",
+      "volumeId": "vol-1",
+      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ «فِي كِبَرِهِ»",
+      "nameTranslit": "Umayr ibn Sa'd (in old age)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-029-umayr-ibn-sad-old-age.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور؛ عنوان الفصل يركّز على مرحلة كبره",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "جُعلت له حلقة ثانية بعنوان «في كبره» استكمالًا لصورة حياته عبر العمر"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-030",
+      "cardNumber": "030",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ الرَّحْمَنِ بْنِ عَوْفٍ",
+      "nameTranslit": "Abd al-Rahman ibn Awf",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-030-abd-al-rahman-ibn-awf.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع العنوان؛ ذكره المؤلف لاحقًا في قصة أبي عبيدة ضمن السابقين",
+        "conversionOrder": "غير مذكور هنا كرقم ترتيب",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» كأحد النماذج البارزة من الصحابة",
+          "أشير إليه في خبر أبي عبيدة ضمن القواعد الأولى التي أقيم عليها صرح الإسلام"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-031",
+      "cardNumber": "031",
+      "volumeId": "vol-1",
+      "nameArabic": "جَعْفَرُ بْنُ أَبِي طَالِبٍ",
+      "nameTranslit": "Ja'far ibn Abi Talib",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-031-jafar-ibn-abi-talib.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-032",
+      "cardNumber": "032",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو سُفْيَانَ بْنُ الْحَارِثِ",
+      "nameTranslit": "Abu Sufyan ibn al-Harith",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-032-abu-sufyan-ibn-al-harith.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-033",
+      "cardNumber": "033",
+      "volumeId": "vol-1",
+      "nameArabic": "سَعْدُ بْنُ أَبِي وَقَّاصٍ",
+      "nameTranslit": "Sa'd ibn Abi Waqqas",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-033-sad-ibn-abi-waqqas.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا، مع أنه شريك لعبد الله بن جحش في قصة أُحد المذكورة سابقًا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-034",
+      "cardNumber": "034",
+      "volumeId": "vol-1",
+      "nameArabic": "حُذَيْفَةُ بْنُ الْيَمَانِ صَاحِبُ …",
+      "nameTranslit": "Hudhayfah ibn al-Yaman (Sahib ...)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-034-hudhayfah-ibn-al-yaman.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس؛ ذكر معه وصف مختصر «صاحب …» لم يكتمل في المقتطف الظاهر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» مع تلقيب مختصر يدل على شهرة خاصة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-035",
+      "cardNumber": "035",
+      "volumeId": "vol-1",
+      "nameArabic": "عُقْبَةُ بْنُ عَامِرٍ الْجُهَنِيُّ",
+      "nameTranslit": "Uqbah ibn Amir al-Juhani",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-035-uqbah-ibn-amir-al-juhani.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-036",
+      "cardNumber": "036",
+      "volumeId": "vol-1",
+      "nameArabic": "بِلَالُ بْنُ رَبَاحٍ",
+      "nameTranslit": "Bilal ibn Rabah",
+      "laqab": [
+        "مُؤَذِّنُ رَسُولِ اللَّهِ"
+      ],
+      "gender": "sahabi",
+      "file": "sc-036-bilal-ibn-rabah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "من السابقين الأوَّلين؛ أسلم في أوائل الدعوة بمكة حين لم يكن على ظهر الأرض إلا هو وبضعة نفر من السابقين",
+        "conversionOrder": "من السابقين الأولين إلى الإسلام من المستضعفين",
+        "hijrahStatus": "مهاجر؛ هاجر إلى المدينة مع من هاجر ونزل مع أبي بكر وعامر بن فهر في بيت واحد",
+        "battles": [],
+        "distinctions": [
+          "مؤذن رسول الله ﷺ",
+          "قال فيه عمر: «أبو بكر سيدنا وأعتق سيدنا» يعني بلالا",
+          "من أشد الناس نضالًا وثباتًا في سبيل العقيدة رغم العذاب",
+          "كان مملوكًا لأيتام من بني عبد الدار في كنف أمية بن خلف أحد رؤوس الكفر",
+          "تعرض لأشد ألوان التعذيب في مكة من أمية وزبانيته وظل يردد: أحد أحد",
+          "كان من المستضعفين الذين نكلت بهم قريش لتجعلهم عبرة لمن يفكر في اتباع محمد",
+          "اشتراه أبو بكر الصديق من أمية بثمان أو تسع أواق من الذهب ثم أعتقه لله",
+          "شارك النبي في الهجرة، ولازمه في المدينة حتى صار ألزم له من ظله",
+          "حين أصيب بالحمى في المدينة كان يترنم بشعر يحن فيه إلى مكة وشعابها",
+          "ضرب أروع مثال في الاستعذاب بالعذاب في جنب الله وثبات التوحيد"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور صريحًا في النص",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "ارتبط اسمه بالأذان ورفع شعيرة التوحيد في مكة والمدينة"
+        }
+      }
+    },
+    {
+      "id": "sc-037",
+      "cardNumber": "037",
+      "volumeId": "vol-1",
+      "nameArabic": "حَبِيبُ بْنُ زَيْدٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Habib ibn Zayd al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-037-habib-ibn-zayd-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس؛ يشار إليه كأنصاري",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-038",
+      "cardNumber": "038",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو طَلْحَةَ الأَنْصَارِيُّ",
+      "nameTranslit": "Abu Talhah al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-038-abu-talhah-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس؛ يشار إليه كأنصاري",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-039",
+      "cardNumber": "039",
+      "volumeId": "vol-1",
+      "nameArabic": "وَحْشِيُّ بْنُ حَرْبٍ",
+      "nameTranslit": "Wahshi ibn Harb",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-039-wahshi-ibn-harb.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-040",
+      "cardNumber": "040",
+      "volumeId": "vol-1",
+      "nameArabic": "حَكِيمُ بْنُ حِزَامٍ",
+      "nameTranslit": "Hakim ibn Hizam",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-040-hakim-ibn-hizam.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-041",
+      "cardNumber": "041",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبَّادُ بْنُ بِشْرٍ",
+      "nameTranslit": "Abbad ibn Bishr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-041-abbad-ibn-bishr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-042",
+      "cardNumber": "042",
+      "volumeId": "vol-1",
+      "nameArabic": "زَيْدُ بْنُ ثَابِتٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Zayd ibn Thabit al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-042-zayd-ibn-thabit-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-043",
+      "cardNumber": "043",
+      "volumeId": "vol-1",
+      "nameArabic": "رَبِيعَةُ بْنُ كَعْبٍ",
+      "nameTranslit": "Rabi'ah ibn Ka'b",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-043-rabiah-ibn-kab.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في سطر الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-044",
+      "cardNumber": "044",
+      "volumeId": "vol-1",
+      "nameArabic": "ذُو الْبِجَادَيْنِ",
+      "nameTranslit": "Dhu al-Bijadayn",
+      "laqab": [
+        "ذو البجادين"
+      ],
+      "gender": "sahabi",
+      "file": "sc-044-dhu-al-bijadayn.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على لقبه المشهور",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر بلقبه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-045",
+      "cardNumber": "045",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو الْعَاصِ بْنُ الرَّبِيعِ",
+      "nameTranslit": "Abu al-As ibn al-Rabi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-045-abu-al-as-ibn-al-rabi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-046",
+      "cardNumber": "046",
+      "volumeId": "vol-1",
+      "nameArabic": "عَاصِمُ بْنُ ثَابِتٍ",
+      "nameTranslit": "Asim ibn Thabit",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-046-asim-ibn-thabit.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-047",
+      "cardNumber": "047",
+      "volumeId": "vol-1",
+      "nameArabic": "عُتْبَةُ بْنُ غَزْوَانَ",
+      "nameTranslit": "Utbah ibn Ghazwan",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-047-utbah-ibn-ghazwan.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-048",
+      "cardNumber": "048",
+      "volumeId": "vol-1",
+      "nameArabic": "نُعَيْمُ بْنُ مَسْعُودٍ",
+      "nameTranslit": "Nuaym ibn Masud",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-048-nuaym-ibn-masud.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-049",
+      "cardNumber": "049",
+      "volumeId": "vol-1",
+      "nameArabic": "خَبَّابُ بْنُ الأَرَتِّ",
+      "nameTranslit": "Khabbab ibn al-Aratt",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-049-khabbab-ibn-al-aratt.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-050",
+      "cardNumber": "050",
+      "volumeId": "vol-1",
+      "nameArabic": "الرَّبِيعُ بْنُ زِيَادٍ الْحَارِثِيُّ",
+      "nameTranslit": "Al-Rabi ibn Ziyad al-Harithi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-050-ar-rabi-ibn-ziyad-al-harithi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-051",
+      "cardNumber": "051",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ سَلَامٍ",
+      "nameTranslit": "Abdullah ibn Salam",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-051-abdullah-ibn-salam.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-052",
+      "cardNumber": "052",
+      "volumeId": "vol-1",
+      "nameArabic": "خَالِدُ بْنُ سَعِيدِ بْنِ الْعَاصِ",
+      "nameTranslit": "Khalid ibn Sa'id ibn al-As",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-052-khalid-ibn-said-ibn-al-as.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على ذكر اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-053",
+      "cardNumber": "053",
+      "volumeId": "vol-1",
+      "nameArabic": "سِرَاقَةُ بْنُ مَالِكٍ",
+      "nameTranslit": "Suraqah ibn Malik",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-053-suraqah-ibn-malik.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-054",
+      "cardNumber": "054",
+      "volumeId": "vol-1",
+      "nameArabic": "فَيْرُوزُ الدَّيْلَمِيُّ",
+      "nameTranslit": "Fayruz ad-Daylami",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-054-fayruz-ad-daylami.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-055",
+      "cardNumber": "055",
+      "volumeId": "vol-1",
+      "nameArabic": "ثَابِتُ بْنُ قَيْسٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Thabit ibn Qays al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-055-thabit-ibn-qays-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (نسبةً إلى الأنصار المذكورة في الاسم)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-056",
+      "cardNumber": "056",
+      "volumeId": "vol-1",
+      "nameArabic": "طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ التَّيْمِيُّ",
+      "nameTranslit": "Talhah ibn Ubaydillah at-Taymi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-056-talhah-ibn-ubaydillah-at-taymi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-057",
+      "cardNumber": "057",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو هُرَيْرَةَ الدَّوْسِيُّ",
+      "nameTranslit": "Abu Hurayrah ad-Dawsi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-057-abu-hurayrah-ad-dawsi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على كنيته ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكرت كنيته في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-058",
+      "cardNumber": "058",
+      "volumeId": "vol-1",
+      "nameArabic": "سَلَمَةُ بْنُ قَيْسٍ الأَشْجَعِيُّ",
+      "nameTranslit": "Salamah ibn Qays al-Ashja'i",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-058-salamah-ibn-qays-al-ashjai.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-059",
+      "cardNumber": "059",
+      "volumeId": "vol-1",
+      "nameArabic": "مُعَاذُ بْنُ جَبَلٍ",
+      "nameTranslit": "Mu'adh ibn Jabal",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-059-muadh-ibn-jabal.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-060",
+      "cardNumber": "060",
+      "volumeId": "vol-1",
+      "nameArabic": "آلُ يَاسِرٍ",
+      "nameTranslit": "Alu Yasir (the family of Yasir)",
+      "laqab": [],
+      "gender": "sahabi-family",
+      "file": "sc-060-alu-yasir.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على عنوان «آل ياسر»",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر عنوان «آل ياسر» في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-061",
+      "cardNumber": "061",
+      "volumeId": "vol-1",
+      "nameArabic": "سُهَيْلُ بْنُ عَمْرٍو",
+      "nameTranslit": "Suhail ibn Amr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-061-suhail-ibn-amr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-062",
+      "cardNumber": "062",
+      "volumeId": "vol-1",
+      "nameArabic": "جَابِرُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ",
+      "nameTranslit": "Jabir ibn Abdullah al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-062-jabir-ibn-abdullah-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-063",
+      "cardNumber": "063",
+      "volumeId": "vol-1",
+      "nameArabic": "سَالِمٌ مَوْلَى أَبِي حُذَيْفَةَ",
+      "nameTranslit": "Salim mawla Abi Hudhayfah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-063-salim-mawla-abi-hudhayfah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه وكونه مولى لأبي حذيفة",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-064",
+      "cardNumber": "064",
+      "volumeId": "vol-1",
+      "nameArabic": "عُثْمَانُ بْنُ عَفَّانَ",
+      "nameTranslit": "Uthman ibn Affan",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-064-uthman-ibn-affan.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور هنا كرقم ترتيب",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-065",
+      "cardNumber": "065",
+      "volumeId": "vol-1",
+      "nameArabic": "عَمْرُو بْنُ الْعَاصِ",
+      "nameTranslit": "Amr ibn al-As",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-065-amr-ibn-al-as.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في هذا الموضع",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-066",
+      "cardNumber": "066",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو لُبَابَةَ",
+      "nameTranslit": "Abu Lubabah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-066-abu-lubabah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع فهرس الكتاب التاسع؛ اقتصر على كنيته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكرت كنيته في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-067",
+      "cardNumber": "067",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ رَوَاحَةَ",
+      "nameTranslit": "Abdullah ibn Rawahah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-067-abdullah-ibn-rawahah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-068",
+      "cardNumber": "068",
+      "volumeId": "vol-1",
+      "nameArabic": "جَرِيرُ بْنُ عَبْدِ اللَّهِ الْبَجَلِيُّ",
+      "nameTranslit": "Jarir ibn Abdullah al-Bajali",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-068-jarir-ibn-abdullah-al-bajali.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-069",
+      "cardNumber": "069",
+      "volumeId": "vol-1",
+      "nameArabic": "أُبَيُّ بْنُ كَعْبٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Ubayy ibn Ka'b al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-069-ubayy-ibn-kab-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-070",
+      "cardNumber": "070",
+      "volumeId": "vol-1",
+      "nameArabic": "مَيْسَرَةُ بْنُ مَسْرُوقٍ الْعَبْسِيُّ",
+      "nameTranslit": "Maysarah ibn Masruq al-Absi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-070-maysarah-ibn-masruq-al-absi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-071",
+      "cardNumber": "071",
+      "volumeId": "vol-1",
+      "nameArabic": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ",
+      "nameTranslit": "Hamzah ibn Abd al-Muttalib",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-071-hamzah-ibn-abd-al-muttalib.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-072",
+      "cardNumber": "072",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو عَقِيلٍ الأَنِيقِيُّ",
+      "nameTranslit": "Abu Aqil al-Aniqi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-072-abu-aqil-al-aniqi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على كنيته ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكرت كنيته في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-073",
+      "cardNumber": "073",
+      "volumeId": "vol-1",
+      "nameArabic": "سَعِيدُ بْنُ الْعَاصِ",
+      "nameTranslit": "Said ibn al-As",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-073-said-ibn-al-as.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-074",
+      "cardNumber": "074",
+      "volumeId": "vol-1",
+      "nameArabic": "جُلَيْبِيبٌ",
+      "nameTranslit": "Julaybib",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-074-julaybib.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه مفردًا في فهرس «الكتاب العاشر» كعنوان مستقل لصورة من حياته"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-075",
+      "cardNumber": "075",
+      "volumeId": "vol-1",
+      "nameArabic": "سَعْدُ بْنُ مُعَاذٍ",
+      "nameTranslit": "Sa'd ibn Mu'adh",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-075-sad-ibn-muadh.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-076",
+      "cardNumber": "076",
+      "volumeId": "vol-1",
+      "nameArabic": "شَدَّادُ بْنُ أَوْسٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Shaddad ibn Aws al-Ansari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-076-shaddad-ibn-aws-al-ansari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-077",
+      "cardNumber": "077",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ",
+      "nameTranslit": "Abdullah ibn az-Zubayr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-077-abdullah-ibn-az-zubayr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-078",
+      "cardNumber": "078",
+      "volumeId": "vol-1",
+      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو مَعَ خَالِدِ بْنِ الْوَلِيدِ",
+      "nameTranslit": "Al-Qa'qa' ibn Amr with Khalid ibn al-Walid",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-078-al-qaqa-ibn-amr-with-khalid-ibn-al-walid.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على تركيب العنوان",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذكر في الفهرس بعنوان مركب يشير إلى مواقفه مع خالد بن الوليد ضمن «الكتاب العاشر»",
+          "له كذلك عنوانان لاحقان في الفهرس عن القادسية (٧٩، ٨٠)، مما يدل على تعدد الصور من حياته"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-079",
+      "cardNumber": "079",
+      "volumeId": "vol-1",
+      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو «فِي الْقَادِسِيَّةِ»",
+      "nameTranslit": "Al-Qa'qa' ibn Amr (in al-Qadisiyyah)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-079-al-qaqa-ibn-amr-in-al-qadisiyyah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور؛ اقتصر الفهرس على ذكر اسمه وربطه بوقعة القادسية",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [
+          "القادسية"
+        ],
+        "distinctions": [
+          "ذُكر عنوانًا مستقلاً في فهرس «الكتاب العاشر» عن مواقفه في يوم القادسية"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-080",
+      "cardNumber": "080",
+      "volumeId": "vol-1",
+      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو «فِي الْقَادِسِيَّةِ أَيْضًا»",
+      "nameTranslit": "Al-Qa'qa' ibn Amr (in al-Qadisiyyah also)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-080-al-qaqa-ibn-amr-in-al-qadisiyyah-also.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور؛ العنوان يكمّل الصورة السابقة في نفس المعركة",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [
+          "القادسية"
+        ],
+        "distinctions": [
+          "عنوان ثانٍ متتابع في الفهرس لمواقف أخرى له في القادسية"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-081",
+      "cardNumber": "081",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو عُبَيْدِ بْنُ مَسْعُودٍ الثَّقَفِيُّ",
+      "nameTranslit": "Abu Ubayd ibn Mas'ud ath-Thaqafi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-081-abu-ubayd-ibn-masud-ath-thaqafi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-082",
+      "cardNumber": "082",
+      "volumeId": "vol-1",
+      "nameArabic": "الزُّبَيْرُ بْنُ الْعَوَّامِ",
+      "nameTranslit": "Az-Zubayr ibn al-Awwam",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-082-az-zubayr-ibn-al-awwam.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-083",
+      "cardNumber": "083",
+      "volumeId": "vol-1",
+      "nameArabic": "سِمَاكُ بْنُ خَرَشَةَ",
+      "nameTranslit": "Simak ibn Kharashah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-083-simak-ibn-kharashah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-084",
+      "cardNumber": "084",
+      "volumeId": "vol-1",
+      "nameArabic": "خَالِدُ بْنُ الْوَلِيدِ",
+      "nameTranslit": "Khalid ibn al-Walid",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-084-khalid-ibn-al-walid.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-085",
+      "cardNumber": "085",
+      "volumeId": "vol-1",
+      "nameArabic": "الْمُثَنَّى بْنُ حَارِثَةَ الشَّيْبَانِيُّ",
+      "nameTranslit": "Al-Muthanna ibn Harithah ash-Shaybani",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-085-al-muthanna-ibn-harithah-ash-shaybani.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-086",
+      "cardNumber": "086",
+      "volumeId": "vol-1",
+      "nameArabic": "سَلَمَةُ بْنُ الأَكْوَعِ",
+      "nameTranslit": "Salamah ibn al-Akwa'",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-086-salamah-ibn-al-akwa.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-087",
+      "cardNumber": "087",
+      "volumeId": "vol-1",
+      "nameArabic": "أَبُو بَصِيرٍ عُتْبَةُ بْنُ أُسَيْدٍ",
+      "nameTranslit": "Abu Basir Utbah ibn Usayd",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-087-abu-basir-utbah-ibn-useyd.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور",
+        "battles": [],
+        "distinctions": [
+          "ذُكرت كنيته واسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-088",
+      "cardNumber": "088",
+      "volumeId": "vol-1",
+      "nameArabic": "زَيْدُ بْنُ سُعْنَةَ",
+      "nameTranslit": "Zayd ibn Su'nah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-088-zayd-ibn-sunah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "أسلم بعد تأمُّلٍ وتتبعٍ طويل لأخبار الرسول ﷺ وعلامات نبوته كما جاء في القصة",
+        "conversionOrder": "غير مذكور برقم أو ترتيب معين",
+        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "battles": [],
+        "distinctions": [
+          "كان من أحبار اليهود في يثرب يستمع إلى حبرهم ابن الهيبان القادم من الشام",
+          "تأثر بحديث ابن الهيبان عن قرب ظهور نبيٍّ تكون يثرب دار هجرته ومنطلق دعوته",
+          "تتبّع أوصاف النبي المنتظر في كتبهم، ثم راقب رسول الله ﷺ وتتبعه حتى رأى فيه جميع علامات النبوة إلا اثنتين",
+          "اختبر حلم النبي ﷺ وسماحته بنفسه بقصة الدين المشهورة حتى تبيّن له صدق النبوة فأسلم"
+        ],
+        "scholarlyRole": [
+          "من أحبار اليهود قبل إسلامه"
+        ],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "يُذكر في كتب السيرة ضمن شواهد تحقق صفات النبي المذكورة في كتب أهل الكتاب"
+        }
+      }
+    },
+    {
+      "id": "sc-089",
+      "cardNumber": "089",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الْخَطَّابِ",
+      "nameTranslit": "Abdullah ibn Umar ibn al-Khattab",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-089-abdullah-ibn-umar-ibn-al-khattab.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن النماذج المختارة من الصحابة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-090",
+      "cardNumber": "090",
+      "volumeId": "vol-1",
+      "nameArabic": "طُلَيْحَةُ بْنُ خُوَيْلِدٍ الأَسَدِيُّ",
+      "nameTranslit": "Tulayhah ibn Khuwaylid al-Asadi",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-090-tulayhah-ibn-khuwaylid-al-asadi.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-091",
+      "cardNumber": "091",
+      "volumeId": "vol-1",
+      "nameArabic": "عُبَادَةُ بْنُ الصَّامِتِ",
+      "nameTranslit": "Ubadah ibn as-Samit",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-091-ubadah-ibn-as-samit.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-092",
+      "cardNumber": "092",
+      "volumeId": "vol-1",
+      "nameArabic": "يَزِيدُ بْنُ أَبِي سُفْيَانَ",
+      "nameTranslit": "Yazid ibn Abi Sufyan",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-092-yazid-ibn-abi-sufyan.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-093",
+      "cardNumber": "093",
+      "volumeId": "vol-1",
+      "nameArabic": "الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ",
+      "nameTranslit": "Al-Abbas ibn Abd al-Muttalib",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-093-al-abbas-ibn-abd-al-muttalib.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-094",
+      "cardNumber": "094",
+      "volumeId": "vol-1",
+      "nameArabic": "أَنَسُ بْنُ النَّضْرِ النَّجَّارِيُّ",
+      "nameTranslit": "Anas ibn an-Nadr an-Najjari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-094-anas-ibn-an-nadr-an-najjari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في النص الظاهر",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-095",
+      "cardNumber": "095",
+      "volumeId": "vol-1",
+      "nameArabic": "رَافِعُ بْنُ عُمَيْرٍ الطَّائِيُّ",
+      "nameTranslit": "Rafi' ibn Umayr at-Tai",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-095-rafi-ibn-umayr-at-tai.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-096",
+      "cardNumber": "096",
+      "volumeId": "vol-1",
+      "nameArabic": "عُثْمَانُ بْنُ مَظْعُونٍ",
+      "nameTranslit": "Uthman ibn Maz'un",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-096-uthman-ibn-mazun.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-097",
+      "cardNumber": "097",
+      "volumeId": "vol-1",
+      "nameArabic": "كَعْبُ بْنُ مَالِكٍ",
+      "nameTranslit": "Ka'b ibn Malik",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-097-kab-ibn-malik.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-098",
+      "cardNumber": "098",
+      "volumeId": "vol-1",
+      "nameArabic": "تَمِيمُ الدَّارِيِّ",
+      "nameTranslit": "Tamim ad-Dari",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-098-tamim-ad-dari.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه ونسبته",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "battles": [],
+        "distinctions": [
+          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-099",
+      "cardNumber": "099",
+      "volumeId": "vol-1",
+      "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يُنَاضِلُ الرِّيَاحَ السَّافِيَاتِ فِي الرُّبْعِ الْخَالِي»",
+      "nameTranslit": "Al-Ala' ibn al-Hadrami (fighting the sweeping winds in the Empty Quarter)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-099-al-ala-ibn-al-hadrami-empty-quarter.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ ركز العنوان على مواقفه في الربع الخالي",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "battles": [],
+        "distinctions": [
+          "خصّه المؤلف بثلاث صور متتابعة من حياته (٩٩–١٠١) مما يدل على عِظَم دوره الجهادي",
+          "هذا العنوان يبرز صبره وجهاده في بيئة الصحراء والربع الخالي"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-100",
+      "cardNumber": "100",
+      "volumeId": "vol-1",
+      "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يُحَارِبُ الْمُرْتَدِّينَ فِي الْبَحْرَيْنِ»",
+      "nameTranslit": "Al-Ala' ibn al-Hadrami (fighting the apostates in al-Bahrayn)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-100-al-ala-ibn-al-hadrami-in-bahrayn.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في الفهرس؛ تركز القصة على جهاده بعد الردة",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [],
+        "distinctions": [
+          "قائد جيوش المسلمين في حرب المرتدين في البحرين كما يذكر سياق القصة",
+          "حرَّر البحرين وأعادها إلى حوزة الإسلام كما في خاتمة المعركة مع الحَطَم",
+          "أعمل السيوف في جند المرتدين حتى حلّ بهم شر مستطير وهزيمة ماحقة",
+          "قتَل جند المسلمين قائد المرتدين الحَطَم في المعركة التي قادها العلاء"
+        ],
+        "scholarlyRole": [
+          "قائد جيش في قتال المرتدين"
+        ],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-101",
+      "cardNumber": "101",
+      "volumeId": "vol-1",
+      "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يَغْزُو البَحْرَ»",
+      "nameTranslit": "Al-Ala' ibn al-Hadrami (attacking by sea)",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-101-al-ala-ibn-al-hadrami-sea-raid.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "غير مذكور في الفهرس؛ القصة تركز على جهاده بعد قتال الردة",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "غير مذكور هنا",
+        "battles": [
+          "دارين"
+        ],
+        "distinctions": [
+          "قائد غزوة دارين البحرية ضد المرتدين المعتصمين بجزيرة دارين",
+          "ابتكر خطة عبور البحر بلا سفن مع جيش من أبناء الصحراء الذين لم يألفوا ركوب البحر",
+          "خطب في الجند مذكِّرًا بآيات الله التي رأوها في الصحراء ليقوي يقينهم بآياته في البحر",
+          "قاد الجيش لعبور الخليج على ظهور الإبل والخيل حتى غزا المرتدين في دارين",
+          "ضُرب به المثل في التوكل والشجاعة والإقدام في سبيل الله"
+        ],
+        "scholarlyRole": [
+          "قائد جيش، وخطيب يشحذ عزائم الجند"
+        ],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-102",
+      "cardNumber": "102",
+      "volumeId": "vol-1",
+      "nameArabic": "الْمُغِيرَةُ بْنُ شُعْبَةَ",
+      "nameTranslit": "Al-Mughira ibn Shu'bah",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-102-al-mughira-ibn-shubah.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "من أوائل مسلمة الطائف تقريبًا؛ النص في هذا الكتاب يركز على جهاده ودهائه يوم القادسية ومفاوضته لملك الفرس",
+        "conversionOrder": "غير مذكور برقم",
+        "hijrahStatus": "مذكور في كتب التراجم من أهل الطائف المهاجرين، لكن النص هنا لا يتعرض للهجرة صراحة",
+        "battles": [
+          "القادسية"
+        ],
+        "distinctions": [
+          "أحد دُهَاة العرب الأربعة عند الشعبي، اختير لمفاوضة عظيم الفرس يوم القادسية",
+          "خطب بين يدي ملك فارس مبيِّنًا حقيقة رسالة الإسلام وغاية الجهاد",
+          "مثّل المسلمين أبلغ تمثيل في وصف جاهليتهم السابقة وكيف نقلهم الإسلام إلى العزة والعدل",
+          "كان حاضر البديهة سريع الجواب، حتى لُقّب في القصة بـ«مغيرة الرأي»"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور في هذا الموضع",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "يُذكر ضمن فرسان الدعوة الذين شرحوا للإمبراطوريات الكبرى حقيقة الإسلام"
+        }
+      }
+    },
+    {
+      "id": "sc-103",
+      "cardNumber": "103",
+      "volumeId": "vol-1",
+      "nameArabic": "مُعَاذُ بْنُ عَمْرِو بْنِ الْجَمُوحِ وَأَخُوهُ مُعَوَّذٌ",
+      "nameTranslit": "Mu'adh ibn Amr ibn al-Jamuh and his brother Mu'awwidh",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-103-muadh-muawwith-ibn-amr-ibn-al-jamuh.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "أسلما في المدينة على يد مصعب بن عمير قبل الهجرة أو في أوائلها، وهما من فتية الأنصار",
+        "conversionOrder": "من أوائل شباب الأنصار الداخلين في الإسلام",
+        "hijrahStatus": "أنصاريان من أهل المدينة، فهما من أهل الدار والنصرة لا من المهاجرين",
+        "battles": [
+          "بدر"
+        ],
+        "distinctions": [
+          "اهتديا إلى الإسلام معًا بعد مجلس مع مصعب بن عمير عند الماء والظلال",
+          "من أبطال بدر، اشتهرا بضرب أبي جهل حتى صرعاه في المعركة",
+          "امتازا بشدة غيرتهما على رسول الله ﷺ، حتى تمنى عبد الرحمن بن عوف أن يكون في موضعهما حول النبي",
+          "القصة تُبرز سرعة فقه معاذ وفهمه لمعاني الطهارة والصلاة منذ أول لحظة للإسلام"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور هنا",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "من شباب الأنصار الذين حملوا القرآن والجهاد معًا مبكرًا"
+        }
+      }
+    },
+    {
+      "id": "sc-104",
+      "cardNumber": "104",
+      "volumeId": "vol-1",
+      "nameArabic": "مُصْعَبُ بْنُ عُمَيْرٍ",
+      "nameTranslit": "Mus'ab ibn Umayr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-104-musab-ibn-umayr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "من السابقين الأولين في مكة، هاجر إلى الحبشة ثم إلى المدينة",
+        "conversionOrder": "من أوائل من أسلم من شباب قريش",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم أول سفير للإسلام في المدينة قبل الهجرة الكبرى",
+        "battles": [
+          "بدر",
+          "أحد"
+        ],
+        "distinctions": [
+          "أول سفير في الإسلام إذ بعثه النبي ﷺ إلى المدينة يعلّم أهلها القرآن والصلاة",
+          "كان سببًا في إسلام كثير من الأنصار ومنهم معاذ ومعوّذ وعمرو بن الجموح",
+          "حمل لواء المسلمين يوم أحد واستشهد وهو قابض على الراية",
+          "ضرب المؤلف به المثل في الزهد بعد ترف، وفي التضحية الكاملة للدعوة"
+        ],
+        "scholarlyRole": [
+          "داعية ومعلّم للقرآن في المدينة"
+        ],
+        "narrationsTier": "غير مذكور عدد مروياته هنا",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "حامل دعوة القرآن إلى يثرب قبل الهجرة، ومقرئ لأهلها"
+        }
+      }
+    },
+    {
+      "id": "sc-105",
+      "cardNumber": "105",
+      "volumeId": "vol-1",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ عَتِيكٍ",
+      "nameTranslit": "Abdullah ibn Atik",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-105-abdullah-ibn-atik.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "أنصاري أسلم في المدينة، النص في الكتاب يركّز على بطولته في سرية قتل أبي رافع",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "أنصاري لا هجرة له من مكة",
+        "battles": [],
+        "distinctions": [
+          "قائد أو رأس في السرية التي خرجت لقتل أبي رافع اليهودي عدو المسلمين",
+          "اشتهر بجرأته في التسلل إلى حصن العدو وتنفيذ المهمة ثم النجاة مع إصابته",
+          "يُضرب به المثل في الشجاعة والإقدام والعمل الاستخباري في السيرة",
+          "قصة الكتاب تبرز صبره على الجراح وثباته حتى أتم مهمته"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور هنا",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-106",
+      "cardNumber": "106",
+      "volumeId": "vol-1",
+      "nameArabic": "الْمِقْدَادُ بْنُ عَمْرٍو",
+      "nameTranslit": "Al-Miqdad ibn Amr",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-106-al-miqdad-ibn-amr.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "من السابقين إلى الإسلام بمكة، هاجر إلى الحبشة ثم إلى المدينة",
+        "conversionOrder": "من أوائل من أسلموا بعد الطبقة الأولى من السابقين",
+        "hijrahStatus": "مهاجر، شهد الهجرة والنصرة",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق"
+        ],
+        "distinctions": [
+          "من أوائل من قاتل على فرس في سبيل الله يوم بدر",
+          "مشهور بقوله للنبي ﷺ في بدر: لن نقول لك كما قالت بنو إسرائيل لموسى، بل امض ونحن معك",
+          "مثَّل في السيرة مثال الجندي المؤمن الذي يملأ قلب القائد طمأنينة ويقينًا",
+          "القصة في الكتاب تبرز شجاعته وصدقه في النصرة وعدم التردد في البذل"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور هنا",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": "من رموز الثبات مع القرآن والجهاد في بدر"
+        }
+      }
+    },
+    {
+      "id": "sc-107",
+      "cardNumber": "107",
+      "volumeId": "vol-1",
+      "nameArabic": "عَمْرُو بْنُ أُمَيَّةَ الضَّمْرِيُّ",
+      "nameTranslit": "Amr ibn Umayyah ad-Damri",
+      "laqab": [],
+      "gender": "sahabi",
+      "file": "sc-107-amr-ibn-umayyah-ad-damri.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "أسلم في المدينة أو قريبًا منها وبرز في المهمات الخاصة",
+        "conversionOrder": "غير مذكور",
+        "hijrahStatus": "مذكور في كتب السيرة ضمن أصحاب المهمات السرّية، وليس من مشاهير المهاجرين الأوائل",
+        "battles": [],
+        "distinctions": [
+          "اشتهر بتنفيذ المهام الخاصة والسرية في السيرة النبوية",
+          "شارك في تتبّع قتلة أصحاب الرجيع والانتقام لهم",
+          "ضرب المؤلف به المثل في الجرأة والإقدام منفردًا خلف خطوط العدو",
+          "القصة تبرز سرعة بديهته في الخلاص من المواقف الحرجة"
+        ],
+        "scholarlyRole": [],
+        "narrationsTier": "غير مذكور",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": null,
+          "specialRole": null
+        }
+      }
+    },
+    {
+      "id": "sc-108",
+      "cardNumber": "108",
+      "volumeId": "vol-1",
+      "nameArabic": "يَوْمُ الرَّجِيعِ وَاسْتِشْهَادُ السِّتَّةِ الْأَبْرَارِ",
+      "nameTranslit": "The Day of al-Raji' and the martyrdom of the six righteous",
+      "laqab": [],
+      "gender": "mixed",
+      "file": "sc-108-yawm-al-raji-ashab.json",
+      "completeness": "partial",
+      "profile": {
+        "conversionEra": "الستة من خيار الصحابة الذين أسلموا مبكرًا وبرزوا في تعليم الناس القرآن",
+        "conversionOrder": "غير محدد لكل واحد في النص، لكنهم من أهل السبق والفضل",
+        "hijrahStatus": "من المهاجرين والأنصار الذين ندبهم النبي ﷺ لتعليم قبائل العرب",
+        "battles": [
+          "سرية الرجيع (غزوة/سرية دعوية انتهت بالغدر)"
+        ],
+        "distinctions": [
+          "خرجوا دعاةً ومقرئين للقرآن إلى قبائل العرب، فغُدر بهم في موضع الرجيع",
+          "ضربوا أروع الأمثلة في الثبات على العقيدة عند العَرْض عليهم أن يرجعوا عن دينهم",
+          "القصة تبرز مواقف خبيب بن عدي وزيد بن الدثنة وغيرهما حين خُيِّروا بين الرجوع عن الإسلام أو القتل",
+          "يُجسِّد هذا اليوم صورة من صور التضحية بالدعوة والتعليم ولو كلّف ذلك أرواحهم"
+        ],
+        "scholarlyRole": [
+          "معلّمو قرآن، ودعاة مبعوثون من النبي ﷺ"
+        ],
+        "narrationsTier": "غير مذكور لكل واحد",
+        "narrationCount": null,
+        "quranRelation": {
+          "hafiz": true,
+          "specialRole": "بعثهم النبي ﷺ ليعلّموا الناس كتاب الله ويقرئوهم إياه"
+        }
+      }
+    }
+  ]
+}
