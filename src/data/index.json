@@ -2,7 +2,7 @@
   "_meta": {
     "schemaVersion": "2.0",
     "fileType": "index",
-    "totalCompanions": 8,
+    "totalCompanions": 108,
     "lastUpdated": "2026-03-01"
   },
   "companions": [
@@ -12,40 +12,24 @@
       "volumeId": "vol-1",
       "nameArabic": "أَنَسُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
       "nameTranslit": "Anas ibn Malik al-Ansari",
-      "laqab": [
-        "خَادِمُ رَسُولِ اللَّهِ",
-        "أَبُو حَمْزَة"
-      ],
+      "laqab": [],
       "gender": "sahabi",
       "file": "sc-001-anas-ibn-malik-al-ansari.json",
-      "completeness": "full",
+      "completeness": "partial",
       "profile": {
-        "conversionEra": "مدني قبل الهجرة النبوية إلى المدينة بقليل (أسلم مع أمه من أوائل أنصار المدينة)",
-        "conversionOrder": "من صغار الأنصار السابقين إلى الإسلام",
-        "hijrahStatus": "أنصاري (استقبل المهاجرين وخدم النبي بعد الهجرة)",
-        "battles": [
-          "أحد",
-          "الخندق",
-          "خيبر",
-          "فتح مكة",
-          "حنين",
-          "الطائف",
-          "تبوك"
-        ],
+        "conversionEra": "مدني",
+        "conversionOrder": "من صغار الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [],
         "distinctions": [
-          "من صغار الصحابة وأكثرهم ملازمة للنبي عشر سنين",
-          "خادم النبي ﷺ",
-          "من المكثرين في رواية الحديث",
-          "دعا له النبي ﷺ بطول العمر وكثرة المال والولد",
-          "شهد له جمع من الصحابة بالعلم والفضل"
+          "خادم رسول الله عشر سنين",
+          "من المكثرين في رواية الحديث"
         ],
         "scholarlyRole": [
-          "محدّث",
-          "فقيه",
-          "معلّم"
+          "محدث"
         ],
         "narrationsTier": "مكثر",
-        "narrationCount": 2286,
+        "narrationCount": 2280,
         "quranRelation": {
           "hafiz": true,
           "specialRole": "من رواة بعض أسباب النزول والقراءات عن النبي ﷺ"
@@ -56,26 +40,31 @@
       "id": "sc-002",
       "cardNumber": "002",
       "volumeId": "vol-1",
-      "nameArabic": "سَعِيدُ بْنُ عَامِرٍ الجُمَحِيُّ",
+      "nameArabic": "سَعِيدُ بْنُ عَامِرٍ الْجُمَحِيُّ",
       "nameTranslit": "Said ibn Amir al-Jumahi",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-002-said-ibn-amir-al-jumahi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي",
+        "conversionOrder": "",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "حمص",
+          "حروب الردة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "والي حمص في خلافة عمر",
+          "من الزهاد",
+          "من الذين يؤثرون على أنفسهم ولو كانت بهم خصاصة"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -90,19 +79,24 @@
       "file": "sc-003-at-tufayl-ibn-amr-ad-dawsi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي قبل الهجرة",
+        "conversionOrder": "سيد دوس ومن كبراء العرب",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "اليمامة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "سيد قبيلة دوس",
+          "استجيب دعاء النبي فجعل الله له آية النور",
+          "أسلم على يديه كثير من قومه",
+          "الشهيد وأبو الشهيد"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "حفظ ما تيسر له من القرآن بمكة"
         }
       }
     },
@@ -117,19 +111,23 @@
       "file": "sc-004-abdullah-ibn-hudhafa-as-sahmi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "",
+        "conversionOrder": "",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "غزوات الروم"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "رسول النبي إلى كسرى ملك الفرس",
+          "أُسر عند الروم وثبت على دينه",
+          "قال فيه عمر: حق على كل مسلم أن يقبل رأس عبد الله بن حذافة"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -137,26 +135,28 @@
       "id": "sc-005",
       "cardNumber": "005",
       "volumeId": "vol-1",
-      "nameArabic": "عُمَيْرُ بْنُ وَهْبٍ",
-      "nameTranslit": "Umayr ibn Wahb",
+      "nameArabic": "عُمَيْرُ بْنُ وَهْبٍ الْجُمَحِيُّ",
+      "nameTranslit": "Umayr ibn Wahb al-Jumahi",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-005-umayr-ibn-wahb.json",
+      "file": "sc-005-umayr-ibn-wahb-al-jumahi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "بعد بدر",
+        "conversionOrder": "",
+        "hijrahStatus": "مهاجر",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "كان من أشد الناس أذى للمسلمين ثم أسلم",
+          "قال فيه عمر: لقد غدا عمير أحب إلي من بعض أبنائي",
+          "أسلم على يديه خلق كثير من أهل مكة"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "تعلم القرآن بعد إسلامه"
         }
       }
     },
@@ -171,19 +171,24 @@
       "file": "sc-006-al-bara-ibn-malik-al-ansari.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (بالنسبة للنسبة الظاهرة في الاسم فقط)",
-        "battles": [],
+        "conversionEra": "مدني",
+        "conversionOrder": "",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "حروب الردة",
+          "اليمامة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "قتل مائة من المشركين مبارزة",
+          "من أشجع فرسان الأنصار",
+          "كتب عمر إلى عماله ألا يولوه جيشًا مخافة أن يهلك جنوده بإقدامه"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -191,26 +196,28 @@
       "id": "sc-007",
       "cardNumber": "007",
       "volumeId": "vol-1",
-      "nameArabic": "ثُمَامَةُ بْنُ أُثَالٍ",
-      "nameTranslit": "Thumamah ibn Uthal",
+      "nameArabic": "ثُمَامَةُ بْنُ أُثَالٍ الْحَنَفِيُّ",
+      "nameTranslit": "Thumamah ibn Uthal al-Hanafi",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-007-thumamah-ibn-uthal.json",
+      "file": "sc-007-thumamah-ibn-uthal-al-hanafi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "",
+        "hijrahStatus": "من أهل اليمامة",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "سيد بني حنيفة",
+          "ملك من ملوك اليمامة",
+          "أول من فرض الحصار الاقتصادي على قريش بقطع الحنطة عنها"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -225,19 +232,26 @@
       "file": "sc-008-abu-ayyub-al-ansari.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (بالنسبة للنسبة الظاهرة في الاسم فقط)",
-        "battles": [],
+        "conversionEra": "مدني قبل الهجرة (من الأنصار)",
+        "conversionOrder": "",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد الكبرى"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "نزل النبي في بيته عند الهجرة",
+          "من كبار الأنصار وأهل البيعة",
+          "شارك في الجهاد حتى الشام والقسطنطينية"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "متوسط",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -245,26 +259,30 @@
       "id": "sc-009",
       "cardNumber": "009",
       "volumeId": "vol-1",
-      "nameArabic": "عَمْرُو بْنُ الْجَمُوحِ",
-      "nameTranslit": "Amr ibn al-Jamuh",
+      "nameArabic": "عَمْرُو بْنُ الْجَمُوحِ الأَنْصَارِيُّ",
+      "nameTranslit": "Amr ibn al-Jamuh al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-009-amr-ibn-al-jamuh.json",
+      "file": "sc-009-amr-ibn-al-jamuh-al-ansari.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مدني قبل أُحد",
+        "conversionOrder": "",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "أحد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "من سادة الخزرج",
+          "كان أعرج ومع ذلك أصر على الخروج في أحد",
+          "استشهد في أحد ودفن مع عبد الله بن عمرو بن حرام"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -272,26 +290,31 @@
       "id": "sc-010",
       "cardNumber": "010",
       "volumeId": "vol-1",
-      "nameArabic": "عَبْدُ اللَّهِ بْنُ جَحْشٍ",
-      "nameTranslit": "Abdullah ibn Jahsh",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ جَحْشٍ الأَسَدِيُّ",
+      "nameTranslit": "Abdullah ibn Jahsh al-Asadi",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-010-abdullah-ibn-jahsh.json",
+      "file": "sc-010-abdullah-ibn-jahsh-al-asadi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي قبل الهجرة",
+        "conversionOrder": "من أوائل المهاجرين إلى الحبشة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "أحد",
+          "سرايا قبل بدر"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الأول» ضمن نماذج الصحابة المختارة"
+          "رئيس سرية نخلة قبل بدر",
+          "من أوائل المهاجرين إلى الحبشة",
+          "استشهد يوم أحد"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -306,36 +329,37 @@
       ],
       "gender": "sahabi",
       "file": "sc-011-abu-ubaydah-ibn-al-jarrah.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "من السابقين الأولين؛ أسلم في اليوم التالي لإسلام أبي بكر على يديه",
-        "conversionOrder": "من أوائل من أقيم عليهم صرح الإسلام؛ كان مع عبد الرحمن بن عوف وعثمان بن مظعون والأرقم بن أبي الأرقم أول قواعد الإسلام",
-        "hijrahStatus": "مهاجر قرشي فهري عايش اضطهاد مكة كله ثم شهد الهجرة وما بعدها",
+        "conversionEra": "مكي قبل دار الأرقم",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر",
         "battles": [
           "بدر",
-          "أحد"
+          "أحد",
+          "الخندق",
+          "خيبر",
+          "فتح مكة",
+          "حنين",
+          "تبوك",
+          "اليرموك"
         ],
         "distinctions": [
-          "أمين هذه الأمة بنص حديث النبي",
-          "من السابقين الأولين إلى الإسلام",
-          "شهد بدرا وأبلى فيها بلاء عظيما",
-          "قتل أباه عبد الله بن الجراح في بدر دفاعا عن دينه",
-          "نزل فيه وفي أبيه قرآن من سورة المجادلة في مفاصلة أهل الإيمان مع من يحادّ الله ورسوله",
-          "من العشرة الذين أحاطوا بالنبي يوم أحد يذودون عنه",
-          "اقتلع حلقات درع النبي من وجنته بأسنانه يوم أحد حتى سقطت ثناياه وصار أهتم",
-          "شهد مع النبي المشاهد كلها حتى وفاته",
-          "اختاره النبي ليحكم بين وفد من النصارى ووصفه بالقوي الأمين",
-          "كان يجمع القوة والأمانة، ويقود السرايا في الشدائد مع قلة الزاد",
-          "رغِب فيه عمر يوم السقيفة للخلافة لِما علم من أمانته"
+          "من العشرة المبشرين بالجنة",
+          "من السابقين الأولين",
+          "من أهل بدر",
+          "من أهل بيعة الرضوان",
+          "أمين هذه الأمة",
+          "قائد جيوش الشام في خلافة أبي بكر وعمر"
         ],
         "scholarlyRole": [
-          "أمير سرايا",
-          "قاضٍ بين الوفود بأمر النبي"
+          "قائد",
+          "فقيه"
         ],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 14,
         "quranRelation": {
-          "hafiz": null,
+          "hafiz": false,
           "specialRole": "ورد بشأن موقفه مع أبيه سبب نزول آية من سورة المجادلة في الولاء والبراء"
         }
       }
@@ -349,21 +373,34 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-012-abdullah-ibn-masud.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي قبل دار الأرقم",
+        "conversionOrder": "من أوائل من أسلم",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من السابقين الأولين",
+          "بدري",
+          "من كبار القراء",
+          "من فقهاء الصحابة",
+          "ملازم للنبي في السفر والحضر"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "مقرئ",
+          "راوي حديث"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 848,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أشهر من تلقى الناس عنهم القراءة والفقه في القرآن"
         }
       }
     },
@@ -376,21 +413,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-013-salman-al-farisi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الخندق",
+        "conversionOrder": "من موالي النبي ومن السابقين من المهاجرين إلى المدينة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "الخندق",
+          "سائر المشاهد بعد الهجرة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من أهل بيت النبي بالانتماء الروحي",
+          "صاحب فكرة حفر الخندق",
+          "ضرب به المثل في الزهد والعلم"
+        ],
+        "scholarlyRole": [
+          "زاهد",
+          "داعية"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 60,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -403,21 +448,27 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-014-ikrima-ibn-abi-jahl.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد فتح مكة",
+        "conversionOrder": "أسلم عام الفتح بعد أن كان من أشد الناس على الإسلام",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "اليرموك",
+          "اليمامة",
+          "سائر الفتوح"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "قائد مجاهد بعد إسلامه",
+          "استشهد في اليرموك أو ما بعدها",
+          "من أمثلة التحول من عداوة الإسلام إلى نصرته"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 6,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -425,26 +476,30 @@
       "id": "sc-015",
       "cardNumber": "015",
       "volumeId": "vol-1",
-      "nameArabic": "زَيْدُ الْخَيْرِ",
-      "nameTranslit": "Zayd al-Khayr",
-      "laqab": [],
+      "nameArabic": "زَيْدُ الْخَيْرِ الطَّائِيُّ",
+      "nameTranslit": "Zayd al-Khayr at-Tai",
+      "laqab": [
+        "زَيْدُ الْخَيْرِ"
+      ],
       "gender": "sahabi",
-      "file": "sc-015-zayd-al-khayr.json",
+      "file": "sc-015-zayd-al-khayr-at-tai.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "أسلم في وفد طيئ",
+        "hijrahStatus": "وفد من الأعراب",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "سماه النبي زيد الخير بدل زيد الخيل",
+          "من أجواد العرب وفرسانهم",
+          "أسلم وجاء بقومه إلى النبي"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -457,21 +512,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-016-adi-ibn-hatim-at-tai.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "أسلم بعد فتح كثير من بلاد العرب",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "حروب الردة",
+          "الفتوح"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "ابن حاتم الطائي المشهور بالكرم",
+          "ضرب به المثل في الانتقال من النصرانية إلى الإسلام",
+          "كان من أمراء القبائل في الفتوح"
+        ],
+        "scholarlyRole": [
+          "داعية",
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 80,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -479,26 +542,33 @@
       "id": "sc-017",
       "cardNumber": "017",
       "volumeId": "vol-1",
-      "nameArabic": "أَبُو ذَرٍّ الغِفَارِيُّ",
+      "nameArabic": "أَبُو ذَرٍّ الْغِفَارِيُّ",
       "nameTranslit": "Abu Dharr al-Ghifari",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-017-abu-dharr-al-ghifari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من أوائل من أسلم من خارج مكة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "غزوات بعد الهجرة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من أزهد الصحابة",
+          "ضرب المثل بصدقه وصراحته في الحق",
+          "من أوائل من جهر بالإسلام في مكة"
+        ],
+        "scholarlyRole": [
+          "زاهد",
+          "واعظ"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 281,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -511,21 +581,26 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-018-abdullah-ibn-umm-maktum.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في المقطع الظاهر، إنما ورد اسمه في فهرس الكتاب الثاني",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي",
+        "conversionOrder": "من أوائل المسلمين من الضعفاء",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "القادسية (حاملاً للواء)",
+          "بعض المغازي"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "الأعمى الذي نزل فيه صدر سورة عبس",
+          "كان مؤذنًا مع بلال",
+          "استخلفه النبي على المدينة في بعض غزواته"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "ارتبط اسمه بسبب نزول سورة عبس"
         }
       }
     },
@@ -533,26 +608,31 @@
       "id": "sc-019",
       "cardNumber": "019",
       "volumeId": "vol-1",
-      "nameArabic": "مُجَزَّأَةُ بْنُ ثَوْرٍ السَّدُوسِيُّ",
+      "nameArabic": "مَجْزَأَةُ بْنُ ثَوْرٍ السَّدُوسِيُّ",
       "nameTranslit": "Mujazzah ibn Thawr as-Sadusi",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-019-mujazzah-ibn-thawr-as-sadusi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "",
+        "hijrahStatus": "من أهل العراق/القبائل",
+        "battles": [
+          "الأهواز",
+          "تستر"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "سيد بني بكر وأميرهم المطاع",
+          "قتل مائة من المشركين مبارزة",
+          "كان على ميسرة جيش أبي موسى في فتح الأهواز وتستر"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -560,26 +640,36 @@
       "id": "sc-020",
       "cardNumber": "020",
       "volumeId": "vol-1",
-      "nameArabic": "أُسَيْدُ بْنُ الْخُضَيْرِ",
-      "nameTranslit": "Usayd ibn al-Hudayr",
+      "nameArabic": "أُسَيْدُ بْنُ الْحُضَيْرِ الأَنْصَارِيُّ",
+      "nameTranslit": "Usayd ibn al-Hudayr al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-020-usayd-ibn-al-hudayr.json",
-      "completeness": "partial",
+      "file": "sc-020-usayd-ibn-al-hudayr-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة بقليل",
+        "conversionOrder": "من نقباء الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من سادات الأوس ونقبائها",
+          "من القراء",
+          "كان جبريل ينزل لقراءة القرآن معه كما في الأثر"
+        ],
+        "scholarlyRole": [
+          "مقرئ",
+          "فقيه"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 20,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من قراء الأنصار المشهورين"
         }
       }
     },
@@ -589,24 +679,39 @@
       "volumeId": "vol-1",
       "nameArabic": "عَبْدُ اللَّهِ بْنُ عَبَّاسٍ",
       "nameTranslit": "Abdullah ibn Abbas",
-      "laqab": [],
+      "laqab": [
+        "تَرْجُمَانُ الْقُرْآنِ",
+        "حَبْرُ الْأُمَّةِ"
+      ],
       "gender": "sahabi",
       "file": "sc-021-abdullah-ibn-abbas.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "طفل في مكة قبل الهجرة",
+        "conversionOrder": "من صغار الصحابة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "حنين",
+          "الطائف",
+          "سائر المشاهد بعد الفتح"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "ابن عم النبي",
+          "حبر الأمة",
+          "ترجمان القرآن",
+          "إمام في التفسير والفقه",
+          "مرجع كبار الصحابة في مسائل القرآن"
+        ],
+        "scholarlyRole": [
+          "مفسر",
+          "فقيه",
+          "محدث"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 1660,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "إمام المفسرين، وعمدة الصحابة في تفسير القرآن"
         }
       }
     },
@@ -619,21 +724,27 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-022-an-numan-ibn-muqarrin-al-muzani.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "أسلم هو وإخوته",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "القادسية",
+          "نهاوند",
+          "الفتوح بفارس"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "قائد المسلمين في معركة نهاوند",
+          "من فرسان الصحابة",
+          "استشهد في سبيل الله في نهاوند"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -641,26 +752,36 @@
       "id": "sc-023",
       "cardNumber": "023",
       "volumeId": "vol-1",
-      "nameArabic": "صُهَيْبُ الرُّومِيُّ",
+      "nameArabic": "صُهَيْبٌ الرُّومِيُّ",
       "nameTranslit": "Suhaib ar-Rumi",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-023-suhaib-ar-rumi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من المستضعفين بمكة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من السابقين الأولين",
+          "ترك ماله لقريش ليلحق بالنبي مهاجرًا",
+          "أحد الثلاثة الذين أقبلوا على النبي في مكة (عمار وبلال وصهيب)",
+          "أَمَّ الناس في الصلاة أيامًا بعد وفاة عمر حتى بويع عثمان"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 30,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -669,25 +790,36 @@
       "cardNumber": "024",
       "volumeId": "vol-1",
       "nameArabic": "أَبُو الدَّرْدَاءِ",
-      "nameTranslit": "Abu ad-Darda",
+      "nameTranslit": "Abu Darda",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-024-abu-ad-darda.json",
-      "completeness": "partial",
+      "file": "sc-024-abu-darda.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني بعد أُحد تقريبًا",
+        "conversionOrder": "",
+        "hijrahStatus": "أنصاري أو حليف الأنصار",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "اليرموك",
+          "الفتوح في الشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من كبار القراء والفقهاء بالشام",
+          "ضرب به المثل في الزهد والعلم",
+          "له مدرسة علمية في دمشق"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "مقرئ",
+          "محدث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 170,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أئمة تعليم القرآن في الشام"
         }
       }
     },
@@ -697,24 +829,33 @@
       "volumeId": "vol-1",
       "nameArabic": "زَيْدُ بْنُ حَارِثَةَ",
       "nameTranslit": "Zayd ibn Harithah",
-      "laqab": [],
+      "laqab": [
+        "حِبُّ رَسُولِ اللَّهِ"
+      ],
       "gender": "sahabi",
       "file": "sc-025-zayd-ibn-harithah.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي قبل البعثة بقليل (في كفالة النبي)",
+        "conversionOrder": "من أوائل من أسلم من الموالي",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "سرايا عدة",
+          "مؤتة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "حِبُّ رسول الله ومتبناه سابقًا",
+          "أول قائد في غزوة مؤتة",
+          "من السابقين الأولين"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -723,25 +864,37 @@
       "cardNumber": "026",
       "volumeId": "vol-1",
       "nameArabic": "أُسَامَةُ بْنُ زَيْدٍ",
-      "nameTranslit": "Usamah ibn Zayd",
-      "laqab": [],
+      "nameTranslit": "Usama ibn Zayd",
+      "laqab": [
+        "حِبُّ رَسُولِ اللَّهِ وَابْنُ حِبِّهِ"
+      ],
       "gender": "sahabi",
-      "file": "sc-026-usamah-ibn-zayd.json",
-      "completeness": "partial",
+      "file": "sc-026-usama-ibn-zayd.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني في طفولته",
+        "conversionOrder": "من صغار الصحابة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "أحد (وهو صغير)",
+          "الحديبية",
+          "فتح مكة",
+          "حنين",
+          "سرايا الشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "قائد جيش كبير بعثه النبي إلى الروم وهو شاب",
+          "حِبُّ رسول الله وابن حبه",
+          "ضرب به المثل في تجاوز الفروق العرقية"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 30,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -754,21 +907,28 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-027-said-ibn-zayd.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع من الكتاب، إنما ورد اسمه في فهرس «الكتاب الثالث»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر (تبعه النبي في الطريق فردّه)",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "من العشرة المبشرين بالجنة",
+          "زوج فاطمة بنت الخطاب أخت عمر",
+          "من السابقين الأولين"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 48,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -776,26 +936,32 @@
       "id": "sc-028",
       "cardNumber": "028",
       "volumeId": "vol-1",
-      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ «فِي صِغَرِهِ»",
-      "nameTranslit": "Umayr ibn Sa'd (in youth)",
-      "laqab": [],
+      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Umayr ibn Sa'd al-Ansari",
+      "laqab": [
+        "نَسِيجُ وَحْدِهِ"
+      ],
       "gender": "sahabi",
-      "file": "sc-028-umayr-ibn-sad-youth.json",
-      "completeness": "partial",
+      "file": "sc-028-umayr-ibn-saad-youth.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور؛ عنوان الفصل يركّز على مرحلة صغره",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مدني قبل تبوك",
+        "conversionOrder": "من صغار الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "تبوك"
+        ],
         "distinctions": [
-          "اختيرت له حلقة خاصة في الكتاب بعنوان «في صغره» مما يدل على إبراز مواقفه في الطفولة"
+          "شهد نزول آية في شأن الجلاس بن سويد",
+          "مثال في الصدق والأمانة في صغره",
+          "شهد له النبي بقوله: «وَفَّتْ أُذُنُكَ ما سمعت»"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "ارتبط اسمه بنزول آية من سورة التوبة في المنافقين"
         }
       }
     },
@@ -803,26 +969,35 @@
       "id": "sc-029",
       "cardNumber": "029",
       "volumeId": "vol-1",
-      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ «فِي كِبَرِهِ»",
-      "nameTranslit": "Umayr ibn Sa'd (in old age)",
-      "laqab": [],
+      "nameArabic": "عُمَيْرُ بْنُ سَعْدٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Umayr ibn Sa'd al-Ansari",
+      "laqab": [
+        "نَسِيجُ وَحْدِهِ"
+      ],
       "gender": "sahabi",
-      "file": "sc-029-umayr-ibn-sad-old-age.json",
-      "completeness": "partial",
+      "file": "sc-029-umayr-ibn-saad-adulthood.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور؛ عنوان الفصل يركّز على مرحلة كبره",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "جُعلت له حلقة ثانية بعنوان «في كبره» استكمالًا لصورة حياته عبر العمر"
+        "conversionEra": "مدني قبل تبوك",
+        "conversionOrder": "من صغار الأنصار ثم ولاه عمر",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "فتوح الشام",
+          "غزوات في الجزيرة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "والي حمص في خلافة عمر",
+          "ضرب به المثل في الزهد والنزاهة في الولاية",
+          "قال عنه عمر: «وددت أن لي رجالًا مثل عمير بن سعد أستعين بهم في أعمال المسلمين»"
+        ],
+        "scholarlyRole": [
+          "داعية"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -830,27 +1005,42 @@
       "id": "sc-030",
       "cardNumber": "030",
       "volumeId": "vol-1",
-      "nameArabic": "عَبْدُ الرَّحْمَنِ بْنِ عَوْفٍ",
+      "nameArabic": "عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ",
       "nameTranslit": "Abd al-Rahman ibn Awf",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-030-abd-al-rahman-ibn-awf.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع العنوان؛ ذكره المؤلف لاحقًا في قصة أبي عبيدة ضمن السابقين",
-        "conversionOrder": "غير مذكور هنا كرقم ترتيب",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» كأحد النماذج البارزة من الصحابة",
-          "أشير إليه في خبر أبي عبيدة ضمن القواعد الأولى التي أقيم عليها صرح الإسلام"
+        "conversionEra": "مكي قبل دار الأرقم",
+        "conversionOrder": "من الثمانية السابقين إلى الإسلام",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "خيبر",
+          "فتح مكة",
+          "حنين",
+          "تبوك"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من العشرة المبشرين بالجنة",
+          "من أهل بدر",
+          "من أهل الشورى بعد عمر",
+          "من فقهاء الصحابة والمفتين في المدينة",
+          "أمّ النبي في ركعة من صلاة تبوك"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "راوي حديث",
+          "تاجر"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 140,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جاهد بماله في تجهيز جيش العسرة"
         }
       }
     },
@@ -860,24 +1050,31 @@
       "volumeId": "vol-1",
       "nameArabic": "جَعْفَرُ بْنُ أَبِي طَالِبٍ",
       "nameTranslit": "Ja'far ibn Abi Talib",
-      "laqab": [],
+      "laqab": [
+        "ذُو الْجَنَاحَيْنِ",
+        "الطَّيَّارُ"
+      ],
       "gender": "sahabi",
       "file": "sc-031-jafar-ibn-abi-talib.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم المدينة",
+        "battles": [
+          "مؤتة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+          "قائد في مؤتة واستشهد فيها",
+          "خطيب المهاجرين إلى النجاشي",
+          "أبدله الله جناحين في الجنة يطير بهما"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 6,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -885,26 +1082,33 @@
       "id": "sc-032",
       "cardNumber": "032",
       "volumeId": "vol-1",
-      "nameArabic": "أَبُو سُفْيَانَ بْنُ الْحَارِثِ",
-      "nameTranslit": "Abu Sufyan ibn al-Harith",
+      "nameArabic": "أَبُو سُفْيَانَ بْنُ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ",
+      "nameTranslit": "Abu Sufyan ibn al-Harith ibn Abd al-Muttalib",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-032-abu-sufyan-ibn-al-harith.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        "conversionEra": "عام الفتح",
+        "conversionOrder": "أسلم متأخرًا بعد عداوة شديدة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "حنين",
+          "الطائف"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "ابن عم النبي وأخوه من الرضاعة",
+          "تحول من شاعر يؤذي النبي إلى محب له ومجاهد بين يديه",
+          "ثبت في حنين يوم انهزم كثير من الناس"
+        ],
+        "scholarlyRole": [
+          "شاعر"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -917,21 +1121,32 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-033-sad-ibn-abi-waqqas.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا، مع أنه شريك لعبد الله بن جحش في قصة أُحد المذكورة سابقًا",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من أوائل من أسلم",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "الفتوح بالعراق",
+          "القادسية"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من العشرة المبشرين بالجنة",
+          "أول من رمى بسهم في سبيل الله",
+          "قائد المسلمين في القادسية وفتح العراق"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 270,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -939,26 +1154,38 @@
       "id": "sc-034",
       "cardNumber": "034",
       "volumeId": "vol-1",
-      "nameArabic": "حُذَيْفَةُ بْنُ الْيَمَانِ صَاحِبُ …",
-      "nameTranslit": "Hudhayfah ibn al-Yaman (Sahib ...)",
-      "laqab": [],
+      "nameArabic": "حُذَيْفَةُ بْنُ الْيَمَانِ",
+      "nameTranslit": "Hudhayfah ibn al-Yaman",
+      "laqab": [
+        "صَاحِبُ سِرِّ رَسُولِ اللَّهِ"
+      ],
       "gender": "sahabi",
       "file": "sc-034-hudhayfah-ibn-al-yaman.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس؛ ذكر معه وصف مختصر «صاحب …» لم يكتمل في المقتطف الظاهر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» مع تلقيب مختصر يدل على شهرة خاصة"
+        "conversionEra": "مدني قبل بدر",
+        "conversionOrder": "من الأنصار حليفًا",
+        "hijrahStatus": "أنصاري حليف",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "الفتوح بالعراق"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "صاحب سر رسول الله في أسماء المنافقين",
+          "من أفقه الصحابة في أبواب الفتن",
+          "شهد المواقف العظيمة في الخندق وغيرها"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "محدث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 228,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -971,21 +1198,30 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-035-uqbah-ibn-amir-al-juhani.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الرابع» ضمن النماذج المختارة من الصحابة"
+        "conversionEra": "مدني بعد الهجرة",
+        "conversionOrder": "من كتاب الوحي وقراء الصحابة",
+        "hijrahStatus": "مهاجر أو من أهل المدينة",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "الفتوح بالشام ومصر"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من قراء القرآن",
+          "ولي إمارة على مصر أو الشام زمن الفتوح",
+          "كان من أهل الرواية والفقه"
+        ],
+        "scholarlyRole": [
+          "مقرئ",
+          "محدث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 163,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من رواة القرآن وتعليمه في الشام ومصر"
         }
       }
     },
@@ -1000,30 +1236,32 @@
       ],
       "gender": "sahabi",
       "file": "sc-036-bilal-ibn-rabah.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "من السابقين الأوَّلين؛ أسلم في أوائل الدعوة بمكة حين لم يكن على ظهر الأرض إلا هو وبضعة نفر من السابقين",
-        "conversionOrder": "من السابقين الأولين إلى الإسلام من المستضعفين",
-        "hijrahStatus": "مهاجر؛ هاجر إلى المدينة مع من هاجر ونزل مع أبي بكر وعامر بن فهر في بيت واحد",
-        "battles": [],
-        "distinctions": [
-          "مؤذن رسول الله ﷺ",
-          "قال فيه عمر: «أبو بكر سيدنا وأعتق سيدنا» يعني بلالا",
-          "من أشد الناس نضالًا وثباتًا في سبيل العقيدة رغم العذاب",
-          "كان مملوكًا لأيتام من بني عبد الدار في كنف أمية بن خلف أحد رؤوس الكفر",
-          "تعرض لأشد ألوان التعذيب في مكة من أمية وزبانيته وظل يردد: أحد أحد",
-          "كان من المستضعفين الذين نكلت بهم قريش لتجعلهم عبرة لمن يفكر في اتباع محمد",
-          "اشتراه أبو بكر الصديق من أمية بثمان أو تسع أواق من الذهب ثم أعتقه لله",
-          "شارك النبي في الهجرة، ولازمه في المدينة حتى صار ألزم له من ظله",
-          "حين أصيب بالحمى في المدينة كان يترنم بشعر يحن فيه إلى مكة وشعابها",
-          "ضرب أروع مثال في الاستعذاب بالعذاب في جنب الله وثبات التوحيد"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من أوائل المستضعفين إسلامًا",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور صريحًا في النص",
-        "narrationCount": null,
+        "distinctions": [
+          "أول مؤذن في الإسلام",
+          "من السابقين الأولين",
+          "من المهاجرين إلى الحبشة",
+          "من المكثرين في الجهاد مع النبي"
+        ],
+        "scholarlyRole": [
+          "مؤذن",
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 44,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "ارتبط اسمه بالأذان ورفع شعيرة التوحيد في مكة والمدينة"
+          "hafiz": false,
+          "specialRole": "صوته ارتبط بنداء الصلاة الذي يُقيم شعائر القرآن"
         }
       }
     },
@@ -1038,19 +1276,21 @@
       "file": "sc-037-habib-ibn-zayd-al-ansari.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس؛ يشار إليه كأنصاري",
-        "conversionOrder": "غير مذكور",
+        "conversionEra": "مدني",
+        "conversionOrder": "من صغار الأنصار",
         "hijrahStatus": "أنصاري",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "رسول النبي إلى مسيلمة الكذاب",
+          "قطّعه مسيلمة عضوًا عضوًا وهو ثابت على دينه",
+          "شهد له الصحابة بالصبر والثبات على التوحيد"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1063,21 +1303,32 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-038-abu-talhah-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس؛ يشار إليه كأنصاري",
-        "conversionOrder": "غير مذكور",
+        "conversionEra": "مدني قبل الهجرة بقليل",
+        "conversionOrder": "من سادات الأنصار",
         "hijrahStatus": "أنصاري",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "حنين",
+          "تبوك",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من أمهر رماة الأنصار",
+          "كان يقي النبي بنفسه في أحد",
+          "نزل في شأنه وفي أهل بيته آيات في الإنفاق"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 70,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "من أبرز المطبقين لآيات الجهاد والإنفاق"
         }
       }
     },
@@ -1090,21 +1341,25 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-039-wahshi-ibn-harb.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في هذا الموضع؛ اقتصر الفهرس على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد فتح مكة",
+        "conversionOrder": "أسلم بعد أن كان قاتل حمزة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "اليمامة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+          "قتل مسيلمة الكذاب في اليمامة",
+          "مثال على التوبة بعد كبيرة عظيمة",
+          "قصة إسلامه من أشهر قصص العفو النبوي"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 3,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1117,21 +1372,28 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-040-hakim-ibn-hizam.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        "conversionEra": "عام الفتح",
+        "conversionOrder": "أسلم متأخرًا من أشراف قريش",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "حنين",
+          "الطائف"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "كان من أجواد قريش في الجاهلية والإسلام",
+          "قال: ما بقي شيء في نفسي من الدنيا بعد الإسلام",
+          "ضرب المثل بورعه عن المال المشتبه"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 40,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1139,26 +1401,35 @@
       "id": "sc-041",
       "cardNumber": "041",
       "volumeId": "vol-1",
-      "nameArabic": "عَبَّادُ بْنُ بِشْرٍ",
+      "nameArabic": "عَبَّادُ بْنُ بَشْرٍ",
       "nameTranslit": "Abbad ibn Bishr",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-041-abbad-ibn-bishr.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        "conversionEra": "مدني",
+        "conversionOrder": "من الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "اليمامة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أحد القراء الذين أُنزل فيهم «يتلون آيات الله آناء الليل»",
+          "من أشجع المقاتلين في اليمامة",
+          "استشهد يوم اليمامة بعد أن أثخنته الجراح"
+        ],
+        "scholarlyRole": [
+          "مقرئ"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من قراء الأنصار وممن شهد لهم النبي بحسن التلاوة"
         }
       }
     },
@@ -1168,24 +1439,37 @@
       "volumeId": "vol-1",
       "nameArabic": "زَيْدُ بْنُ ثَابِتٍ الأَنْصَارِيُّ",
       "nameTranslit": "Zayd ibn Thabit al-Ansari",
-      "laqab": [],
+      "laqab": [
+        "تَرْجُمَانُ رَسُولِ اللَّهِ"
+      ],
       "gender": "sahabi",
       "file": "sc-042-zayd-ibn-thabit-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس",
-        "conversionOrder": "غير مذكور",
+        "conversionEra": "مدني قبل بدر بقليل",
+        "conversionOrder": "من صغار الأنصار",
         "hijrahStatus": "أنصاري",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+        "battles": [
+          "الخندق",
+          "غيرها من المغازي بعد صغره"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "كاتب وحي النبي",
+          "ترجمان رسول الله في العبرية والسريانية",
+          "رئيس لجنة جمع القرآن في عهد أبي بكر",
+          "من قادة نسخ المصاحف في عهد عثمان",
+          "مرجع الصحابة في الفرائض والمواريث"
+        ],
+        "scholarlyRole": [
+          "مقرئ",
+          "فقيه",
+          "كاتب وحي"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 92,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "رأس من جمعوا القرآن في عهد الصديق وطليعة من وزعوا المصاحف في زمن عثمان"
         }
       }
     },
@@ -1198,21 +1482,23 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-043-rabiah-ibn-kab.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في سطر الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "مدني",
+        "conversionOrder": "من فقراء أهل الصفة",
+        "hijrahStatus": "أنصاري أو حليف الأنصار",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الخامس» ضمن النماذج المختارة من الصحابة"
+          "خادم النبي ملازم له ليلًا ونهارًا",
+          "سأل النبي مرافقته في الجنة فأرشده إلى كثرة السجود",
+          "مثال في الزهد وإيثار الآخرة على الدنيا"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 3,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1220,28 +1506,32 @@
       "id": "sc-044",
       "cardNumber": "044",
       "volumeId": "vol-1",
-      "nameArabic": "ذُو الْبِجَادَيْنِ",
-      "nameTranslit": "Dhu al-Bijadayn",
+      "nameArabic": "ذُو الْبِجَادَيْنِ عَبْدُ اللَّهِ الْمُزَنِيُّ",
+      "nameTranslit": "Dhu al-Bijadayn Abdullah al-Muzani",
       "laqab": [
-        "ذو البجادين"
+        "ذُو الْبِجَادَيْنِ"
       ],
       "gender": "sahabi",
-      "file": "sc-044-dhu-al-bijadayn.json",
-      "completeness": "partial",
+      "file": "sc-044-dhu-al-bijadayn-abdullah-al-muzani.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على لقبه المشهور",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد الهجرة قبل تبوك",
+        "conversionOrder": "أول من أسلم من قومه في جبل ورقان",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "تبوك"
+        ],
         "distinctions": [
-          "ذُكر بلقبه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "هاجر إلى النبي وليس عليه إلا بجاد واحد فشقه نصفين",
+          "نبذه عمه وجرّده من ماله فآثر الآخرة على الدنيا",
+          "شهد له النبي والصحابة حين دفنه في تبوك"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1254,21 +1544,25 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-045-abu-al-as-ibn-al-rabi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "بعد الهجرة (بعد بدر وفتح مكة)",
+        "conversionOrder": "زوج زينب بنت رسول الله",
+        "hijrahStatus": "أدرك الهجرة متأخرًا",
+        "battles": [
+          "بدر (في صف المشركين قبل إسلامه)"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "ضرب به المثل في الوفاء والأمانة برد أموال قريش",
+          "أثنى عليه النبي لصدقه وأمانته بعد إسلامه",
+          "قصته مع زينب من أشهر قصص الوفاء الزوجي في السيرة"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1276,26 +1570,32 @@
       "id": "sc-046",
       "cardNumber": "046",
       "volumeId": "vol-1",
-      "nameArabic": "عَاصِمُ بْنُ ثَابِتٍ",
-      "nameTranslit": "Asim ibn Thabit",
+      "nameArabic": "عَاصِمُ بْنُ ثَابِتٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Asim ibn Thabit al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-046-asim-ibn-thabit.json",
-      "completeness": "partial",
+      "file": "sc-046-asim-ibn-thabit-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مدني",
+        "conversionOrder": "من الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "سرية الرجيع"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "من رماة بدر",
+          "أحد شهداء سرية الرجيع",
+          "حمت الدبر (النحل) جسده بعد قتله فلم تبلغه قريش"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1308,21 +1608,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-047-utbah-ibn-ghazwan.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين ومن المهاجرين إلى الحبشة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الفتوح بالعراق"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أول أمير للبصرة ومؤسس مسجدها",
+          "ضرب المثل بزهد وورع الولاة",
+          "من السابقين الأولين إلى الإسلام"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1330,26 +1638,31 @@
       "id": "sc-048",
       "cardNumber": "048",
       "volumeId": "vol-1",
-      "nameArabic": "نُعَيْمُ بْنُ مَسْعُودٍ",
-      "nameTranslit": "Nuaym ibn Masud",
+      "nameArabic": "نُعَيْمُ بْنُ مَسْعُودٍ الأَشْجَعِيُّ",
+      "nameTranslit": "Nuaym ibn Masud al-Ashja'i",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-048-nuaym-ibn-masud.json",
-      "completeness": "partial",
+      "file": "sc-048-nuaym-ibn-masud-al-ashjai.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "أثناء غزوة الخندق",
+        "conversionOrder": "أسلم سرًا في المدينة في أحرج أوقات الأحزاب",
+        "hijrahStatus": "مهاجر أو وافد على المدينة",
+        "battles": [
+          "الخندق",
+          "ما بعدها من مشاهد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "فرّق الله به بين الأحزاب يوم الخندق بالحيلة",
+          "مثال في نصرة الدين بالرأي والحكمة",
+          "قال له النبي: إنما أنت فينا رجل واحد فخذّل عنا ما استطعت"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1362,21 +1675,30 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-049-khabbab-ibn-al-aratt.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من أوائل من أسلم وعُذب في الله",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من أشد الصحابة بلاء في الله بمكة",
+          "صبر على العذاب بالنار والحديد",
+          "قال عمر: يرحم الله خبابًا، أسلم راغبًا وهاجر طائعًا وعاش مجاهدًا"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 32,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1391,19 +1713,25 @@
       "file": "sc-050-ar-rabi-ibn-ziyad-al-harithi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من أهل اليمن أو القبائل الداخلة في الإسلام",
+        "hijrahStatus": "من أهل الأمصار",
+        "battles": [
+          "الفتوح بخراسان أو المشرق"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أمير من أمراء الفتوح في المشرق",
+          "ضرب به المثل في عدل الولاة وزهدهم",
+          "كان يبكي من خشية الله في مناصبه"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1416,21 +1744,26 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-051-abdullah-ibn-salam.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "مدني بعد الهجرة",
+        "conversionOrder": "حَبْرٌ من أحبار اليهود ثم أسلم",
+        "hijrahStatus": "من أهل المدينة",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السادس» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "شهد له النبي بالجنة",
+          "كان من أعلم أهل الكتاب بالنبي قبل إسلامه",
+          "نزل فيه وفي أمثاله قوله تعالى: «قُلْ كَفَى بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ» على أحد الأقوال"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "عالم",
+          "محدث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 70,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "من أهل الكتاب الذين عرفوا صفة النبي في كتبهم ثم أسلموا"
         }
       }
     },
@@ -1443,21 +1776,26 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-052-khalid-ibn-said-ibn-al-as.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على ذكر اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم المدينة",
+        "battles": [
+          "مؤتة",
+          "فتوح الشام"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "رأى رؤيا دلّته على الإسلام فأسلم مبكرًا",
+          "من أوائل من هاجر إلى الحبشة",
+          "كان من قادة الأجناد في فتوح الشام"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1465,26 +1803,28 @@
       "id": "sc-053",
       "cardNumber": "053",
       "volumeId": "vol-1",
-      "nameArabic": "سِرَاقَةُ بْنُ مَالِكٍ",
-      "nameTranslit": "Suraqah ibn Malik",
+      "nameArabic": "سُرَاقَةُ بْنُ مَالِكٍ الْمُدْلِجِيُّ",
+      "nameTranslit": "Suraqah ibn Malik al-Mudliji",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-053-suraqah-ibn-malik.json",
-      "completeness": "partial",
+      "file": "sc-053-suraqah-ibn-malik-al-mudliji.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "conversionEra": "بعد الهجرة بقليل",
+        "conversionOrder": "كان في طلب النبي مهاجرًا ثم أسلم",
+        "hijrahStatus": "من أهل البادية ثم وافد إلى المدينة",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "تبِع النبي في الهجرة فساخت قوائم فرسه",
+          "بشّره النبي بسواري كسرى فنالها في عهد عمر",
+          "مثال لتحول العدو إلى ناصر للدين"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1493,25 +1833,30 @@
       "cardNumber": "054",
       "volumeId": "vol-1",
       "nameArabic": "فَيْرُوزُ الدَّيْلَمِيُّ",
-      "nameTranslit": "Fayruz ad-Daylami",
+      "nameTranslit": "Fayruz al-Daylami",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-054-fayruz-ad-daylami.json",
-      "completeness": "partial",
+      "file": "sc-054-fayruz-al-daylami.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "في اليمن في أواخر العهد النبوي",
+        "conversionOrder": "من أبناء الفرس في اليمن الذين أسلموا",
+        "hijrahStatus": "من أهل اليمن",
+        "battles": [
+          "قتال الأسود العنسي",
+          "حروب الردة"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "قاتل الأسود العنسي الكذاب",
+          "نعته النبي بالرجل المبارك من أهل بيت مباركين",
+          "كان من خيار المسلمين في اليمن"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1521,24 +1866,36 @@
       "volumeId": "vol-1",
       "nameArabic": "ثَابِتُ بْنُ قَيْسٍ الأَنْصَارِيُّ",
       "nameTranslit": "Thabit ibn Qays al-Ansari",
-      "laqab": [],
+      "laqab": [
+        "خَطِيبُ رَسُولِ اللَّهِ"
+      ],
       "gender": "sahabi",
       "file": "sc-055-thabit-ibn-qays-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (نسبةً إلى الأنصار المذكورة في الاسم)",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة (بيد مصعب بن عمير)",
+        "conversionOrder": "من أوائل الأنصار إسلامًا",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "سائر المشاهد",
+          "اليمامة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "خطيب رسول الله بين يدي الوفود",
+          "بشّره النبي بالشهادة والجنة",
+          "من أشجع قادة الأنصار في اليمامة",
+          "نُفِّذت وصيته بعد موته بخلاف غيره"
+        ],
+        "scholarlyRole": [
+          "خطيب"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 13,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "نزلت بسببه آيات من سورة الحجرات في رفع الصوت عند النبي على أحد الأقوال"
         }
       }
     },
@@ -1548,24 +1905,36 @@
       "volumeId": "vol-1",
       "nameArabic": "طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ التَّيْمِيُّ",
       "nameTranslit": "Talhah ibn Ubaydillah at-Taymi",
-      "laqab": [],
+      "laqab": [
+        "طَلْحَةُ الْخَيْرِ",
+        "طَلْحَةُ الْجُودِ"
+      ],
       "gender": "sahabi",
       "file": "sc-056-talhah-ibn-ubaydillah-at-taymi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من العشرة المبشرين بالجنة",
+          "وقى النبي بنفسه في أحد حتى شُلَّت يده",
+          "ضرب به المثل في الجود والإنفاق"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 39,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1574,25 +1943,31 @@
       "cardNumber": "057",
       "volumeId": "vol-1",
       "nameArabic": "أَبُو هُرَيْرَةَ الدَّوْسِيُّ",
-      "nameTranslit": "Abu Hurayrah ad-Dawsi",
+      "nameTranslit": "Abu Hurairah ad-Dawsi",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-057-abu-hurayrah-ad-dawsi.json",
-      "completeness": "partial",
+      "file": "sc-057-abu-hurairah-ad-dawsi.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على كنيته ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكرت كنيته في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "بعد خيبر",
+        "conversionOrder": "من فقراء أهل الصفة",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "ما بعد خيبر من المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أكثر الصحابة رواية للحديث",
+          "لازم النبي ملازمة شديدة للحفظ والرواية",
+          "دعا له النبي بالحفظ فلا ينسى"
+        ],
+        "scholarlyRole": [
+          "محدث"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 5374,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "نقل كثيرًا من سنن النبي المفسِّرة للقرآن"
         }
       }
     },
@@ -1607,19 +1982,23 @@
       "file": "sc-058-salamah-ibn-qays-al-ashjai.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من وفود القبائل إلى النبي",
+        "hijrahStatus": "من أهل البادية",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "شهد مع النبي بعض المشاهد أو البيعات",
+          "من رواة أحاديث في الجهاد وآداب القتال",
+          "له أثر في تبليغ أحكام الجهاد لقومه"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1627,26 +2006,37 @@
       "id": "sc-059",
       "cardNumber": "059",
       "volumeId": "vol-1",
-      "nameArabic": "مُعَاذُ بْنُ جَبَلٍ",
-      "nameTranslit": "Mu'adh ibn Jabal",
+      "nameArabic": "مُعَاذُ بْنُ جَبَلٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Muadh ibn Jabal al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-059-muadh-ibn-jabal.json",
-      "completeness": "partial",
+      "file": "sc-059-muadh-ibn-jabal-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب السابع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة بقليل",
+        "conversionOrder": "من نقباء الأنصار في بيعة العقبة",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أعلم الأمة بالحلال والحرام بشهادة النبي",
+          "بعثه النبي قاضيًا ومعلمًا إلى اليمن",
+          "من كبار القراء والفقهاء في القرآن والسنة"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "مقرئ",
+          "قاضٍ"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 157,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أئمة تعليم القرآن والفقه في حياة النبي وبعده"
         }
       }
     },
@@ -1654,26 +2044,32 @@
       "id": "sc-060",
       "cardNumber": "060",
       "volumeId": "vol-1",
-      "nameArabic": "آلُ يَاسِرٍ",
-      "nameTranslit": "Alu Yasir (the family of Yasir)",
+      "nameArabic": "آلُ يَاسِرٍ: يَاسِرٌ وَسُمَيَّةُ وَعَمَّارٌ",
+      "nameTranslit": "Ali Yasir: Yasir, Sumayyah, and Ammar",
       "laqab": [],
       "gender": "sahabi-family",
-      "file": "sc-060-alu-yasir.json",
-      "completeness": "partial",
+      "file": "sc-060-ali-yasir-family.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على عنوان «آل ياسر»",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر عنوان «آل ياسر» في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر قبل دار الأرقم",
+        "conversionOrder": "من أوائل من أسلم من الضعفاء",
+        "hijrahStatus": "مستضعفون بمكة؛ عمار هاجر إلى المدينة",
+        "battles": [
+          "لعمار: بدر، أحد، الخندق، حروب الفتنة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أول شهداء في الإسلام (ياسر وسمية)",
+          "قيل فيهم: «صبرًا آل ياسر فإن موعدكم الجنة»",
+          "عمار ممن بشر بالجنة بنصوص خاصة"
+        ],
+        "scholarlyRole": [
+          "لعمار: راوي حديث"
+        ],
+        "narrationsTier": "لعمار: متوسط",
+        "narrationCount": 62,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "نزل بشأن عمار قوله تعالى: «إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ» على أحد الأقوال"
         }
       }
     },
@@ -1682,25 +2078,31 @@
       "cardNumber": "061",
       "volumeId": "vol-1",
       "nameArabic": "سُهَيْلُ بْنُ عَمْرٍو",
-      "nameTranslit": "Suhail ibn Amr",
+      "nameTranslit": "Suhayl ibn Amr",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-061-suhail-ibn-amr.json",
-      "completeness": "partial",
+      "file": "sc-061-suhayl-ibn-amr.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "عام الفتح",
+        "conversionOrder": "من أشراف قريش وأسلم بعد طول عداوة",
+        "hijrahStatus": "من أهل مكة، ثم لحق بالصحابة",
+        "battles": [
+          "اليمامة أو اليرموك على الخلاف"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "خطيب قريش يوم الحديبية",
+          "صار من عباد الليل بعد إسلامه",
+          "ضرب به المثل في حسن الخاتمة بعد عداوة سابقة"
+        ],
+        "scholarlyRole": [
+          "خطيب"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1713,21 +2115,30 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-062-jabir-ibn-abdullah-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني صغير السن قبل بدر",
+        "conversionOrder": "من صغار الأنصار، أسلم مع أبيه",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "سائر المشاهد بعدهما"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من المكثرين في رواية الحديث",
+          "شهد بيعة العقبة مع أبيه وهو غلام",
+          "عاش بعد النبي زمنًا طويلًا فصار مرجعًا في العلم والحديث"
+        ],
+        "scholarlyRole": [
+          "محدث",
+          "فقيه"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 1540,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "نقل كثيرًا من أسباب النزول وأحكام القرآن"
         }
       }
     },
@@ -1736,25 +2147,34 @@
       "cardNumber": "063",
       "volumeId": "vol-1",
       "nameArabic": "سَالِمٌ مَوْلَى أَبِي حُذَيْفَةَ",
-      "nameTranslit": "Salim mawla Abi Hudhayfah",
+      "nameTranslit": "Salim Mawla Abi Hudhayfah",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-063-salim-mawla-abi-hudhayfah.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه وكونه مولى لأبي حذيفة",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين من الموالي",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "اليمامة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من القراء الذين أمر النبي بالأخذ عنهم",
+          "أمّ المهاجرين في قباء قبل قدوم النبي",
+          "استشهد في اليمامة وهو يحمل الراية"
+        ],
+        "scholarlyRole": [
+          "مقرئ"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أشهر من قرأ عليهم القرآن في صدر الإسلام"
         }
       }
     },
@@ -1764,24 +2184,39 @@
       "volumeId": "vol-1",
       "nameArabic": "عُثْمَانُ بْنُ عَفَّانَ",
       "nameTranslit": "Uthman ibn Affan",
-      "laqab": [],
+      "laqab": [
+        "ذُو النُّورَيْنِ"
+      ],
       "gender": "sahabi",
       "file": "sc-064-uthman-ibn-affan.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور هنا كرقم ترتيب",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم المدينة",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "الحديبية",
+          "فتح مكة",
+          "حنين"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "الخليفة الراشد الثالث",
+          "من العشرة المبشرين بالجنة",
+          "تزوج ابنتي النبي رقية ثم أم كلثوم",
+          "جمع الأمة على مصحف واحد",
+          "ضرب المثل في الحياء والجود"
+        ],
+        "scholarlyRole": [
+          "خليفة",
+          "فقيه"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 146,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "أمر بجمع المصاحف وتوحيد الرسم في خلافته"
         }
       }
     },
@@ -1794,21 +2229,30 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-065-amr-ibn-al-as.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في هذا الموضع",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثامن» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "قبل فتح مكة بقليل",
+        "conversionOrder": "أسلم في عام الحديبية أو بعدها بقليل",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "ذات السلاسل",
+          "اليرموك",
+          "فتح مصر"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "فاتح مصر وأول ولاتها في الإسلام",
+          "من دهاة العرب وقادتهم",
+          "انقلب من عدو شديد للإسلام إلى قائد من قادته"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "والي"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 39,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "أدخل القرآن وأحكامه إلى مصر مع الفتح"
         }
       }
     },
@@ -1816,26 +2260,31 @@
       "id": "sc-066",
       "cardNumber": "066",
       "volumeId": "vol-1",
-      "nameArabic": "أَبُو لُبَابَةَ",
-      "nameTranslit": "Abu Lubabah",
+      "nameArabic": "أَبُو لُبَابَةَ بْنُ عَبْدِ الْمُنْذِرِ الأَنْصَارِيُّ",
+      "nameTranslit": "Abu Lubabah ibn Abd al-Mundhir al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-066-abu-lubabah.json",
+      "file": "sc-066-abu-lubabah-ibn-abd-al-mundhir-al-ansari.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في موضع فهرس الكتاب التاسع؛ اقتصر على كنيته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مدني قبل الهجرة (من الأنصار)",
+        "conversionOrder": "من أهل بيعة العقبة",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق"
+        ],
         "distinctions": [
-          "ذُكرت كنيته في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "نزلت توبته في قصة بني قريظة حين ربط نفسه في سارية المسجد",
+          "من الأنصار الذين نصروا النبي وآووه"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "ارتبط اسمه بآيات التوبة في سياق بني قريظة على بعض الأقوال"
         }
       }
     },
@@ -1843,26 +2292,37 @@
       "id": "sc-067",
       "cardNumber": "067",
       "volumeId": "vol-1",
-      "nameArabic": "عَبْدُ اللَّهِ بْنُ رَوَاحَةَ",
-      "nameTranslit": "Abdullah ibn Rawahah",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ رَوَاحَةَ الأَنْصَارِيُّ",
+      "nameTranslit": "Abdullah ibn Rawahah al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-067-abdullah-ibn-rawahah.json",
-      "completeness": "partial",
+      "file": "sc-067-abdullah-ibn-rawahah-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة (بيعة العقبة)",
+        "conversionOrder": "من نقباء الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "خيبر",
+          "مؤتة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أحد أمراء جيش مؤتة الثلاثة واستشهد فيها",
+          "شاعر النبي وخطيبه في بعض المواطن",
+          "من السابقين من الأنصار وأهل البيعة"
+        ],
+        "scholarlyRole": [
+          "شاعر",
+          "داعية"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "كان يحث نفسه والناس بإنشاد الشعر في الجهاد وطاعة أوامر القرآن"
         }
       }
     },
@@ -1875,21 +2335,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-068-jarir-ibn-abdullah-al-bajali.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "بعد الهجرة (عام الوفود تقريبًا)",
+        "conversionOrder": "أسلم متأخرًا في وفد بجيلة",
+        "hijrahStatus": "وفد من أهل نجد/اليمن",
+        "battles": [
+          "هدم ذي الخلصة",
+          "حروب الردة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "كان يقال عنه: يوسف هذه الأمة لحسنه",
+          "بعثه النبي لهدم ذي الخلصة صنم دوس وخثعم",
+          "ضرب المثل بأمانته وصدق لهجته"
+        ],
+        "scholarlyRole": [
+          "راوي حديث",
+          "قائد"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 100,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "ساهم في إزالة معالم الشرك تطبيقًا لأوامر التوحيد في القرآن"
         }
       }
     },
@@ -1902,21 +2370,33 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-069-ubayy-ibn-kab-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة (بيعة العقبة)",
+        "conversionOrder": "من كتاب النبي ومن القراء الأولين",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "سيّد القرّاء بشهادة النبي",
+          "كاتب من كتّاب الوحي",
+          "من أعلم الصحابة بالقرآن وأحكامه",
+          "شهد له النبي بأن الله أمره أن يقرأ عليه سورة البينة"
+        ],
+        "scholarlyRole": [
+          "مقرئ",
+          "فقيه",
+          "كاتب وحي"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 164,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من الأئمة الأربعة الذين أمر النبي بالأخذ عنهم في القرآن"
         }
       }
     },
@@ -1925,25 +2405,30 @@
       "cardNumber": "070",
       "volumeId": "vol-1",
       "nameArabic": "مَيْسَرَةُ بْنُ مَسْرُوقٍ الْعَبْسِيُّ",
-      "nameTranslit": "Maysarah ibn Masruq al-Absi",
+      "nameTranslit": "Maysarah ibn Masruq al-Absī",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-070-maysarah-ibn-masruq-al-absi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من أهل الكوفة أو الجزيرة الداخلين في الإسلام",
+        "hijrahStatus": "من أهل الأمصار",
+        "battles": [
+          "الفتوح في العراق أو الشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من شجعان وقادة قبيلة عبس في صدر الإسلام",
+          "ارتبط اسمه ببعض الفتوح ونقل الآثار عن الصحابة"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -1953,24 +2438,33 @@
       "volumeId": "vol-1",
       "nameArabic": "حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ",
       "nameTranslit": "Hamzah ibn Abd al-Muttalib",
-      "laqab": [],
+      "laqab": [
+        "أَسَدُ اللَّهِ",
+        "أَسَدُ رَسُولِهِ",
+        "سَيِّدُ الشُّهَدَاءِ"
+      ],
       "gender": "sahabi",
       "file": "sc-071-hamzah-ibn-abd-al-muttalib.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مكي قبل الجهر بالدعوة بمدة",
+        "conversionOrder": "من أعلام بني هاشم",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر",
+          "أحد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "سيد الشهداء يوم أحد",
+          "أسد الله وأسد رسوله",
+          "كان لإسلامه أثر كبير في عزّة المسلمين بمكة"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جاهد بنفسه لنصرة الدعوة في بدايات نزول القرآن"
         }
       }
     },
@@ -1985,19 +2479,22 @@
       "file": "sc-072-abu-aqil-al-aniqi.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على كنيته ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مدني",
+        "conversionOrder": "من الأنصار أو حلفائهم",
+        "hijrahStatus": "أنصاري أو حليف",
+        "battles": [
+          "تبوك"
+        ],
         "distinctions": [
-          "ذُكرت كنيته في فهرس «الكتاب التاسع» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "من فقراء الصحابة الذين تصدقوا في جيش العسرة",
+          "نزل في قصته شيء من ذكر المتصدقين القليل والكثير في غزوة تبوك على بعض الروايات"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "مثال عملي لتطبيق آيات الإنفاق بحسب الاستطاعة"
         }
       }
     },
@@ -2005,26 +2502,30 @@
       "id": "sc-073",
       "cardNumber": "073",
       "volumeId": "vol-1",
-      "nameArabic": "سَعِيدُ بْنُ الْعَاصِ",
+      "nameArabic": "سَعِيدُ بْنُ العَاصِ",
       "nameTranslit": "Said ibn al-As",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-073-said-ibn-al-as.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "conversionEra": "بعد الفتح غالبًا",
+        "conversionOrder": "من بني أمية ومن صغار الصحابة",
+        "hijrahStatus": "من أهل مكة ثم المدينة",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "كان من أشراف قريش وعقلائهم",
+          "ولي المدينة في خلافة عثمان",
+          "ارتبط اسمه بجمع المصحف أو نشره في الأمصار في عهده على بعض الروايات"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "والي"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -2037,21 +2538,25 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-074-julaybib.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
+        "conversionEra": "مدني",
+        "conversionOrder": "من فقراء الصحابة وضعفائهم",
+        "hijrahStatus": "من أهل المدينة",
+        "battles": [
+          "أحد أو ما بعدها حيث استشهد"
+        ],
         "distinctions": [
-          "ذُكر اسمه مفردًا في فهرس «الكتاب العاشر» كعنوان مستقل لصورة من حياته"
+          "زوجه النبي امرأة من خيار الأنصار رغم فقره",
+          "استشهد بعد أن قتل عددًا من المشركين",
+          "قال النبي عنه: «هذا مني وأنا منه»"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "مثال لرفع قدر الضعفاء كما تقرره آيات القرآن"
         }
       }
     },
@@ -2059,26 +2564,35 @@
       "id": "sc-075",
       "cardNumber": "075",
       "volumeId": "vol-1",
-      "nameArabic": "سَعْدُ بْنُ مُعَاذٍ",
-      "nameTranslit": "Sa'd ibn Mu'adh",
+      "nameArabic": "سَعْدُ بْنُ مُعَاذٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Sa'd ibn Mu'adh al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-075-sad-ibn-muadh.json",
-      "completeness": "partial",
+      "file": "sc-075-sad-ibn-muadh-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة بقليل",
+        "conversionOrder": "سيد الأوس ونقيبهم",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "اهتز لموته عرش الرحمن",
+          "كان حكمه في بني قريظة موافقًا لحكم الله من فوق سبع سماوات",
+          "من أعظم من نصر الإسلام من الأنصار"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "حَكَم"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 30,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "حكمه في بني قريظة وافق الحكم الإلهي كما في نصوص السنة المرتبطة بأحكام القتال"
         }
       }
     },
@@ -2091,21 +2605,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-076-shaddad-ibn-aws-al-ansari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري (من النسبة المذكورة في الاسم)",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني",
+        "conversionOrder": "من الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بعض المشاهد مع النبي",
+          "الفتوح في الشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من رواة أحاديث عظيمة في الإخلاص والدعاء",
+          "شهد فتح بيت المقدس مع عمر",
+          "أقام بالشام مع القراء والعباد"
+        ],
+        "scholarlyRole": [
+          "محدث",
+          "واعظ"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 50,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "روى أدعية جامعة لمعاني القرآن كدعاء «اللهم إني أسألك الثبات في الأمر…»"
         }
       }
     },
@@ -2114,25 +2636,36 @@
       "cardNumber": "077",
       "volumeId": "vol-1",
       "nameArabic": "عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ",
-      "nameTranslit": "Abdullah ibn az-Zubayr",
+      "nameTranslit": "Abdullah ibn al-Zubayr",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-077-abdullah-ibn-az-zubayr.json",
-      "completeness": "partial",
+      "file": "sc-077-abdullah-ibn-al-zubayr.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب العاشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "ولد في الإسلام بالمدينة بعد الهجرة",
+        "conversionOrder": "من صغار الصحابة وأوائل مواليد المهاجرين بالمدينة",
+        "hijrahStatus": "مهاجر بالولادة",
+        "battles": [
+          "اليرموك",
+          "فتح إفريقيا",
+          "الجمل",
+          "صفين على الخلاف",
+          "قتاله للحجاج في مكة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أول مولود للمهاجرين في المدينة",
+          "ضرب به المثل في الشجاعة والعبادة",
+          "أقام دولة في الحجاز ناصر فيها ما اعتقده حقًا حتى قُتل عند الكعبة"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 83,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "التزم بإقامة شعائر القرآن في الحرمين زمن إمْرَته"
         }
       }
     },
@@ -2140,27 +2673,33 @@
       "id": "sc-078",
       "cardNumber": "078",
       "volumeId": "vol-1",
-      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو مَعَ خَالِدِ بْنِ الْوَلِيدِ",
-      "nameTranslit": "Al-Qa'qa' ibn Amr with Khalid ibn al-Walid",
+      "nameArabic": "القَعْقَاعُ بْنُ عَمْرٍو التَّمِيمِيُّ مَعَ خَالِدِ بْنِ الْوَلِيدِ",
+      "nameTranslit": "Al-Qa'qa' ibn Amr at-Tamimi (with Khalid ibn al-Walid)",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-078-al-qaqa-ibn-amr-with-khalid-ibn-al-walid.json",
-      "completeness": "partial",
+      "file": "sc-078-al-qaqaa-ibn-amr-with-khalid.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب العاشر؛ اقتصر على تركيب العنوان",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذكر في الفهرس بعنوان مركب يشير إلى مواقفه مع خالد بن الوليد ضمن «الكتاب العاشر»",
-          "له كذلك عنوانان لاحقان في الفهرس عن القادسية (٧٩، ٨٠)، مما يدل على تعدد الصور من حياته"
+        "conversionEra": "عام الوفود تقريبًا (السنة التاسعة للهجرة)",
+        "conversionOrder": "أسلم في وفد بني تميم أمام النبي",
+        "hijrahStatus": "من أهل البادية ثم من مجاهدي الأمصار",
+        "battles": [
+          "حروب الردة",
+          "فتوح العراق مع خالد بن الوليد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "قال فيه أبو بكر: «صوت القعقاع في الجيش خير من ألف فارس»",
+          "كان من أبطال الفتوح، لا يُهزم جيش فيه كما قال الصديق",
+          "ضرب المثل بشجاعته وحسن بلائه في اليرموك وحروب العراق"
+        ],
+        "scholarlyRole": [
+          "مجاهد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جاهد في نشر سلطان القرآن في العراق والشام"
         }
       }
     },
@@ -2168,28 +2707,34 @@
       "id": "sc-079",
       "cardNumber": "079",
       "volumeId": "vol-1",
-      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو «فِي الْقَادِسِيَّةِ»",
-      "nameTranslit": "Al-Qa'qa' ibn Amr (in al-Qadisiyyah)",
+      "nameArabic": "القَعْقَاعُ بْنُ عَمْرٍو فِي القَادِسِيَّةِ",
+      "nameTranslit": "Al-Qa'qa' ibn Amr in al-Qadisiyyah",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-079-al-qaqa-ibn-amr-in-al-qadisiyyah.json",
-      "completeness": "partial",
+      "file": "sc-079-al-qaqaa-ibn-amr-qadisiyyah-1.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور؛ اقتصر الفهرس على ذكر اسمه وربطه بوقعة القادسية",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "عام الوفود",
+        "conversionOrder": "من أشراف بني تميم",
+        "hijrahStatus": "مجاهد في الأمصار",
         "battles": [
-          "القادسية"
+          "القادسية",
+          "نهاوند",
+          "الفتوح في فارس"
         ],
         "distinctions": [
-          "ذُكر عنوانًا مستقلاً في فهرس «الكتاب العاشر» عن مواقفه في يوم القادسية"
+          "كان له أثر حاسم في نصر المسلمين في القادسية بخططه وشجاعته",
+          "من أشهر فرسان الإسلام في الفتوح",
+          "شارك في مواقف بطولية متكررة تُضرب بها الأمثال"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "مجاهد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "سهم بارز في كسر شوكة فارس وإعلاء كلمة القرآن"
         }
       }
     },
@@ -2197,28 +2742,33 @@
       "id": "sc-080",
       "cardNumber": "080",
       "volumeId": "vol-1",
-      "nameArabic": "الْقَعْقَاعُ بْنُ عَمْرٍو «فِي الْقَادِسِيَّةِ أَيْضًا»",
-      "nameTranslit": "Al-Qa'qa' ibn Amr (in al-Qadisiyyah also)",
+      "nameArabic": "القَعْقَاعُ بْنُ عَمْرٍو فِي القَادِسِيَّةِ أَيْضًا",
+      "nameTranslit": "Al-Qa'qa' ibn Amr in al-Qadisiyyah (again)",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-080-al-qaqa-ibn-amr-in-al-qadisiyyah-also.json",
-      "completeness": "partial",
+      "file": "sc-080-al-qaqaa-ibn-amr-qadisiyyah-2.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور؛ العنوان يكمّل الصورة السابقة في نفس المعركة",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
+        "conversionEra": "عام الوفود",
+        "conversionOrder": "من فرسان بني تميم",
+        "hijrahStatus": "مجاهد في الأمصار",
         "battles": [
-          "القادسية"
+          "القادسية",
+          "نهاوند"
         ],
         "distinctions": [
-          "عنوان ثانٍ متتابع في الفهرس لمواقف أخرى له في القادسية"
+          "تُسرد في هذا القسم مشاهد أخرى من بلائه في القادسية",
+          "جمع بين الشجاعة العسكرية وحكمة التخطيط",
+          "كان حضوره في المعركة سببًا في رفع معنويات الجيش الإسلامي"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "مجاهد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "إتمام فتح الطريق أمام انتشار القرآن في العراق وفارس"
         }
       }
     },
@@ -2226,26 +2776,33 @@
       "id": "sc-081",
       "cardNumber": "081",
       "volumeId": "vol-1",
-      "nameArabic": "أَبُو عُبَيْدِ بْنُ مَسْعُودٍ الثَّقَفِيُّ",
-      "nameTranslit": "Abu Ubayd ibn Mas'ud ath-Thaqafi",
+      "nameArabic": "أَبُو عُبَيْدٍ بْنُ مَسْعُودٍ الثَّقَفِيُّ",
+      "nameTranslit": "Abu Ubayd ibn Masud ath-Thaqafi",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-081-abu-ubayd-ibn-masud-ath-thaqafi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من أشراف ثقيف الذين أسلموا متأخرين",
+        "hijrahStatus": "من أهل الطائف ثم مجاهد في الأمصار",
+        "battles": [
+          "الجسر",
+          "بعض وقائع العراق الأولى"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أول أمير كبير على جيش العراق في عهد عمر",
+          "استشهد يوم الجسر وهو يقاتل الفرس",
+          "ضرب به المثل في الشجاعة والصبر على البلاء"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "قاد جيوش المسلمين لفتح بلاد تُقام فيها شعائر القرآن"
         }
       }
     },
@@ -2255,24 +2812,39 @@
       "volumeId": "vol-1",
       "nameArabic": "الزُّبَيْرُ بْنُ الْعَوَّامِ",
       "nameTranslit": "Az-Zubayr ibn al-Awwam",
-      "laqab": [],
+      "laqab": [
+        "حَوَارِيُّ رَسُولِ اللَّهِ"
+      ],
       "gender": "sahabi",
       "file": "sc-082-az-zubayr-ibn-al-awwam.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم المدينة",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "فتح مكة",
+          "حنين",
+          "اليرموك"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من العشرة المبشرين بالجنة",
+          "حواري رسول الله",
+          "من أهل بدر وبيعة الرضوان",
+          "من أهل الشورى بعد عمر"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 38,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": ""
         }
       }
     },
@@ -2280,26 +2852,35 @@
       "id": "sc-083",
       "cardNumber": "083",
       "volumeId": "vol-1",
-      "nameArabic": "سِمَاكُ بْنُ خَرَشَةَ",
-      "nameTranslit": "Simak ibn Kharashah",
-      "laqab": [],
+      "nameArabic": "سِمَاكُ بْنُ خَرَشَةَ أَبُو دُجَانَةَ الأَنْصَارِيُّ",
+      "nameTranslit": "Simak ibn Kharashah Abu Dujanah al-Ansari",
+      "laqab": [
+        "أَبُو دُجَانَةَ"
+      ],
       "gender": "sahabi",
-      "file": "sc-083-simak-ibn-kharashah.json",
-      "completeness": "partial",
+      "file": "sc-083-simak-ibn-kharashah-abu-dujanah-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مدني قبل الهجرة بقليل",
+        "conversionOrder": "من الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+          "أخذ سيف النبي يوم أحد على أن يفي بحقه",
+          "احتمى عليه النبي بجسده في أحد",
+          "اشتهر برباط العصابة الحمراء في القتال"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "مثال في تطبيق آيات الجهاد والثبات"
         }
       }
     },
@@ -2309,24 +2890,36 @@
       "volumeId": "vol-1",
       "nameArabic": "خَالِدُ بْنُ الْوَلِيدِ",
       "nameTranslit": "Khalid ibn al-Walid",
-      "laqab": [],
+      "laqab": [
+        "سَيْفُ اللَّهِ الْمَسْلُولُ"
+      ],
       "gender": "sahabi",
       "file": "sc-084-khalid-ibn-al-walid.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        "conversionEra": "بعد الحديبية وقبل فتح مكة",
+        "conversionOrder": "أسلم بعد أن كان من قادة الشرك",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "مؤتة",
+          "حنين",
+          "حروب الردة",
+          "اليرموك",
+          "فتوح العراق والشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "لقبه النبي سيف الله المسلول",
+          "أدار أعظم معارك الردة والفتوح",
+          "لم يهزم له جيش في قيادته المعروفة"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 9,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "فتح الله على يديه بلادًا واسعة دخلها القرآن"
         }
       }
     },
@@ -2334,26 +2927,33 @@
       "id": "sc-085",
       "cardNumber": "085",
       "volumeId": "vol-1",
-      "nameArabic": "الْمُثَنَّى بْنُ حَارِثَةَ الشَّيْبَانِيُّ",
+      "nameArabic": "المُثَنَّى بْنُ حَارِثَةَ الشَّيْبَانِيُّ",
       "nameTranslit": "Al-Muthanna ibn Harithah ash-Shaybani",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-085-al-muthanna-ibn-harithah-ash-shaybani.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من سادات بكر بن وائل",
+        "hijrahStatus": "من أهل البادية ثم قائد في الأمصار",
+        "battles": [
+          "الفتوح الأولى في العراق قبل القادسية",
+          "معارك مع الفرس"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "أحد واضعي أساس فتح العراق قبل مجيء خالد",
+          "اشتهر بحسن تدبيره في الكر والفر",
+          "من أعلام قيادة الجيوش في صدر الإسلام"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "هيأ الله به الطريق لدخول القرآن بلاد العراق"
         }
       }
     },
@@ -2366,21 +2966,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-086-salamah-ibn-al-akwa.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+        "conversionEra": "مدني",
+        "conversionOrder": "من الأنصار أو حلفائهم",
+        "hijrahStatus": "من أهل المدينة",
+        "battles": [
+          "خيبر",
+          "ذات الرقاع",
+          "غيرها من المغازي"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "من أمهر الرماة والعدائين في الصحابة",
+          "لحق المشركين في غزوة ذي قَرَد فردّ الإبل وحده تقريبًا",
+          "أردفه النبي خلفه على ناقته العضباء إكرامًا له"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 77,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جهاده صورة عملية لطاعة أوامر القرآن في النفير والجهاد"
         }
       }
     },
@@ -2388,26 +2996,30 @@
       "id": "sc-087",
       "cardNumber": "087",
       "volumeId": "vol-1",
-      "nameArabic": "أَبُو بَصِيرٍ عُتْبَةُ بْنُ أُسَيْدٍ",
-      "nameTranslit": "Abu Basir Utbah ibn Usayd",
+      "nameArabic": "أَبُو بَصِيرٍ عُتْبَةُ بْنُ أَسِيدٍ",
+      "nameTranslit": "Abu Basir Utbah ibn Asid",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-087-abu-basir-utbah-ibn-useyd.json",
-      "completeness": "partial",
+      "file": "sc-087-abu-basir-utbah-ibn-asid.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الحادي عشر",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور",
-        "battles": [],
+        "conversionEra": "مكي مبكر من المستضعفين",
+        "conversionOrder": "من المؤمنين الذين حُبسوا عن الهجرة",
+        "hijrahStatus": "لجأ إلى ساحل البحر بين مكة والمدينة بعد الحديبية",
+        "battles": [
+          "سرايا اعتراض قوافل قريش بعد الحديبية"
+        ],
         "distinctions": [
-          "ذُكرت كنيته واسمه في فهرس «الكتاب الحادي عشر» ضمن نماذج الصحابة المختارة"
+          "كان سببًا في اختبار بنود صلح الحديبية",
+          "كوّن مع المستضعفين الخارجين من مكة قوة تضغط على قريش",
+          "قال فيه النبي: «ويل أمه مسعر حرب لو كان معه رجال»"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "قصته متعلِّقة بآيات سورة الفتح وأحكام العهود"
         }
       }
     },
@@ -2415,31 +3027,30 @@
       "id": "sc-088",
       "cardNumber": "088",
       "volumeId": "vol-1",
-      "nameArabic": "زَيْدُ بْنُ سُعْنَةَ",
-      "nameTranslit": "Zayd ibn Su'nah",
+      "nameArabic": "زَيْدُ بْنُ سَعْنَةَ",
+      "nameTranslit": "Zayd ibn Sa'nah",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-088-zayd-ibn-sunah.json",
-      "completeness": "partial",
+      "file": "sc-088-zayd-ibn-saunah.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "أسلم بعد تأمُّلٍ وتتبعٍ طويل لأخبار الرسول ﷺ وعلامات نبوته كما جاء في القصة",
-        "conversionOrder": "غير مذكور برقم أو ترتيب معين",
-        "hijrahStatus": "غير مذكور في النص الظاهر",
+        "conversionEra": "مدني بعد الهجرة",
+        "conversionOrder": "حَبْرٌ من أحبار اليهود ثم أسلم",
+        "hijrahStatus": "من أهل المدينة",
         "battles": [],
         "distinctions": [
-          "كان من أحبار اليهود في يثرب يستمع إلى حبرهم ابن الهيبان القادم من الشام",
-          "تأثر بحديث ابن الهيبان عن قرب ظهور نبيٍّ تكون يثرب دار هجرته ومنطلق دعوته",
-          "تتبّع أوصاف النبي المنتظر في كتبهم، ثم راقب رسول الله ﷺ وتتبعه حتى رأى فيه جميع علامات النبوة إلا اثنتين",
-          "اختبر حلم النبي ﷺ وسماحته بنفسه بقصة الدين المشهورة حتى تبيّن له صدق النبوة فأسلم"
+          "اختبر صفات النبي التي في التوراة فأسلم",
+          "قصة ملازمته للنبي في الدَّيْن المشهورة",
+          "من أحبار أهل الكتاب الذين صدقوا برسالة محمد"
         ],
         "scholarlyRole": [
-          "من أحبار اليهود قبل إسلامه"
+          "عالم"
         ],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "يُذكر في كتب السيرة ضمن شواهد تحقق صفات النبي المذكورة في كتب أهل الكتاب"
+          "hafiz": false,
+          "specialRole": "مثال لأهل الكتاب الذين عرفوا النبي بصفته في كتبهم"
         }
       }
     },
@@ -2452,21 +3063,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-089-abdullah-ibn-umar-ibn-al-khattab.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن النماذج المختارة من الصحابة في هذا الجزء"
+        "conversionEra": "مكي صغير السن قبل الهجرة",
+        "conversionOrder": "من صغار الصحابة وأبوه عمر",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "الخندق",
+          "بعض المغازي بعد البلوغ"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "distinctions": [
+          "من أكثر الصحابة اتباعًا للسنة عملًا",
+          "من فقهاء الصحابة في المدينة",
+          "ضرب به المثل في الورع والتثبت في الفتوى"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "محدث"
+        ],
+        "narrationsTier": "مكثر",
+        "narrationCount": 2630,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "كثير الرواية للأحاديث المبينة لأحكام القرآن"
         }
       }
     },
@@ -2475,25 +3094,31 @@
       "cardNumber": "090",
       "volumeId": "vol-1",
       "nameArabic": "طُلَيْحَةُ بْنُ خُوَيْلِدٍ الأَسَدِيُّ",
-      "nameTranslit": "Tulayhah ibn Khuwaylid al-Asadi",
+      "nameTranslit": "Tulayah ibn Khuwaylid al-Asadi",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-090-tulayhah-ibn-khuwaylid-al-asadi.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
+        "conversionEra": "أسلم ثم ارتد ثم عاد إلى الإسلام",
+        "conversionOrder": "ادعى النبوة في الردة ثم تاب ورجع مسلمًا",
+        "hijrahStatus": "من أهل البادية ثم مجاهد مع المسلمين",
+        "battles": [
+          "اليرموك",
+          "القادسية",
+          "نهاوند"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "من فرسان بني أسد",
+          "بعد توبته أبلَى بلاءً حسنًا في الفتوح",
+          "مثال على التوبة النصوح بعد انحراف شديد"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "تجربته مع الردة والرجوع للإسلام متصلة بآيات التوبة"
         }
       }
     },
@@ -2501,26 +3126,37 @@
       "id": "sc-091",
       "cardNumber": "091",
       "volumeId": "vol-1",
-      "nameArabic": "عُبَادَةُ بْنُ الصَّامِتِ",
-      "nameTranslit": "Ubadah ibn as-Samit",
+      "nameArabic": "عُبَادَةُ بْنُ الصَّامِتِ الأَنْصَارِيُّ",
+      "nameTranslit": "Ubadah ibn as-Samit al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-091-ubadah-ibn-as-samit.json",
-      "completeness": "partial",
+      "file": "sc-091-ubadah-ibn-as-samit-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة (بيعة العقبة)",
+        "conversionOrder": "من نقباء الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بدر",
+          "أحد",
+          "الخندق",
+          "سائر المشاهد"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "distinctions": [
+          "من النقباء ليلة العقبة",
+          "من فقهاء الصحابة وقضاتهم",
+          "أقام في الشام معلمًا ومفتيًا"
+        ],
+        "scholarlyRole": [
+          "فقيه",
+          "قاضٍ",
+          "مقرئ"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 181,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أهل التعليم والقضاء في ضوء القرآن بالشام"
         }
       }
     },
@@ -2533,21 +3169,29 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-092-yazid-ibn-abi-sufyan.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "عام الفتح",
+        "conversionOrder": "أسلم مع أبيه أبي سفيان",
+        "hijrahStatus": "من أهل مكة ثم أمير بالشام",
+        "battles": [
+          "اليرموك",
+          "فتوح الشام"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "distinctions": [
+          "من قادة جيوش الشام في عهد أبي بكر وعمر",
+          "أمير على دمشق أو بعض نواحي الشام",
+          "أخ معاوية بن أبي سفيان لأبيه"
+        ],
+        "scholarlyRole": [
+          "قائد",
+          "والي"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "قاد الجيوش التي فتحت بلادًا دخلها القرآن"
         }
       }
     },
@@ -2560,21 +3204,28 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-093-al-abbas-ibn-abd-al-muttalib.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "أسلم سرًا قبل بدر وأظهر إسلامه يوم الفتح",
+        "conversionOrder": "عم النبي وكبير بني هاشم بعد أبي طالب",
+        "hijrahStatus": "من أهل مكة ثم المدينة",
+        "battles": [
+          "حنين",
+          "غزوات بعد الفتح"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "distinctions": [
+          "عم رسول الله وأبو الخلفاء العباسيين",
+          "كان له موقف عظيم في حنين",
+          "أثنى النبي على إيمانه وعلى بنيه"
+        ],
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 35,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "ارتبط اسمه بمحبة أهل بيت النبي ووجوب مودتهم كما في آيات وفضائل"
         }
       }
     },
@@ -2582,26 +3233,30 @@
       "id": "sc-094",
       "cardNumber": "094",
       "volumeId": "vol-1",
-      "nameArabic": "أَنَسُ بْنُ النَّضْرِ النَّجَّارِيُّ",
-      "nameTranslit": "Anas ibn an-Nadr an-Najjari",
+      "nameArabic": "أَنَسُ بْنُ النَّضْرِ النَّجَّارِيُّ الأَنْصَارِيُّ",
+      "nameTranslit": "Anas ibn an-Nadr an-Najjari al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-094-anas-ibn-an-nadr-an-najjari.json",
-      "completeness": "partial",
+      "file": "sc-094-anas-ibn-an-nadr-an-najjari-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في موضع الفهرس؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
+        "conversionEra": "مدني قبل أحد",
+        "conversionOrder": "عم أنس بن مالك ومن كبار الأنصار",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "أحد"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثاني عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "نزل فيه قوله تعالى: «مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ» على أحد الأقوال",
+          "قال يوم أحد: «اللهم إني أعتذر إليك مما صنع هؤلاء، وأبرأ إليك مما صنع هؤلاء»",
+          "استشهد يوم أحد بعد أن قاتل قتال الأبطال"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في النص الظاهر",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "اتصلت سيرته بآيات الصدق في العهد والجهاد"
         }
       }
     },
@@ -2610,25 +3265,32 @@
       "cardNumber": "095",
       "volumeId": "vol-1",
       "nameArabic": "رَافِعُ بْنُ عُمَيْرٍ الطَّائِيُّ",
-      "nameTranslit": "Rafi' ibn Umayr at-Tai",
-      "laqab": [],
+      "nameTranslit": "Rafi‘ ibn Umayr at-Tai",
+      "laqab": [
+        "دَاهِيَةُ الصَّحْرَاءِ"
+      ],
       "gender": "sahabi",
       "file": "sc-095-rafi-ibn-umayr-at-tai.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في الموضع الظاهر",
-        "battles": [],
+        "conversionEra": "في حياة النبي بعد إسلام العرب حول الشام",
+        "conversionOrder": "كان قبل الإسلام لصًّا فاتكًا ثم أسلم",
+        "hijrahStatus": "من أعراب الشام ثم من مجاهدي الأمصار",
+        "battles": [
+          "اليرموك",
+          "فتوح الشام"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "أهدى بدويٍّ برمال الصحراء وأدلّ الناس على طرقها",
+          "دلَّ خالداً بن الوليد على طريق اختراق الصحراء لنصرة جيش الشام",
+          "تحوّل من لصّ صحراء إلى «رافع الخير» كثير البر بالفقراء"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جهاده لخدمة جيوش القرآن في الشام"
         }
       }
     },
@@ -2637,25 +3299,30 @@
       "cardNumber": "096",
       "volumeId": "vol-1",
       "nameArabic": "عُثْمَانُ بْنُ مَظْعُونٍ",
-      "nameTranslit": "Uthman ibn Maz'un",
+      "nameTranslit": "Uthman ibn Maz‘un",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-096-uthman-ibn-mazun.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في الموضع الظاهر",
-        "battles": [],
+        "conversionEra": "مكي مبكر جدًا",
+        "conversionOrder": "من أوائل من أسلم، بعد نحو اثني عشر رجلًا",
+        "hijrahStatus": "مهاجر إلى الحبشة ثم إلى المدينة",
+        "battles": [
+          "بدر"
+        ],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "من حكماء العرب في الجاهلية، حرم الخمر على نفسه قبل الإسلام",
+          "أول من دفن بالبقيع في المشهور",
+          "آثر جوار الله على كل جوار، ورد جوار الوليد بن المغيرة",
+          "بكاه النبي وقبّله ثلاثًا عند موته"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 10,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جهاده وصبره مع أوائل أهل القرآن بمكة"
         }
       }
     },
@@ -2663,26 +3330,37 @@
       "id": "sc-097",
       "cardNumber": "097",
       "volumeId": "vol-1",
-      "nameArabic": "كَعْبُ بْنُ مَالِكٍ",
-      "nameTranslit": "Ka'b ibn Malik",
-      "laqab": [],
+      "nameArabic": "كَعْبُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Ka‘b ibn Malik al-Ansari",
+      "laqab": [
+        "شَاعِرُ الرَّسُولِ"
+      ],
       "gender": "sahabi",
-      "file": "sc-097-kab-ibn-malik.json",
-      "completeness": "partial",
+      "file": "sc-097-kab-ibn-malik-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في الموضع الظاهر",
-        "battles": [],
-        "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+        "conversionEra": "مدني قبل الهجرة (بيعة العقبة)",
+        "conversionOrder": "من الأنصار السابقين",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "أحد",
+          "الخندق",
+          "سائر المشاهد بعدهما (تخلّف عن تبوك)"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "شاعر الرسول، نافح عن الإسلام بلسانه",
+          "أحد الثلاثة الذين خُلِّفوا في تبوك وتاب الله عليهم",
+          "أنزل الله في قصته آيات من سورة التوبة تتلى إلى يوم القيامة"
+        ],
+        "scholarlyRole": [
+          "شاعر",
+          "راوي حديث"
+        ],
+        "narrationsTier": "متوسط",
+        "narrationCount": 80,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "قصته مع التوبة والصدق نزل فيها قرآن"
         }
       }
     },
@@ -2690,26 +3368,31 @@
       "id": "sc-098",
       "cardNumber": "098",
       "volumeId": "vol-1",
-      "nameArabic": "تَمِيمُ الدَّارِيِّ",
+      "nameArabic": "تَمِيمٌ الدَّارِيُّ",
       "nameTranslit": "Tamim ad-Dari",
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-098-tamim-ad-dari.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ اقتصر على اسمه ونسبته",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في الموضع الظاهر",
+        "conversionEra": "بعد الهجرة، قَدِم من الشام",
+        "conversionOrder": "كان نصرانيًّا من لخم ثم أسلم",
+        "hijrahStatus": "وفد من أهل الشام إلى المدينة",
         "battles": [],
         "distinctions": [
-          "ذُكر اسمه في فهرس «الكتاب الثالث عشر» ضمن نماذج الصحابة المختارة في هذا الجزء"
+          "رُوي أنه خامس أربعة جمعوا القرآن على عهد النبي",
+          "أوّل من قصّ في المسجد على عهد عمر",
+          "قصته في الجسّاسة من أشهر ما رُوي عنه"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "قارئ",
+          "واعظ"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 18,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": true,
+          "specialRole": "من أوائل من جمعوا القرآن حفظًا في زمن النبي"
         }
       }
     },
@@ -2718,26 +3401,31 @@
       "cardNumber": "099",
       "volumeId": "vol-1",
       "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يُنَاضِلُ الرِّيَاحَ السَّافِيَاتِ فِي الرُّبْعِ الْخَالِي»",
-      "nameTranslit": "Al-Ala' ibn al-Hadrami (fighting the sweeping winds in the Empty Quarter)",
+      "nameTranslit": "Al-‘Ala’ ibn al-Hadrami – in the Empty Quarter",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-099-al-ala-ibn-al-hadrami-empty-quarter.json",
-      "completeness": "partial",
+      "file": "sc-099-al-alaa-ibn-al-hadrami-rub-al-khali.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في فهرس الكتاب الثالث عشر؛ ركز العنوان على مواقفه في الربع الخالي",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور في الموضع الظاهر",
-        "battles": [],
-        "distinctions": [
-          "خصّه المؤلف بثلاث صور متتابعة من حياته (٩٩–١٠١) مما يدل على عِظَم دوره الجهادي",
-          "هذا العنوان يبرز صبره وجهاده في بيئة الصحراء والربع الخالي"
+        "conversionEra": "مكي أو مدني مبكر",
+        "conversionOrder": "من المهاجرين أو من أهل البحرين الذين أسلموا مبكرًا",
+        "hijrahStatus": "أمير على البحرين ثم مجاهد في الجزيرة",
+        "battles": [
+          "سرايا في الربع الخالي ونواحي الجزيرة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "distinctions": [
+          "اشتهر بإجابة الدعوة والكرامات في مسير الجيوش عبر الفيافي",
+          "قائد في أطراف الجزيرة حيث الرمال والرياح السافيات",
+          "ضرب به المثل في اليقين والتوكل في شدة العطش والتيه"
+        ],
+        "scholarlyRole": [
+          "قائد"
+        ],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "استعان باليقين بآيات التوكل والصبر في قيادته"
         }
       }
     },
@@ -2746,30 +3434,32 @@
       "cardNumber": "100",
       "volumeId": "vol-1",
       "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يُحَارِبُ الْمُرْتَدِّينَ فِي الْبَحْرَيْنِ»",
-      "nameTranslit": "Al-Ala' ibn al-Hadrami (fighting the apostates in al-Bahrayn)",
+      "nameTranslit": "Al-‘Ala’ ibn al-Hadrami – wars in Bahrain",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-100-al-ala-ibn-al-hadrami-in-bahrayn.json",
-      "completeness": "partial",
+      "file": "sc-100-al-alaa-ibn-al-hadrami-ridda-bahrain.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في الفهرس؛ تركز القصة على جهاده بعد الردة",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
-        "battles": [],
+        "conversionEra": "قبل الردة",
+        "conversionOrder": "ولاه النبي على البحرين",
+        "hijrahStatus": "أمير البحرين",
+        "battles": [
+          "حروب الردة في البحرين"
+        ],
         "distinctions": [
-          "قائد جيوش المسلمين في حرب المرتدين في البحرين كما يذكر سياق القصة",
-          "حرَّر البحرين وأعادها إلى حوزة الإسلام كما في خاتمة المعركة مع الحَطَم",
-          "أعمل السيوف في جند المرتدين حتى حلّ بهم شر مستطير وهزيمة ماحقة",
-          "قتَل جند المسلمين قائد المرتدين الحَطَم في المعركة التي قادها العلاء"
+          "قاد قتال المرتدين في البحرين زمن أبي بكر",
+          "ثبّت أهل البحرين على الإسلام بعد الفتنة",
+          "ضرب المثل بيقينه وتضرعه في المعارك"
         ],
         "scholarlyRole": [
-          "قائد جيش في قتال المرتدين"
+          "قائد",
+          "والي"
         ],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "حفظ الله به ثغرًا من ثغور القرآن في شرق الجزيرة"
         }
       }
     },
@@ -2777,34 +3467,32 @@
       "id": "sc-101",
       "cardNumber": "101",
       "volumeId": "vol-1",
-      "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يَغْزُو البَحْرَ»",
-      "nameTranslit": "Al-Ala' ibn al-Hadrami (attacking by sea)",
+      "nameArabic": "الْعَلَاءُ بْنُ الْحَضْرَمِيِّ «يَغْزُو الْبَحْرَ»",
+      "nameTranslit": "Al-‘Ala’ ibn al-Hadrami – expedition by sea",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-101-al-ala-ibn-al-hadrami-sea-raid.json",
-      "completeness": "partial",
+      "file": "sc-101-al-alaa-ibn-al-hadrami-sea-expedition.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "غير مذكور في الفهرس؛ القصة تركز على جهاده بعد قتال الردة",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "غير مذكور هنا",
+        "conversionEra": "قبل حروب البحرين",
+        "conversionOrder": "من قادة الجيوش في الشرق",
+        "hijrahStatus": "أمير البحرين ثم قائد بحرية",
         "battles": [
-          "دارين"
+          "غزو البحر نحو فارس أو سواحلها"
         ],
         "distinctions": [
-          "قائد غزوة دارين البحرية ضد المرتدين المعتصمين بجزيرة دارين",
-          "ابتكر خطة عبور البحر بلا سفن مع جيش من أبناء الصحراء الذين لم يألفوا ركوب البحر",
-          "خطب في الجند مذكِّرًا بآيات الله التي رأوها في الصحراء ليقوي يقينهم بآياته في البحر",
-          "قاد الجيش لعبور الخليج على ظهور الإبل والخيل حتى غزا المرتدين في دارين",
-          "ضُرب به المثل في التوكل والشجاعة والإقدام في سبيل الله"
+          "من أوائل من قاد جيشًا مسلمًا عبر البحر",
+          "تُذكر له وقائع في عبور البحر بالدعاء والتوكل",
+          "مثال على امتداد الفتح البحري من جزيرة العرب"
         ],
         "scholarlyRole": [
-          "قائد جيش، وخطيب يشحذ عزائم الجند"
+          "قائد"
         ],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "جهاده من أوائل ما مهد لوصول القرآن عبر البحر إلى بلاد جديدة"
         }
       }
     },
@@ -2812,31 +3500,35 @@
       "id": "sc-102",
       "cardNumber": "102",
       "volumeId": "vol-1",
-      "nameArabic": "الْمُغِيرَةُ بْنُ شُعْبَةَ",
-      "nameTranslit": "Al-Mughira ibn Shu'bah",
+      "nameArabic": "المُغِيرَةُ بْنُ شُعْبَةَ الثَّقَفِيُّ",
+      "nameTranslit": "Al-Mughirah ibn Shu'bah ath-Thaqafi",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-102-al-mughira-ibn-shubah.json",
-      "completeness": "partial",
+      "file": "sc-102-al-mughirah-ibn-shubah-ath-thaqafi.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "من أوائل مسلمة الطائف تقريبًا؛ النص في هذا الكتاب يركز على جهاده ودهائه يوم القادسية ومفاوضته لملك الفرس",
-        "conversionOrder": "غير مذكور برقم",
-        "hijrahStatus": "مذكور في كتب التراجم من أهل الطائف المهاجرين، لكن النص هنا لا يتعرض للهجرة صراحة",
+        "conversionEra": "بعد الهجرة قبل الحديبية",
+        "conversionOrder": "من عقلاء ثقيف ودهاة العرب",
+        "hijrahStatus": "مهاجر",
         "battles": [
-          "القادسية"
+          "الحديبية",
+          "غزوات مع النبي",
+          "الفتوح في العراق"
         ],
         "distinctions": [
-          "أحد دُهَاة العرب الأربعة عند الشعبي، اختير لمفاوضة عظيم الفرس يوم القادسية",
-          "خطب بين يدي ملك فارس مبيِّنًا حقيقة رسالة الإسلام وغاية الجهاد",
-          "مثّل المسلمين أبلغ تمثيل في وصف جاهليتهم السابقة وكيف نقلهم الإسلام إلى العزة والعدل",
-          "كان حاضر البديهة سريع الجواب، حتى لُقّب في القصة بـ«مغيرة الرأي»"
+          "من دهاة العرب المعدودين",
+          "كان أميرًا على الكوفة في خلافة عمر وعثمان",
+          "شهد معه الصحابة بحسن السياسة وقوة الحجة"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور في هذا الموضع",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "والي",
+          "قاضٍ"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 130,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "يُذكر ضمن فرسان الدعوة الذين شرحوا للإمبراطوريات الكبرى حقيقة الإسلام"
+          "hafiz": false,
+          "specialRole": "أقام أحكام القرآن في ولايته وقضائه بالعراق"
         }
       }
     },
@@ -2844,31 +3536,30 @@
       "id": "sc-103",
       "cardNumber": "103",
       "volumeId": "vol-1",
-      "nameArabic": "مُعَاذُ بْنُ عَمْرِو بْنِ الْجَمُوحِ وَأَخُوهُ مُعَوَّذٌ",
+      "nameArabic": "مُعَاذُ بْنُ عَمْرِو بْنِ الْجَمُوحِ وَأَخُوهُ مُعَوِّذٌ",
       "nameTranslit": "Mu'adh ibn Amr ibn al-Jamuh and his brother Mu'awwidh",
       "laqab": [],
-      "gender": "sahabi",
-      "file": "sc-103-muadh-muawwith-ibn-amr-ibn-al-jamuh.json",
-      "completeness": "partial",
+      "gender": "sahabi-pair",
+      "file": "sc-103-muadh-ibn-amr-and-muawwith.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "أسلما في المدينة على يد مصعب بن عمير قبل الهجرة أو في أوائلها، وهما من فتية الأنصار",
-        "conversionOrder": "من أوائل شباب الأنصار الداخلين في الإسلام",
-        "hijrahStatus": "أنصاريان من أهل المدينة، فهما من أهل الدار والنصرة لا من المهاجرين",
+        "conversionEra": "مدني صغار الأنصار",
+        "conversionOrder": "أسلموا في المدينة قبل بدر",
+        "hijrahStatus": "أنصاريان",
         "battles": [
           "بدر"
         ],
         "distinctions": [
-          "اهتديا إلى الإسلام معًا بعد مجلس مع مصعب بن عمير عند الماء والظلال",
-          "من أبطال بدر، اشتهرا بضرب أبي جهل حتى صرعاه في المعركة",
-          "امتازا بشدة غيرتهما على رسول الله ﷺ، حتى تمنى عبد الرحمن بن عوف أن يكون في موضعهما حول النبي",
-          "القصة تُبرز سرعة فقه معاذ وفهمه لمعاني الطهارة والصلاة منذ أول لحظة للإسلام"
+          "من الغلمان الذين شاركوا في بدر",
+          "اشتهرا بضرب فرعون هذه الأمة أبا جهل يوم بدر",
+          "مثال على شجاعة الناشئة الأنصار في نصرة الدين"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور هنا",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "من شباب الأنصار الذين حملوا القرآن والجهاد معًا مبكرًا"
+          "hafiz": false,
+          "specialRole": "جهادهما تطبيق عملي لآيات القتال رغم صغر السن"
         }
       }
     },
@@ -2876,34 +3567,34 @@
       "id": "sc-104",
       "cardNumber": "104",
       "volumeId": "vol-1",
-      "nameArabic": "مُصْعَبُ بْنُ عُمَيْرٍ",
-      "nameTranslit": "Mus'ab ibn Umayr",
+      "nameArabic": "مُصْعَبُ بْنُ عُمَيْرٍ الْعَبْدَرِيُّ",
+      "nameTranslit": "Mus'ab ibn Umayr al-Abdari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-104-musab-ibn-umayr.json",
-      "completeness": "partial",
+      "file": "sc-104-musab-ibn-umayr-al-abdari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "من السابقين الأولين في مكة، هاجر إلى الحبشة ثم إلى المدينة",
-        "conversionOrder": "من أوائل من أسلم من شباب قريش",
-        "hijrahStatus": "مهاجر إلى الحبشة ثم أول سفير للإسلام في المدينة قبل الهجرة الكبرى",
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر إلى المدينة",
         "battles": [
           "بدر",
           "أحد"
         ],
         "distinctions": [
-          "أول سفير في الإسلام إذ بعثه النبي ﷺ إلى المدينة يعلّم أهلها القرآن والصلاة",
-          "كان سببًا في إسلام كثير من الأنصار ومنهم معاذ ومعوّذ وعمرو بن الجموح",
-          "حمل لواء المسلمين يوم أحد واستشهد وهو قابض على الراية",
-          "ضرب المؤلف به المثل في الزهد بعد ترف، وفي التضحية الكاملة للدعوة"
+          "أول سفير في الإسلام إلى المدينة",
+          "كان سببًا في إسلام سادة الأنصار قبل الهجرة",
+          "حمل لواء المسلمين في أحد واستشهد وهو يحمله"
         ],
         "scholarlyRole": [
-          "داعية ومعلّم للقرآن في المدينة"
+          "داعية",
+          "مقرئ"
         ],
-        "narrationsTier": "غير مذكور عدد مروياته هنا",
-        "narrationCount": null,
+        "narrationsTier": "قليل",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "حامل دعوة القرآن إلى يثرب قبل الهجرة، ومقرئ لأهلها"
+          "hafiz": true,
+          "specialRole": "أقرَأ الأنصار القرآن وعلّمهم الصلاة قبل هجرة النبي"
         }
       }
     },
@@ -2911,29 +3602,31 @@
       "id": "sc-105",
       "cardNumber": "105",
       "volumeId": "vol-1",
-      "nameArabic": "عَبْدُ اللَّهِ بْنُ عَتِيكٍ",
-      "nameTranslit": "Abdullah ibn Atik",
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ عَتِيكٍ الأَنْصَارِيُّ",
+      "nameTranslit": "Abdullah ibn Atik al-Ansari",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-105-abdullah-ibn-atik.json",
-      "completeness": "partial",
+      "file": "sc-105-abdullah-ibn-atik-al-ansari.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "أنصاري أسلم في المدينة، النص في الكتاب يركّز على بطولته في سرية قتل أبي رافع",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "أنصاري لا هجرة له من مكة",
-        "battles": [],
+        "conversionEra": "مدني من الأنصار",
+        "conversionOrder": "من أهل البيعة والنصرة",
+        "hijrahStatus": "أنصاري",
+        "battles": [
+          "بعض المشاهد مع النبي",
+          "سرية قتل أبي رافع"
+        ],
         "distinctions": [
-          "قائد أو رأس في السرية التي خرجت لقتل أبي رافع اليهودي عدو المسلمين",
-          "اشتهر بجرأته في التسلل إلى حصن العدو وتنفيذ المهمة ثم النجاة مع إصابته",
-          "يُضرب به المثل في الشجاعة والإقدام والعمل الاستخباري في السيرة",
-          "قصة الكتاب تبرز صبره على الجراح وثباته حتى أتم مهمته"
+          "أمير السرية التي خرجت لقتل أبي رافع اليهودي المحارب",
+          "تحمل المشاق حتى نفذ المهمة ثم عاد إلى النبي مبشرًا",
+          "ضرب به المثل في الطاعة الدقيقة للأمر النبوي"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور هنا",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 3,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "قصته متصلة بتطبيق أحكام الحرب في القرآن على من يؤذون المؤمنين"
         }
       }
     },
@@ -2941,33 +3634,35 @@
       "id": "sc-106",
       "cardNumber": "106",
       "volumeId": "vol-1",
-      "nameArabic": "الْمِقْدَادُ بْنُ عَمْرٍو",
-      "nameTranslit": "Al-Miqdad ibn Amr",
+      "nameArabic": "الْمِقْدَادُ بْنُ عَمْرٍو (ابْنُ الأَسْوَدِ)",
+      "nameTranslit": "Al-Miqdad ibn Amr (ibn al-Aswad)",
       "laqab": [],
       "gender": "sahabi",
-      "file": "sc-106-al-miqdad-ibn-amr.json",
-      "completeness": "partial",
+      "file": "sc-106-al-miqdad-ibn-amr-ibn-al-aswad.json",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "من السابقين إلى الإسلام بمكة، هاجر إلى الحبشة ثم إلى المدينة",
-        "conversionOrder": "من أوائل من أسلموا بعد الطبقة الأولى من السابقين",
-        "hijrahStatus": "مهاجر، شهد الهجرة والنصرة",
+        "conversionEra": "مكي مبكر",
+        "conversionOrder": "من السابقين الأولين",
+        "hijrahStatus": "مهاجر",
         "battles": [
           "بدر",
           "أحد",
-          "الخندق"
+          "الخندق",
+          "سائر المشاهد"
         ],
         "distinctions": [
-          "من أوائل من قاتل على فرس في سبيل الله يوم بدر",
-          "مشهور بقوله للنبي ﷺ في بدر: لن نقول لك كما قالت بنو إسرائيل لموسى، بل امض ونحن معك",
-          "مثَّل في السيرة مثال الجندي المؤمن الذي يملأ قلب القائد طمأنينة ويقينًا",
-          "القصة في الكتاب تبرز شجاعته وصدقه في النصرة وعدم التردد في البذل"
+          "أول فارس قاتل على فرس في الإسلام يوم بدر",
+          "قال كلمته المشهورة: لن نقول لك كما قالت بنو إسرائيل لموسى...",
+          "عده النبي من الذين يحبهم الله ورسوله"
         ],
-        "scholarlyRole": [],
-        "narrationsTier": "غير مذكور هنا",
-        "narrationCount": null,
+        "scholarlyRole": [
+          "راوي حديث"
+        ],
+        "narrationsTier": "قليل",
+        "narrationCount": 44,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": "من رموز الثبات مع القرآن والجهاد في بدر"
+          "hafiz": false,
+          "specialRole": "مواقفه مثال حي على طاعة أوامر الجهاد والصبر الواردة في القرآن"
         }
       }
     },
@@ -2980,24 +3675,26 @@
       "laqab": [],
       "gender": "sahabi",
       "file": "sc-107-amr-ibn-umayyah-ad-damri.json",
-      "completeness": "partial",
+      "completeness": "full",
       "profile": {
-        "conversionEra": "أسلم في المدينة أو قريبًا منها وبرز في المهمات الخاصة",
-        "conversionOrder": "غير مذكور",
-        "hijrahStatus": "مذكور في كتب السيرة ضمن أصحاب المهمات السرّية، وليس من مشاهير المهاجرين الأوائل",
-        "battles": [],
+        "conversionEra": "بعد الهجرة",
+        "conversionOrder": "من موالي النبي وخلص أصحابه في السرايا",
+        "hijrahStatus": "مهاجر",
+        "battles": [
+          "بدر بعد أسره ثم إسلامه على الأصح",
+          "سرايا متعددة"
+        ],
         "distinctions": [
-          "اشتهر بتنفيذ المهام الخاصة والسرية في السيرة النبوية",
-          "شارك في تتبّع قتلة أصحاب الرجيع والانتقام لهم",
-          "ضرب المؤلف به المثل في الجرأة والإقدام منفردًا خلف خطوط العدو",
-          "القصة تبرز سرعة بديهته في الخلاص من المواقف الحرجة"
+          "كان من أصحاب المهمات الخاصة عند النبي",
+          "شارك في مواقف حساسة تتعلق بحماية الدعوة",
+          "ضرب به المثل في الجرأة والإقدام الفردي"
         ],
         "scholarlyRole": [],
-        "narrationsTier": "غير مذكور",
-        "narrationCount": null,
+        "narrationsTier": "نادر",
+        "narrationCount": 1,
         "quranRelation": {
-          "hafiz": null,
-          "specialRole": null
+          "hafiz": false,
+          "specialRole": "مهماته مرتبطة بتأمين طريق الدعوة وتطبيق أحكامها العملية"
         }
       }
     },
@@ -3005,33 +3702,30 @@
       "id": "sc-108",
       "cardNumber": "108",
       "volumeId": "vol-1",
-      "nameArabic": "يَوْمُ الرَّجِيعِ وَاسْتِشْهَادُ السِّتَّةِ الْأَبْرَارِ",
-      "nameTranslit": "The Day of al-Raji' and the martyrdom of the six righteous",
+      "nameArabic": "يَوْمُ الرَّجِيعِ وَاسْتِشْهَادُ السِّتَّةِ الأَبْرَارِ",
+      "nameTranslit": "Yawm ar-Raji' and the martyrdom of the six righteous",
       "laqab": [],
-      "gender": "mixed",
-      "file": "sc-108-yawm-al-raji-ashab.json",
+      "gender": "event",
+      "file": "sc-108-yawm-ar-raji-and-the-six-martyrs.json",
       "completeness": "partial",
       "profile": {
-        "conversionEra": "الستة من خيار الصحابة الذين أسلموا مبكرًا وبرزوا في تعليم الناس القرآن",
-        "conversionOrder": "غير محدد لكل واحد في النص، لكنهم من أهل السبق والفضل",
-        "hijrahStatus": "من المهاجرين والأنصار الذين ندبهم النبي ﷺ لتعليم قبائل العرب",
+        "conversionEra": "",
+        "conversionOrder": "",
+        "hijrahStatus": "",
         "battles": [
-          "سرية الرجيع (غزوة/سرية دعوية انتهت بالغدر)"
+          "سرية الرجيع"
         ],
         "distinctions": [
-          "خرجوا دعاةً ومقرئين للقرآن إلى قبائل العرب، فغُدر بهم في موضع الرجيع",
-          "ضربوا أروع الأمثلة في الثبات على العقيدة عند العَرْض عليهم أن يرجعوا عن دينهم",
-          "القصة تبرز مواقف خبيب بن عدي وزيد بن الدثنة وغيرهما حين خُيِّروا بين الرجوع عن الإسلام أو القتل",
-          "يُجسِّد هذا اليوم صورة من صور التضحية بالدعوة والتعليم ولو كلّف ذلك أرواحهم"
+          "يتناول قصة السرية التي خُدع أهلها وقُتلوا غدرًا في الرجيع",
+          "منهم خبيب بن عدي وزيد بن الدثنة وغيرهما من القراء",
+          "صار هذا اليوم رمزًا للصبر على البلاء والغدر في سبيل الدعوة"
         ],
-        "scholarlyRole": [
-          "معلّمو قرآن، ودعاة مبعوثون من النبي ﷺ"
-        ],
-        "narrationsTier": "غير مذكور لكل واحد",
-        "narrationCount": null,
+        "scholarlyRole": [],
+        "narrationsTier": "نادر",
+        "narrationCount": 0,
         "quranRelation": {
-          "hafiz": true,
-          "specialRole": "بعثهم النبي ﷺ ليعلّموا الناس كتاب الله ويقرئوهم إياه"
+          "hafiz": false,
+          "specialRole": "شهداء من القراء الذين خرجوا يعلّمون القرآن فقُتلوا غدرًا"
         }
       }
     }
