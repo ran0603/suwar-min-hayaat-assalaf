@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-014-ikrima-ibn-abi-jahl",
+    "cardNumber": "014",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "115-124"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "عِكْرِمَةُ بْنُ أَبِي جَهْلٍ",
+    "nameTranslit": "Ikrimah ibn Abi Jahl",
+    "fullNameArabic": "عِكْرِمَةُ بْنُ عَمْرِو بْنِ هِشَامٍ المَخْزُومِيُّ القُرَشِيُّ",
+    "fullNameTranslit": "Ikrimah ibn Amr ibn Hisham al-Makhzumi al-Qurashi",
+    "kunya": "أَبُو عَمْرٍو",
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "نشأ في بيت أبي جهل بمكة في الجاهلية، من شباب قريش، معروف بالشجاعة والحمية لقومه قبل الإسلام."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "المؤلف يركّز على إسلامه المتأخر وجهاده حتى الشهادة، دون ترقيم دقيق للسنة، ويُستكمل من كتب التراجم."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "مكة المكرمة؛ في بني مخزوم من قريش.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "عَمْرُو بْنُ هِشَامٍ",
+      "kunya": "أَبُو جَهْلٍ",
+      "note": "من زعماء الشرك في قريش؛ قُتل يوم بدر على الكفر، وبقيت في نفس عكرمة آثار تلك الحقبة حتى أسلم لاحقًا."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "قريش",
+    "clan": "بنو مخزوم.",
+    "spouses": [
+      {
+        "nameArabic": "أُمُّ حَكِيمٍ بِنْتُ الحَارِثِ بْنِ هِشَامٍ",
+        "note": "من فضليات نساء قريش، كان لها دور في رجوع عكرمة إلى الإسلام وفراره بعد الفتح كما يذكر المؤلف في سياق القصة."
+      }
+    ],
+    "children": [],
+    "relationToProphet": [
+      "قرشيٌّ من بني مخزوم، ابنُ ألدّ أعداء الدعوة أول أمرها، ثم صار من جنود الإسلام المدافعين عنه."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "فتح مكة",
+    "battles": [
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من أهل بيعة الرضوان (بالقدر الذي يلحق به من بايع بعد الفتح على الجهاد الثابت)",
+      "من المهاجرين الأولين بعد الفتح من قريش"
+    ],
+    "scholarly_role": [
+      "راوي حديث",
+      "مجاهد"
+    ],
+    "relation_to_prophet": [
+      "حليف من قريش"
+    ],
+    "tribe": "مخزوم",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "له روايات محدودة، وتدور شهرته حول تحوّله من رأس في الحرب على الإسلام إلى فارس من فرسانه حتى استشهد في الجهاد."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "يُذكر في سياق الآيات التي مدحت من بدّلوا عداوتهم للإسلام بالإيمان والجهاد، وإن لم يُذكر اسمه صراحة؛ المؤلف يربط معانيها بمآله الحسن."
+    }
+  },
+  "biography": {
+    "tagline": "ابنُ عدوِّ الله أبي جهل، الذي ورث راية الحرب على الإسلام، ثم ألقى السيف بين يدي النبي ﷺ تائبًا، وحمل السيف بعدها تحت لواء التوحيد حتى قُتل شهيدًا.",
+    "taglineArabic": "قريشيٌّ مخزومي، خرج من أحضان الشرك والعداوة لرسول الله ﷺ إلى ساحة الجهاد في سبيله، يقاتل بالأمس عن الباطل واليوم عن الحق.",
+    "summaryEn": "Ikrimah ibn Abi Jahl (رضي الله عنه) grew up in the house of one of Islam’s fiercest enemies, inheriting his father’s hostility and fighting the Muslims in several battles before the conquest of Makkah. When the city fell, he initially fled toward the sea, unwilling to submit, but his wife Umm Hakim pursued him with the Prophet’s guarantee of safety, and his heart opened to Islam as he reflected on the Prophet’s forbearance and mercy toward the Quraysh who had harmed him. He returned, declared his Islam before the Prophet ﷺ, pledged to make up for his past opposition with steadfast struggle in Allah’s path, and later distinguished himself at battles like Hunayn and Tabuk until he fell as a martyr, turning a legacy of enmity into one of loyalty.",
+    "summaryAr": "كان عكرمة بن أبي جهل امتدادًا لأبيه في عداوة الإسلام، قاتل المسلمين في المواطن التي استطاع، وحمل في نفسه رواسب بدر وأحد والأحزاب، حتى جاء يوم فتح مكة فدخلها رسول الله ﷺ في عفوٍ عامٍّ لم تعرف له العرب مثيلًا. ضاقت الأرض بعكرمة يومئذٍ، ففرّ نحو البحر يريد الهرب إلى اليمن أو ما وراءها، غير أن زوجه أم حكيم - وكانت قد أسلمت - لحقت به تحمل إليه أمان رسول الله ﷺ، وتحدّثه عن سماحة النبي وعفوه حتى لان قلبه ونطق بالشهادة. عاد عكرمة إلى مكة وقد خلع ثوب الكفر والكبر، ووقف بين يدي النبي ﷺ يعاهد الله أن ينفق ما بقي من عمره في الجهاد، فكان في حنين ممن ثبتوا بعد الهزّة الأولى، وفي تبوك من أهل البلاء الحسن، ثم ختم له الله بالشهادة فصار مثالًا على أن أبواب الرحمة مفتوحة حتى لابن أبي جهل.",
+    "physicalDescription": {
+      "ar": "يقدّمه المؤلف في صورة الفارس القرشي الشجاع، قويّ البنية، مقدامًا في القتال، تشهد له ميادين المعارك قبل الإسلام وبعده.",
+      "en": "The author portrays him as a brave Qurashi horseman, strong in build and bold in combat, whose courage was evident both before and after his Islam."
+    },
+    "characterTraits": [
+      {
+        "ar": "الشجاعة في القتال",
+        "en": "Bravery in battle"
+      },
+      {
+        "ar": "الصدق في التوبة",
+        "en": "Sincerity in repentance"
+      },
+      {
+        "ar": "الوفاء بالعهد",
+        "en": "Loyalty to his pledge"
+      },
+      {
+        "ar": "القوة مع التحول الداخلي العميق",
+        "en": "Strength coupled with profound inner transformation"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Inherited hostility from his father Abu Jahl",
+        "titleAr": "وراثته لعداوة أبيه لأهل الإسلام",
+        "year": "Pre-8 AH (pre-conquest period)",
+        "descriptionEn": "Raised in the household of Abu Jahl, he absorbed the values of tribal pride and enmity toward the Prophet ﷺ, participating in Quraysh’s efforts to fight Islam and avenge their losses at Badr and other battles.",
+        "descriptionAr": "نشأ عكرمة في بيت أبي جهل، يسمع سبّ النبي ﷺ صباح مساء، ويرى أباه يحرّض الناس على حربه، فشبّ على تلك الروح، يعدّ نفسه وارثًا لثأر بدر وأُحُد، لا يكاد يُفوّت مشهدًا فيه قتال للمسلمين."
+      },
+      {
+        "order": 2,
+        "titleEn": "Flight from Makkah after its conquest",
+        "titleAr": "فراره من مكة بعد الفتح",
+        "year": "8 AH (Year of the Conquest)",
+        "descriptionEn": "When the Prophet ﷺ entered Makkah victorious and extended a general amnesty, Ikrimah could not bear the thought of living under the authority of the one his father had opposed, so he fled toward the sea intending to escape to distant lands.",
+        "descriptionAr": "حين دخل رسول الله ﷺ مكة في الفتح الأكبر وأمّن الناس، وجد عكرمة نفسه أمام ماضٍ ثقيل من العداوة، فآثر الهرب على أن يرى راية محمد ﷺ تخفق في البيت الذي قاتل دونه، فانطلق نحو البحر يريد السفن التي تحمله بعيدًا عن الجزيرة."
+      },
+      {
+        "order": 3,
+        "titleEn": "Umm Hakim brings him the Prophet’s guarantee of safety",
+        "titleAr": "لحوق أم حكيم به بأمان النبي ﷺ",
+        "year": "8 AH",
+        "descriptionEn": "His wife Umm Hakim had embraced Islam and obtained a pledge of safety from the Prophet ﷺ, then pursued him to the coast, calling him back and conveying the Prophet’s forgiveness, which softened his stance and made him reconsider his path.",
+        "descriptionAr": "أسلمت أم حكيم بنت الحارث، واستأمنت لزوجها عكرمة عند رسول الله ﷺ فأمّنه، فخرجت في أثره حتى لحقته، تخاطب قلبه المكدود: يا بن عمّ، جئتك من عند أوصل الناس للرحم وأبرّهم بالعهد، وقد أمّنك بعدما فعلت، فلا تُهلك نفسَك، فمال قلبه لكلامها وبدأت قسوة العداوة تتصدّع."
+      },
+      {
+        "order": 4,
+        "titleEn": "His return and declaration of Islam",
+        "titleAr": "عودته إلى النبي ﷺ وإسلامه",
+        "year": "8 AH",
+        "descriptionEn": "He returned to Makkah with her, went to the Prophet ﷺ, and openly embraced Islam, expressing regret for his past opposition and promising to expend his strength in Allah’s cause to compensate for what had passed.",
+        "descriptionAr": "عاد عكرمة إلى مكة مطأطئ الرأس، حتى وقف بين يدي رسول الله ﷺ فقال - كما يذكر المؤلف بمعناه -: يا محمد، ما من موقفٍ حاربتك فيه إلا وأنا اليوم أشهد أن لا إله إلا الله وأنك رسول الله، وأتعهد أن أنفق كل ما أوتيت من قوة في نصرة هذا الدين، فقبِل النبي ﷺ إسلامه ودعا له بالخير."
+      },
+      {
+        "order": 5,
+        "titleEn": "Courage at the Battle of Hunayn",
+        "titleAr": "ثباته في غزوة حنين",
+        "year": "8 AH (after the conquest)",
+        "descriptionEn": "At Hunayn, when many were shaken by the surprise attack and initial confusion, Ikrimah fought bravely under the banner of Islam, helping to restore the lines and demonstrating that his courage had found a nobler direction.",
+        "descriptionAr": "في حنين، حين اضطربت الصفوف لأول وهلة، كان عكرمة ممن رابطوا مع النبي ﷺ بعد أن عرف طعم الإيمان، يحمل سيفه الذي كان بالأمس على المسلمين، اليوم عن المسلمين، فيضرب به في صفوف هوازن وثقيف حتى انجلت الغمّة."
+      },
+      {
+        "order": 6,
+        "titleEn": "Participation in later campaigns such as Tabuk",
+        "titleAr": "اشتراكه في غزوات لاحقة كغزوة تبوك",
+        "year": "9 AH",
+        "descriptionEn": "He joined the difficult expedition to Tabuk, bearing hardship in the heat and scarcity alongside the believers, and reinforcing his pledge that no effort in Allah’s cause would be too great to make up for his earlier hostility.",
+        "descriptionAr": "خرج مع رسول الله ﷺ إلى تبوك في سنة عسرة، يقطع الفيافي المحرِقة، ويصبر على الجوع والعطش مع سائر المسلمين، يحدّث نفسه أن كل خطوة في هذا الطريق كفارة لما مضى من خطواته في طريق الباطل."
+      },
+      {
+        "order": 7,
+        "titleEn": "Martyrdom in jihad",
+        "titleAr": "استشهاده في ساحة الجهاد",
+        "year": "Post-Prophetic era (exact year to be completed)",
+        "descriptionEn": "The author closes his portrayal by showing Ikrimah sealing his repentance with martyrdom in battle, falling on the path he had chosen to compensate for his past, thus transforming the story of ‘the son of Abu Jahl’ into the story of a sincere repentant warrior.",
+        "descriptionAr": "يختم المؤلف حديثه عن عكرمة بصورته وهو يُضرَب بسيوف العدو في إحدى المعارك بعد رسول الله ﷺ، متقدمًا لا مدبرًا، حتى يسقط شهيدًا وقد خضّب دمه رداءه، وكأنه يقول بلسان الحال: اللهم هذه نفسي بين يديك عربون صدق توبتي مما سلف."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "يُصوِّر المؤلف عكرمة وهو يفرّ من مكة يوم الفتح، يطوي الفيافي يريد البحر، وقلبه ممتلئٌ بهواجس الانتقام والضياع، حتى تلحق به زوجه أم حكيم تحمل أمان رسول الله ﷺ، فتقول له - بمعناه -: يا عكرمة، جئتُك من عند أبرِّ الناس قِبَلًا، قد أمّنك بعد أن قدر عليك، فلا تهلك نفسك.",
+      "translationEn": "The author depicts Ikrimah fleeing Makkah on the day of its conquest, traversing deserts toward the sea while his heart churned with thoughts of vengeance and loss, until his wife Umm Hakim caught up with him carrying the Prophet’s guarantee of safety, saying to him in meaning, “O Ikrimah, I have come to you from the kindest of people; he has granted you safety now that he has power over you, so do not destroy yourself.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، فصل عكرمة بن أبي جهل."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة عكرمة بن أبي جهل من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Ikrimah ibn Abi Jahl from the book when fully entered].",
+      "note": "الخلاصة تلتقط محور القصة: فراره يوم الفتح، أمان أم حكيم، إسلامه، ومشاركته في الجهاد حتى الشهادة."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 2,
+    "conversionEraLabel": "فتح مكة (إسلام متأخر مع صدق التوبة)",
+    "battlesCount": 2,
+    "distinctionsCount": 2,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث",
+      "مجاهد"
+    ]
+  },
+  "additionalSources": [
+    {
+      "id": "ref-tarajim-ikrima",
+      "title": "كتب التراجم في عكرمة بن أبي جهل",
+      "note": "يُرجع لاستكمال تاريخ الوفاة الدقيق وموضع استشهاده وعدد رواياته إلى مصادر مثل أسد الغابة والإصابة وسير أعلام النبلاء كما يصنع المؤلف مع غيره من الصحابة."
+    }
+  ],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-013-salman-al-farisi",
+    "sc-030-abd-al-rahman-ibn-awf",
+    "sc-033-saad-ibn-abi-waqqas"
+  ]
+}

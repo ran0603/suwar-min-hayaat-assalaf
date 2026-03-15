@@ -1,0 +1,202 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-008-abu-ayyoob-al-ansari",
+    "cardNumber": "008",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "63–70"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "أَبُو أَيُّوبَ الأَنْصَارِيُّ",
+    "nameTranslit": "Abu Ayyub al-Ansari",
+    "fullNameArabic": "خَالِدُ بْنُ زَيْدٍ بْنِ كُلَيْبٍ الأَنْصَارِيُّ الخَزْرَجِيُّ",
+    "fullNameTranslit": "Khalid ibn Zayd ibn Kulayb al-Ansari al-Khazraji",
+    "kunya": "أَبُو أَيُّوبَ",
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "من كبار الأنصار سنًّا حين الهجرة؛ كان له بيت في المدينة تهيأ لاستقبال النبي ﷺ."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "استشهد مرابطًا تحت أسوار القسطنطينية في إحدى غزوات معاوية أو يزيد بن معاوية."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "يثرب (المدينة المنورة لاحقًا).",
+    "placeOfDeath": "قرب أسوار القسطنطينية.",
+    "graveLocation": "ناحية من نواحي القسطنطينية؛ صار موضع قبره مزارًا معروفًا بعد الفتح العثماني."
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "زَيْدُ بْنُ كُلَيْبٍ",
+      "kunya": null,
+      "note": null
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "الخزرج",
+    "clan": "من بني النجار من الأنصار.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "أنصاري من أصحاب البيعة، نزيل النبي ﷺ في أوّل قدومه المدينة."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "أنصاري",
+    "conversion_era": "قبل الهجرة",
+    "battles": [
+      "بدر",
+      "أحد",
+      "الخندق",
+      "خيبر",
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "بدري",
+      "من أهل بيعة الرضوان",
+      "من السابقين الأولين",
+      "من المهاجرين الأولين (بالمعنى الأوسع لأنه من أهل البيعة والنصرة)"
+    ],
+    "scholarly_role": [
+      "راوي حديث"
+    ],
+    "relation_to_prophet": [],
+    "tribe": "خزرج",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "له أحاديث معدودة تتعلق بالضيافة والجهاد وآداب البيوت، وليس من المكثرين."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "آوى النبي ﷺ في بيته أول قدومه المدينة، فصار بيته مركزًا لنزول الوحي في أوائل العهد المدني."
+    }
+  },
+  "biography": {
+    "tagline": "صاحب بيت النبي ﷺ في المدينة؛ استشهد مجاهدًا تحت أسوار القسطنطينية.",
+    "taglineArabic": "أنصاريّ كريم جعل بيته أول منزل للنبي ﷺ، وختم حياته مرابطًا في أبعد ثغور الإسلام.",
+    "summaryEn": "Abu Ayyub al-Ansari (رضي الله عنه), Khalid ibn Zayd, was a distinguished Companion from the Ansar who hosted the Prophet ﷺ in his house when he first arrived in Madinah. The Prophet’s ﷺ camel knelt near Abu Ayyub’s home, and Abu Ayyub insisted on having the Prophet ﷺ upstairs while he and his family stayed below, later reversing this out of fear of disturbing the Prophet ﷺ. Abu Ayyub fought in many battles during the Prophet’s ﷺ life and continued participating in campaigns into old age, eventually dying as a mujahid near the walls of Constantinople, fulfilling his wish to die in Allah’s path far from his home.",
+    "summaryAr": "أبو أيوب الأنصاري خَالِدُ بْنُ زَيْدٍ (رضي الله عنه) من كبار رجال الأنصار الذين بسطوا أذرعهم وقلوبهم لاستقبال رسول الله ﷺ عند الهجرة. لما دخل النبي ﷺ المدينة وترَك لناقته «القصواء» أن تختر موضع نزوله، بركت عند دار أبي أيوب، فحمل الصحابي الجليل رحل النبي ﷺ إلى بيته مسرورًا، وألحَّ أن يكون رسول الله ﷺ ضيفه، فنزل في علوّ بيته، ثم نزل أبو أيوب في السفل، فلما خاف أن يتحرّك فوق رأس النبي ﷺ نقل متاعه إلى العلوّ وجعل النبي ﷺ في السفل؛ تأدبًا وتعظيمًا له. شهد أبو أيوب بدرًا وسائر المشاهد، ثم ظل يجاهد في سبيل الله في صدر الإسلام وفي زمن الخلفاء حتى خرج شيخًا كبيرًا في جيشٍ يغزو القسطنطينية، فلما مرض أوصى أن يُحمل ويُدفن تحت أسوارها، فمات هناك شهيدًا مرابطًا بعيدًا عن المدينة.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الكرم",
+        "en": "Generosity"
+      },
+      {
+        "ar": "حب النبي ﷺ",
+        "en": "Deep love for the Prophet ﷺ"
+      },
+      {
+        "ar": "الثبات في الجهاد",
+        "en": "Steadfastness in jihad"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Hosting the Prophet ﷺ in Madinah",
+        "titleAr": "نزول النبي ﷺ في بيته عند الهجرة",
+        "year": "1 AH",
+        "descriptionEn": "When the Prophet ﷺ arrived in Madinah and let his camel choose where to stop, it knelt near Abu Ayyub’s house; he rushed to take the Prophet’s ﷺ saddle and begged to host him, an honor the Prophet ﷺ accepted.",
+        "descriptionAr": "عند قدوم النبي ﷺ إلى المدينة أرخى خطام ناقته وقال: «خلوا سبيلها فإنها مأمورة»، فبركت عند دار أبي أيوب، فبادر الصحابي الجليل إلى رحل رسول الله ﷺ فحمله إلى بيته، وناشده أن ينزل عنده، فاستجاب له النبي ﷺ، فكان أول منزلٍ له في المدينة."
+      },
+      {
+        "order": 2,
+        "titleEn": "Moving himself upstairs out of adab",
+        "titleAr": "انتقاله إلى العلو تأدبًا مع النبي ﷺ",
+        "year": "1 AH",
+        "descriptionEn": "Initially the Prophet ﷺ stayed upstairs while Abu Ayyub and his wife remained below, but when Abu Ayyub felt uneasy walking above his guest and feared something might fall upon him, he begged the Prophet ﷺ to move downstairs while he moved up, which the Prophet ﷺ granted.",
+        "descriptionAr": "نزل النبي ﷺ أولًا في علوِّ البيت، وأبو أيوب في السفل، ثم ضاق صدر أبي أيوب أن يكون فوق رسول الله ﷺ، وصار يتحرّى مواضع قدميه خشية أن يتساقط شيء على النبي ﷺ، حتى جاءه مضطربًا يستسمحه في أن ينزل هو إلى العلو ويكون رسول الله ﷺ في السفل، ففعل."
+      },
+      {
+        "order": 3,
+        "titleEn": "Serving the Prophet ﷺ at night",
+        "titleAr": "خدمته للنبي ﷺ ليلًا",
+        "year": "1 AH",
+        "descriptionEn": "He and his wife used to prepare food for the Prophet ﷺ and watch where his blessed hand touched, eating from those spots for barakah, and they would stay awake concerned about any water or harm dripping onto him.",
+        "descriptionAr": "كان هو وزوجته يُعدّان الطعام للنبي ﷺ، فإذا رفع الصحفة نظر أين وضعت يد رسول الله ﷺ فيضعان أفواههما حيث وضع يده طلبًا للبركة، وكانا يسهران الليل خشية أن يسقط شيء من الماء أو غيره على النبي ﷺ فيؤذيه."
+      },
+      {
+        "order": 4,
+        "titleEn": "Participation in Badr and later battles",
+        "titleAr": "شهود بدر وسائر المشاهد",
+        "year": "2–9 AH",
+        "descriptionEn": "Abu Ayyub fought at Badr and in subsequent campaigns alongside the Prophet ﷺ, proving his bravery as well as his devotion in the field just as at home.",
+        "descriptionAr": "لم يكن دوره مقصورًا على الضيافة؛ فقد شهد بدرًا، ثم أحدًا، ثم الخندق، وسائر المشاهد مع رسول الله ﷺ، فجمع بين شرف خدمة النبي ﷺ في بيته وشرف الجهاد بين يديه في الميدان."
+      },
+      {
+        "order": 5,
+        "titleEn": "Striving in the conquests after the Prophet ﷺ",
+        "titleAr": "مواصلته الجهاد بعد وفاة النبي ﷺ",
+        "year": "Caliphates of Abu Bakr, Umar, Uthman, and beyond",
+        "descriptionEn": "He continued to participate in expeditions during the caliphates, advancing with the Muslim armies far beyond Arabia and carrying the legacy of the early Ansar into the expanding frontiers.",
+        "descriptionAr": "ظل أبو أيوب يخرج مع جيوش المسلمين في عهود الخلفاء، يطارد فلول الروم والفرس وسواهم، حريصًا على أن يختم حياته في سبيل الله بعيدًا عن الدعة في المدينة."
+      },
+      {
+        "order": 6,
+        "titleEn": "Final journey to Constantinople and death there",
+        "titleAr": "خروجه شيخًا كبيرًا إلى القسطنطينية ووفاته عند أسوارها",
+        "year": "First siege of Constantinople",
+        "descriptionEn": "In old age, he joined the campaign to Constantinople; when he fell ill near the city walls, he asked the army to carry him as far forward as possible and to bury him under the fortifications so that the Muslims would pass over his grave, then he died there as a murabit in the farthest frontier.",
+        "descriptionAr": "خرج مع جيش المسلمين الذي حاصر القسطنطينية وهو شيخ كبير، فلما نزل به المرض أوصى أن يحملوه حتى يضعوا جسده تحت أسوارها قدر ما يستطيعون، وأن يدفنوه هناك ليكون في ثغرٍ من ثغور المسلمين إلى يوم القيامة، ففعلوا، ودُفن أبو أيوب الأنصاري عند أسوار القسطنطينية مرابطًا بعد الموت كما كان مرابطًا في الحياة."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "مَا نَزَلَ رَسُولُ اللَّهِ ﷺ دَارًا مِنْ دُورِ الأَنْصَارِ يَوْمَ الْهِجْرَةِ إِلَّا دَارَ أَبِي أَيُّوبَ، وَمَا مَكَثَ فِيهَا إِلَّا كَانَ أَهْلُهَا يَتَسَامَوْنَ بِهَا عَلَى سَائِرِ دُورِ الْمَدِينَةِ.",
+      "translationEn": "On the day of Hijrah, no house of the Ansar was honored to host the Messenger of Allah ﷺ except the house of Abu Ayyub, and as long as he stayed there, its people regarded that home as rising above all the other homes of Madinah.",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٦٣–٧٠."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة أبي أيوب الأنصاري من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Abu Ayyub al-Ansari from the book when fully entered].",
+      "note": "الخلاصة مبنية على عرض المؤلف لقصة نزول النبي ﷺ في بيته وخروجه إلى القسطنطينية."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 4,
+    "conversionEraLabel": "قبل الهجرة (أنصاري من أهل البيعة)",
+    "battlesCount": 7,
+    "distinctionsCount": 4,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik",
+    "sc-006-al-baraa-ibn-malik"
+  ]
+}

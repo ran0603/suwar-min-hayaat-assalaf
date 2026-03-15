@@ -1,0 +1,206 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-010-abdullah-ibn-jahsh",
+    "cardNumber": "010",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "79–88[page:1]"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "عَبْدُ اللّٰهِ بْنُ جَحْشٍ الأَسَدِيُّ",
+    "nameTranslit": "Abdullah ibn Jahsh al-Asadi",
+    "fullNameArabic": "عَبْدُ اللّٰهِ بْنُ جَحْشِ بْنِ رِئَابٍ الأَسَدِيُّ القُرَشِيُّ",
+    "fullNameTranslit": "Abdullah ibn Jahsh ibn Ri'ab al-Asadi al-Qurashi",
+    "kunya": "أَبُو مُحَمَّدٍ",
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "من السابقين إلى الإسلام بمكة، ومن أوائل من هاجر إلى الحبشة ثم إلى المدينة.[page:1]"
+    },
+    "deathYear": {
+      "hijri": "3 AH (approx)",
+      "gregorian": null,
+      "note": "استشهد يوم أُحُد.[page:1]"
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "مكة المكرمة.[page:1]",
+    "placeOfDeath": "جبل أُحُد.[page:1]",
+    "graveLocation": "ضمن شهداء أحد؛ قُتل ومثّل به كما مثّل بغيره من الشهداء.[page:1]"
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "جَحْشُ بْنُ رِئَابٍ",
+      "kunya": null,
+      "note": "من بني أسد بن خزيمة، حلفاء بني عبد شمس في مكة.[page:1]"
+    },
+    "mother": {
+      "nameArabic": "أُمَيْمَةُ بِنْتُ عَبْدِ المُطَّلِبِ",
+      "kunya": null,
+      "note": "عمة رسول الله ﷺ، وبها يكون عبد الله ابنَ خالة النبي ﷺ.[page:1]"
+    },
+    "tribe": "قريش",
+    "clan": "بنو أسد بن خزيمة، حلفاء في قريش.[page:1]",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "ابن خالة النبي ﷺ؛ أمه أميمة بنت عبد المطلب عمة رسول الله.[page:1]"
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "قبل الهجرة",
+    "battles": [
+      "بدر",
+      "أحد"
+    ],
+    "distinctions": [
+      "بدري",
+      "من السابقين الأولين",
+      "من المهاجرين الأولين"
+    ],
+    "scholarly_role": [
+      "راوي حديث"
+    ],
+    "relation_to_prophet": [
+      "ابن خالة"
+    ],
+    "tribe": "أسد",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "تُذكر مواقفه في السِّيَر أكثر من روايته للأحاديث؛ له أثرٌ مشهور في الدعاء يوم أُحُد أن يلقى أشدّ الناس بأسًا فيُقتل ويُمثّل به صبرًا.[page:1]"
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "كان أميرَ أول سريةٍ يغنم فيها المسلمون شيئًا (سرية نخلة) والتي نزل بشأنها قول الله تعالى في القتال في الشهر الحرام.[page:1]"
+    }
+  },
+  "biography": {
+    "tagline": "ابنُ خالةِ النبي ﷺ، وأمير سرية نخلَة، وداعِي ربّه يوم أُحد أن تُجَدَّع أعضاؤه في سبيل الله.",
+    "taglineArabic": "سابقٌ من السابقين؛ هاجر إلى الحبشة، ثم قاد أول سريةٍ وقع فيها قتال، وخُتم له شهيدًا يوم أُحُد.",
+    "summaryEn": "Abdullah ibn Jahsh (رضي الله عنه) was a close relative of the Prophet ﷺ through his mother, Ummaymah bint Abd al-Muttalib, and among the earliest Muslims in Makkah.[page:1] He migrated to Abyssinia under persecution, then to Madinah, and the Prophet ﷺ later appointed him commander of the expedition of Nakhlah, the first raid in which Muslims captured spoils and killed an enemy during a sacred month, prompting Qur'anic revelation addressing fighting in the sacred months.[page:1] At Uhud he displayed great bravery and supplicated that he meet a fierce enemy who would cut off his nose and ears so that he could meet Allah bearing the marks of sacrifice, and he was indeed martyred with his body mutilated as he had asked.[page:1]",
+    "summaryAr": "كان عبد الله بن جحش (رضي الله عنه) من أوائل من أسلموا في مكة، وهو ابن خالة رسول الله ﷺ، مما زاد صلته به قربًا ونسبًا.[page:1] هاجر إلى الحبشة فرارًا بدينه، ثم عاد فهاجر إلى المدينة، وكان من المهاجرين الأُوَل الذين تركوا أموالهم وديارهم لله ورسوله.[page:1] بعثه النبي ﷺ أميرًا على سرية «نَخْلة» وأعطاه كتابًا لا يفتحه إلا بعد مسير يومين، فمضى بأصحابه حتى لَقُوا عيرًا لقريش، فقتلوا أحد رجالها وأسروا اثنين وأصابوا من أموالها وذلك في آخر ليلة من رجب؛ فشق ذلك على المسلمين، ونزل القرآن يبيّن أن ما فعلوه كبير، لكن ما تصنع قريش من صَدٍّ عن سبيل الله وإخراجٍ لأهله من المسجد الحرام أكبر عند الله.[page:1] أما في أُحُد فقد آثر الآخرة على الدنيا، فدعا ربه أن يرزقه عدوًا شديدًا فيقتله ويُمَثِّلَ به، فإذا لقي الله قال له: فيك فعل هذا، فأقول: فيك فعلتُ هذا؛ فكان كما سأل، إذ وُجِدَ شهيدًا قد جُدِع أنفه وأُذناه.[page:1]",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الشجاعة",
+        "en": "Courage"
+      },
+      {
+        "ar": "الانقياد التام لأمر النبي ﷺ",
+        "en": "Complete obedience to the Prophet’s command"
+      },
+      {
+        "ar": "الرغبة في الشهادة",
+        "en": "Longing for martyrdom"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Early acceptance of Islam and first Hijrah",
+        "titleAr": "إسلامه المبكر وهجرته الأولى إلى الحبشة",
+        "year": "Pre-Hijrah (Makkan period)",
+        "descriptionEn": "As part of the early believing circle around the Prophet ﷺ, Abdullah ibn Jahsh accepted Islam in Makkah and endured persecution, then joined the first or second migration to Abyssinia seeking a safe haven for worship.[page:1]",
+        "descriptionAr": "أسلم عبد الله بن جحش في بدايات الدعوة مع من أسلم من بني هاشم وبني أسد، فلما اشتد أذى قريش كان فيمن خرج إلى الحبشة مهاجرًا، تاركًا مكة وما فيها من جاهٍ وقرابةٍ ليحفظ دينه.[page:1]"
+      },
+      {
+        "order": 2,
+        "titleEn": "Hijrah to Madinah and loss of property",
+        "titleAr": "هجرته إلى المدينة وتركه لأمواله",
+        "year": "1 AH",
+        "descriptionEn": "Later he migrated to Madinah, leaving behind his house and property in Makkah, which Quraysh seized, embodying the sacrifice of the first Muhajirun.[page:1]",
+        "descriptionAr": "ثم خرج في الهجرة الكبرى إلى المدينة، فاستولت قريش على داره ومتاعه بمكة، ورضي أن يلقى ربه لا يملك من الدنيا إلا ما يحمله على ظهره، محتسبًا ذلك عند الله.[page:1]"
+      },
+      {
+        "order": 3,
+        "titleEn": "Appointed commander of the expedition of Nakhlah",
+        "titleAr": "تعيينه أميرًا على سرية نخلَة",
+        "year": "2 AH, before Badr",
+        "descriptionEn": "The Prophet ﷺ sent him as leader over a detachment to Nakhlah between Makkah and Ta'if, giving him a sealed letter with instructions to open it after traveling two days and to proceed as commanded without coercing his men.[page:1]",
+        "descriptionAr": "بعثه النبي ﷺ في رهطٍ من المهاجرين إلى «نخلَة» بين مكة والطائف، وأعطاه كتابًا وأمره ألا يفتحه إلا بعد أن يسير يومين، فلما فتحه وجد فيه: «إذا نظرت في كتابي هذا فامضِ حتى تنزل نخلَة بين مكة والطائف، فترصد بها قريشًا وتعلَم لنا من أخبارها، ولا تُكرِهَنَّ أحدًا من أصحابك على المسير معك»، فقال: سمعًا وطاعة، ثم أخبر أصحابه، فمضى معه من شاء ورجع من شاء.[page:1]"
+      },
+      {
+        "order": 4,
+        "titleEn": "Encounter with the Quraysh caravan and first blood in the sacred month",
+        "titleAr": "لقاء عير قريش وسفك الدم في الشهر الحرام",
+        "year": "End of Rajab 2 AH",
+        "descriptionEn": "At Nakhlah they encountered a Quraysh caravan and debated whether to attack because it was the last night of Rajab; they finally decided to fight, killed one man, captured two, and seized the goods, which caused distress among the Muslims and gave Quraysh grounds for propaganda.[page:1]",
+        "descriptionAr": "لما رأوا عيرًا لقريش فيها عمرو بن الحضرمي وآخرون تشاوروا: إن تركناهم الليلة دخلوا الحرم، وإن قاتلناهم أصبنا في الشهر الحرام، فرجحت كفةُ القتال عند بعضهم، فهاجموا العير فقتلوا عمرو بن الحضرمي، وأسروا اثنين، وأصابوا من التجارة، فعظمت القضية في نفوس المسلمين، وقالت قريش: محمد أحلّ الشهر الحرام، ووقع المسلمون في حرجٍ شديد.[page:1]"
+      },
+      {
+        "order": 5,
+        "titleEn": "Qur'anic revelation about fighting in the sacred month",
+        "titleAr": "نزول القرآن في شأن القتال في الشهر الحرام",
+        "year": "2 AH",
+        "descriptionEn": "Revelation came clarifying that fighting in the sacred month is a grave matter but that the unbelievers’ persistent persecution, expelling Muslims from the Sacred Mosque, and preventing people from Allah’s path were even graver sins, thereby putting the incident in perspective.[page:1]",
+        "descriptionAr": "نزل قول الله تعالى يُبيّن الحكم: أن القتال في الشهر الحرام كبير، ولكن ما تفعله قريش من الصد عن سبيل الله والكفر به والمسجد الحرام وإخراج أهله منه أكبر عند الله، فخفّف ذلك عمّا وقع في قلوب الصحابة من حرج، وبيّن أن عبد الله وأصحابه ما أرادوا إلا وجه الله.[page:1]"
+      },
+      {
+        "order": 6,
+        "titleEn": "His supplication before Uhud",
+        "titleAr": "دعاؤه بين يدي أُحُد",
+        "year": "3 AH, day of Uhud",
+        "descriptionEn": "On the morning of Uhud, when some Companions were supplicating for victory and plunder, Abdullah ibn Jahsh prayed instead for a fierce enemy who would fight him, cut off his nose and ears, and kill him so that he could meet Allah bearing these injuries in His path.[page:1]",
+        "descriptionAr": "روي أن سعد بن أبي وقاص قال: دعونا الله يوم أُحُد، فدعوتُ، ثم قلت لعبد الله بن جحش: ادعُ، فقال: اللهم ارزقني غدًا رجلاً شديدًا حرده، شديدًا بأسه، أقاتله فيك ويقاتلني، ثم يأخذني فيجدع أنفي وأُذني، فإذا لقيتك قلتَ: يا عبد الله، فيمَ جدع أنفك وأذنك؟ فأقول: فيك وفي رسولك، فتقول: صدقت. قال سعد: فوالله لقد رأيتُه آخر النهار كما دعا، قد جُدِع أنفه وأُذناه.[page:1]"
+      },
+      {
+        "order": 7,
+        "titleEn": "Martyrdom at Uhud",
+        "titleAr": "استشهاده يوم أُحُد",
+        "year": "3 AH",
+        "descriptionEn": "In the battle he fought bravely until he fell as a martyr, with his body mutilated in the way he had described in his supplication, a testimony to his sincerity in seeking martyrdom.[page:1]",
+        "descriptionAr": "قاتل عبد الله بن جحش قتال الأبطال يوم أُحُد حتى وقع شهيدًا، وقد فُعل به ما سأل ربه أن يُفعل به؛ جُدِع أنفه وأُذناه، فكان في ذلك علامة على صدقه في طلب الشهادة وأنه باع نفسه لله بيعًا لا رجعة فيه.[page:1]"
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "اللَّهُمَّ ارزُقْنِي غَدًا رَجُلًا شَدِيدًا حَرَدُهُ شَدِيدًا بَأْسُهُ، أُقَاتِلُهُ فِيكَ وَيُقَاتِلُنِي، ثُمَّ يَأْخُذُنِي فَيَجْدَعَ أَنْفِي وَأُذُنِي، فَإِذَا لَقِيتُكَ قُلْتَ: فِيمَ جُدِعَ أَنْفُكَ وَأُذُنُكَ؟ فَأَقُولُ: فِيكَ وَفِي رَسُولِكَ، فَتَقُولُ: صَدَقْتَ.[page:1]",
+      "translationEn": "“O Allah, grant me tomorrow a man fierce in rage and strong in might; I will fight him for Your sake and he will fight me, then he will overpower me and sever my nose and ears, and when I meet You, You will ask: ‘Why were your nose and ears cut off?’ I will say: ‘For You and for Your Messenger,’ and You will say: ‘You have spoken the truth.’”[page:1]",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٧٩–٨٨.[page:1]"
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة عبد الله بن جحش من الكتاب عند الإدخال التفصيلي].[page:1]",
+      "translationEn": "[To be completed later with the full chapter on Abdullah ibn Jahsh from the book when fully entered].[page:1]",
+      "note": "الخلاصة مبنية على عرض المؤلف لهجرته، وسرية نخلَة، ودعائه يوم أُحُد وشهادته.[page:1]"
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 4,
+    "conversionEraLabel": "قبل الهجرة (مكي من السابقين)",
+    "battlesCount": 2,
+    "distinctionsCount": 3,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik",
+    "sc-008-abu-ayyoob-al-ansari"
+  ]
+}

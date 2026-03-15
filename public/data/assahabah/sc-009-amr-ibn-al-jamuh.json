@@ -1,0 +1,226 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-009-amr-ibn-al-jamuh",
+    "cardNumber": "009",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "71–78"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "عَمْرُو بْنُ الْجَمُوحِ الأَنْصَارِيُّ",
+    "nameTranslit": "Amr ibn al-Jamuh al-Ansari",
+    "fullNameArabic": "عَمْرُو بْنُ الْجَمُوحِ بْنِ زَيْدٍ الأَنْصَارِيُّ السَّلَمِيُّ",
+    "fullNameTranslit": "Amr ibn al-Jamuh ibn Zayd al-Ansari as-Salami",
+    "kunya": "أَبُو مَعَاذٍ",
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "كان شيخًا كبيرًا حين هاجر النبي ﷺ إلى المدينة، وكان أعرج شديد العرج."
+    },
+    "deathYear": {
+      "hijri": "3 AH (approx)",
+      "gregorian": null,
+      "note": "استشهد يوم أُحُد."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "يثرب (المدينة المنورة لاحقًا).",
+    "placeOfDeath": "جبل أُحُد.",
+    "graveLocation": "موضع شهداء أُحُد، ودُفن مع عبد الله بن عمرو بن حرام في قبر واحد."
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "الْجَمُوحُ بْنُ زَيْدٍ",
+      "kunya": null,
+      "note": "من سادات بني سلمة من الخزرج."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "الخزرج",
+    "clan": "بنو سَلِمَة من الأنصار.",
+    "spouses": [
+      {
+        "nameArabic": "هِنْدُ بِنْتُ عَمْرٍو بْنِ حَرَامٍ",
+        "note": "أخت الصحابي الجليل عبد الله بن عمرو بن حرام، وأم أولاده الذين أسلموا قبله."
+      }
+    ],
+    "children": [
+      {
+        "nameArabic": "مُعَاذٌ",
+        "gender": "male",
+        "companionStatus": true,
+        "note": "من أوائل من حطم صنم أبيه «مناة» بعد أن أسلم."
+      },
+      {
+        "nameArabic": "مُعَوِّذٌ",
+        "gender": "male",
+        "companionStatus": true,
+        "note": "شارك مع أخيه في كسر الصنم وإظهار الإسلام في بيتهم."
+      },
+      {
+        "nameArabic": "خَلَّادٌ",
+        "gender": "male",
+        "companionStatus": true,
+        "note": "أسلم مع إخوته، وكانوا سببًا في هداية أبيهم."
+      }
+    ],
+    "relationToProphet": [
+      "أنصاري من أهل المدينة، من أصحاب بيعة العقبة عن طريق قومه وإن تأخر إسلامه إلى ما بعد الهجرة."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "أنصاري",
+    "conversion_era": "بعد الهجرة",
+    "battles": [
+      "أحد"
+    ],
+    "distinctions": [
+      "بدري (حكمًا في الفضل؛ لكنه لم يشهد بدرًا لعرجه، وإنما شهد أُحُدًا واستشهد فيها)",
+      "من السابقين الأولين من الأنصار في الثبات يوم أُحُد"
+    ],
+    "scholarly_role": [
+      "لا رواية"
+    ],
+    "relation_to_prophet": [],
+    "tribe": "خزرج",
+    "narrations_count": "لا رواية",
+    "narrations": {
+      "tier": "لا رواية",
+      "tierEn": "No hadith recorded",
+      "count": null,
+      "note": "يُذكر في باب السِّيَر والجهاد، لا في باب الإكثار من الرواية."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "مثال على تحقّق قوله تعالى: ﴿لَيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ…﴾ مع شدة حرصه على الجهاد رغم العذر."
+    }
+  },
+  "biography": {
+    "tagline": "الشيخ الأعرج الذي ألقى بنفسه في أُحُد، وقال: إني لأرجو أن أَطَأَ بعرجتي هذه الجنة.",
+    "taglineArabic": "سيّد من سادة بني سلمة؛ كان لصنمه هيبةٌ في قومه، ثم طرحه أولاده في حفرة، وانتهى شهيدًا بين يدي رسول الله ﷺ.",
+    "summaryEn": "Amr ibn al-Jamuh (رضي الله عنه) was a respected elder of the Ansar and a leader of Banu Salama who was initially deeply attached to his household idol and resistant to Islam. His sons secretly accepted Islam and repeatedly threw his idol 'Manaf' into a refuse pit at night, until he realized its incapacity and embraced Islam himself. Despite being severely lame in one leg and having a clear Qur'anic excuse from combat, he insisted on joining the Battle of Uhud, hoping that his limp foot would tread Paradise, and he was martyred there.",
+    "summaryAr": "كان عمرو بن الجموح (رضي الله عنه) سيّدًا من سادة بني سلمة، يعبد صنمًا في بيته يقال له «مَناة» أو «مُناف»، يزيّنه بالطيب والحُلَل، ويراه شفيعًا عند الله. أسلم أبناؤه وزوجته في كتمان، وأخذوا كل ليلةٍ يحملون صنمه فيلقونه في حفرةٍ يُلقَى فيها كلبٌ ميت أو قذرٌ، فيغضب ويُنظّفه ويطيّبه ويعيده إلى مكانه حتى استيقظ قلبه يومًا وقال لصنمه: «والله لو كنتَ إلهًا لم تكن أنت والكلب في حفرةٍ واحدة»، فأسلم لله رب العالمين. ولما كان يوم أُحُد جاء بنوه إلى النبي ﷺ يقولون إن أباهم أعرج شديد العرج وقد عذره الله، فأرادوا منعه من الخروج، لكنه قال: «إني لأرجو أن أطأ بعرجتي هذه الجنة»، فأذن له النبي ﷺ، فقاتل حتى استشهد، ودُفن مع عبد الله بن عمرو بن حرام في قبر واحد، وقال النبي ﷺ إنهما سائران إلى الله جُدُدًا في أكفانهما.",
+    "physicalDescription": {
+      "ar": "كان أعرجَ شديدَ العرج لا يستطيع الجري كغيره من الرجال.",
+      "en": "He was markedly lame in one leg and could not run like other men."
+    },
+    "characterTraits": [
+      {
+        "ar": "الزعامَةُ في قومه",
+        "en": "Tribal leadership"
+      },
+      {
+        "ar": " شدّة التعلّق بما يعتقده حتى يتبيّن له الحق",
+        "en": "Deep attachment to beliefs until clarity of truth"
+      },
+      {
+        "ar": "الرغبة الصادقة في الشهادة",
+        "en": "Sincere longing for martyrdom"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Attachment to his household idol",
+        "titleAr": "تعلّقه بصنمه في الجاهلية",
+        "year": "Pre-Hijrah / early Madinan",
+        "descriptionEn": "As a chief of Banu Salama, Amr kept a private idol in his house, decorating it with perfumes and fine cloths and regarding it with deep reverence, making it difficult for his family to openly challenge his beliefs.",
+        "descriptionAr": "كان لعمرو صنمٌ مُشيّدٌ في داره، يعلّقه بالثياب الفاخرة ويطيّبه بأطيب الطيب، ويتقرب إليه بالقرابين، ويرى لنفسه الفضل في قومه بخدمته لهذا الوثن."
+      },
+      {
+        "order": 2,
+        "titleEn": "His sons accept Islam and plot to topple the idol",
+        "titleAr": "إسلام بنيه وتدبيرهم لكسر الصنم",
+        "year": "Early Madinan period",
+        "descriptionEn": "His sons accepted Islam along with the youth of Banu Salama and, with their mother’s support, decided to wean their father from idolatry by repeatedly humiliating his idol.",
+        "descriptionAr": "أسلم بنوه: معاذ ومعوّذ وخلاد، ومعهم أمهم هند بنت عمرو، ولم يجرؤوا أول الأمر على مجاهرته، فاتفقوا على أن يوقعوا بصنمه حتى يرى عجزه، رجاء أن ينخلع قلبه من عبادته."
+      },
+      {
+        "order": 3,
+        "titleEn": "Throwing the idol into the refuse pit",
+        "titleAr": "طرح الصنم في حفرة القذر",
+        "year": "Early Madinan period",
+        "descriptionEn": "By night they would take his idol, tie a dead dog to it, and cast it into a pit of refuse; Amr would retrieve it at dawn, clean and perfume it, until the scene repeated enough times to break his attachment.",
+        "descriptionAr": "كانوا إذا جنّ الليل أخذوا صنمه، فطرحوه في حفرةٍ يُلقَى فيها القذر وجيفة الكلب، فإذا أصبح عمد إلى الصنم، فوجده في الحفرة مع الكلب، فينـزله، ويغسله من الأذى، ويطيّبه، ويعيده إلى مكانه، حتى تكرر ذلك مرارًا."
+      },
+      {
+        "order": 4,
+        "titleEn": "Realization and acceptance of Islam",
+        "titleAr": "اكتشافه عجز الصنم ودخوله في الإسلام",
+        "year": "After repeated incidents",
+        "descriptionEn": "Eventually Amr stood before the idol and said that if it had any good in it, it would not be in the same pit as a dead dog; he cast it into the pit once more and then went to the Prophet ﷺ, declaring his Islam.",
+        "descriptionAr": "وقف يومًا أمام صنمه وقال: والله لو كنتَ إلهًا ما كنتَ أنت والكلب في حفرةٍ واحدة، ثم حمله فألقاه في الحفرة غيرَ آسفٍ عليه، وذهب إلى رسول الله ﷺ يعلن إسلامه وينخلع من عبادة الحجر."
+      },
+      {
+        "order": 5,
+        "titleEn": "Argument about his participation in Uhud",
+        "titleAr": "خلاف بنيه معه في الخروج إلى أُحُد",
+        "year": "3 AH",
+        "descriptionEn": "When Uhud approached, his sons sought to prevent him from joining the battle due to his severe lameness and the Qur'anic dispensation for the disabled, but he brought the matter to the Prophet ﷺ himself.",
+        "descriptionAr": "لما كان يوم أُحُد قال لبنيه: دعوني أخرج مع رسول الله ﷺ لعلّي أُستشهد، فقالوا: إن الله قد عذرك؛ فأنت أعرج شديد العرج، فخاصموه إلى رسول الله ﷺ."
+      },
+      {
+        "order": 6,
+        "titleEn": "His statement: “I hope my lame foot will tread Paradise”",
+        "titleAr": "قوله: «إني لأرجو أن أطأ بعرجتي هذه الجنة»",
+        "year": "3 AH, before Uhud",
+        "descriptionEn": "In front of the Prophet ﷺ he said that he hoped to walk with his lame leg in Paradise and begged not to be held back from jihād; the Prophet ﷺ then permitted him to join the battle.",
+        "descriptionAr": "قال بين يدي النبي ﷺ: يا رسول الله، إن بنيّ يريدون أن يحبسوني عن هذا الوجه، والله إني لأرجو أن أطأ بعرجتي هذه الجنة، فدعا له رسول الله ﷺ وأذن له بالخروج."
+      },
+      {
+        "order": 7,
+        "titleEn": "Martyrdom at Uhud and burial",
+        "titleAr": "استشهاده يوم أُحُد ودفنه مع عبد الله بن عمرو",
+        "year": "3 AH",
+        "descriptionEn": "He fought bravely at Uhud until he fell as a martyr, and he was buried with Abdullah ibn Amr ibn Haram in the same grave, about whom the Prophet ﷺ commented on their state as if they were being carried to Allah fresh in their shrouds.",
+        "descriptionAr": "قاتل عمرو يوم أُحُد بين يدي رسول الله ﷺ حتى أثخنته الجراح فاستشهد، فأمر النبي ﷺ أن يُدفن هو وعبد الله بن عمرو بن حرام في قبر واحد، وقال في شأنهما إنهما سائران إلى الله جُدُدًا في أكفانهما."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "إِنِّي لَأَرْجُو أَنْ أَطَأَ بَعَرْجَتِي هَذِهِ الْجَنَّةَ.",
+      "translationEn": "“I truly hope that with this very lame foot of mine I will tread into Paradise.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٧١–٧٨."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة عمرو بن الجموح من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Amr ibn al-Jamuh from the book once fully entered].",
+      "note": "الخلاصة مبنية على قصة صنمه وإسلامه وشهادته يوم أُحُد كما رواها المؤلف."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 2,
+    "conversionEraLabel": "بعد الهجرة (أنصاري)",
+    "battlesCount": 1,
+    "distinctionsCount": 2,
+    "narrationsTier": "لا رواية",
+    "narrationsTierScore": 0,
+    "scholarlyRoles": [
+      "لا رواية"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-006-al-baraa-ibn-malik",
+    "sc-008-abu-ayyoob-al-ansari"
+  ]
+}

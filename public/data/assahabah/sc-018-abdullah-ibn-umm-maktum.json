@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-018-abdullah-ibn-umm-maktum",
+    "cardNumber": "018",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "145–155 (chapter: ١٨ - عبد الله بن أم مكتوم)"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "عَبْدُ اللَّهِ بْنُ أُمِّ مَكْتُومٍ",
+    "nameTranslit": "Abdullah ibn Umm Maktum",
+    "fullNameArabic": "عَمْرُو بْنُ قَيْسٍ، وَقِيلَ: عَبْدُ اللَّهِ بْنُ قَيْسٍ، المَقْعَدُ القُرَشِيُّ الفِهْرِيُّ",
+    "fullNameTranslit": "Amr (or Abdullah) ibn Qays al-Maq'ad al-Qurashi al-Fihri",
+    "kunya": "أَبُو عَبْدِ اللَّهِ",
+    "laqab": [
+      "ابنُ أُمِّ مَكْتُومٍ"
+    ],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "وُلِدَ بمكة من قريشٍ فِهْر، وكان أعمى، وأسلم في العهد المكي قبل الهجرة، فكان من أوائل المؤمنين من المستضعفين."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "المؤلف يركّز على قصته مع نزول صدر سورة «عبس» وعلى دوره في الأذان والجهاد، ولا يفصّل سنة وفاته، وتُستكمل من كتب التراجم."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "مكة المكرمة؛ من بطن فِهْر من قريش.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "قَيْسٌ الفِهْرِيُّ",
+      "kunya": null,
+      "note": "ينتسب به إلى فِهْر من قريش؛ يركّز المؤلف أكثر على نسبه لأمه أم مكتوم التي غلبت عليه الكنية."
+    },
+    "mother": {
+      "nameArabic": "عَاتِكَةُ بِنْتُ عَامِرِ بْنِ مَخْزُومٍ",
+      "kunya": "أُمُّ مَكْتُومٍ",
+      "note": "من بني مخزوم، وكنيتُه به، فشَاعَ اسمه بابن أم مكتوم."
+    },
+    "tribe": "قريش",
+    "clan": "قُرَشِيٌّ فِهْرِيّ من جهة الأب، ومخزوميّ من جهة الأم.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "قرشيٌّ حليف، من المستضعفين الذين نصرهم النبي ﷺ، وورد في شأنه صدر سورة «عبس» تربيةً للأمة على تكريم ضعفاء المؤمنين."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "قبل الهجرة",
+    "battles": [
+      "الخندق",
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من السابقين الأولين",
+      "من المهاجرين الأولين"
+    ],
+    "scholarly_role": [
+      "راوي حديث",
+      "قارئ"
+    ],
+    "relation_to_prophet": [
+      "حليف",
+      "مؤذن",
+      "نائب عن النبي ﷺ في المدينة"
+    ],
+    "tribe": "قريش",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "تدور رواياته حول قصته مع نزول سورة «عبس» وأحكام الأذان والصلاة للمكفوف، مع كونه معروفًا أكثر بوظيفته في الأذان والنيابة."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "يُذكر أنه كان يتعلّم القرآن من النبي ﷺ ويقرؤه للناس في غيابه، ونزل في شأنه صدر سورة «عبس وتولى» تكريمًا له وتنبيهًا لعظم قدر المؤمن المستضعف."
+    }
+  },
+  "biography": {
+    "tagline": "المؤذِّنُ الأعمى من قريش، الذي عاتَبَ اللهُ نبيَّه من أجله في سورة «عبس»، فصار رمزًا لعِظَم مقام أهل الإيمان وإن ضعفوا في أعين الناس.",
+    "taglineArabic": "قرشيٌّ فِهْرِيّ ضرير، أسلم في مكة، وهاجر، وتولّى الأذان مع بلال رضي الله عنه، وكان رسول الله ﷺ يستخلفه على المدينة في بعض مغازيه.",
+    "summaryEn": "Abdullah ibn Umm Maktum (رضي الله عنه) was a blind Qurashi from the clan of Fihr who embraced Islam in Makkah and longed to sit with the Prophet ﷺ to learn the Qur'an despite his physical disability and social weakness. One day he came to the Prophet ﷺ while the Prophet was speaking with leading Quraysh nobles, repeatedly asking to be taught, and the Prophet frowned and turned away, hoping the chiefs’ hearts might open; Allah then revealed the opening verses of Surah Abasa, gently reproaching His Messenger and forever elevating Ibn Umm Maktum’s status. After Hijrah, he settled in Madinah, shared the call to prayer with Bilal, and was appointed by the Prophet ﷺ as his deputy over the city in several expeditions, demonstrating that true worth in Islam lies in faith and service, not worldly rank or physical sight.",
+    "summaryAr": "كان عبد الله بن أم مكتوم من أوائل من أسلموا من ضعفاء قريش؛ أعمى البصر قويّ البصيرة، يتوق إلى مجالسة النبي ﷺ وتعلّم القرآن. يروي المؤلف مشهدًا مؤثّرًا حين كان رسول الله ﷺ يجلس إلى عظماء قريش يدعوهم إلى الإسلام، ويعلّق عليهم آمالًا كبيرة، فجاءه ابن أم مكتوم يقول: «يا رسول الله، علّمني ممّا علّمك الله»، وكرر طلبه، فكره النبي ﷺ مقاطعته في ذلك المقام، وعبس في وجهه، وتولّى عنه، فنزل قول الله تعالى ﴿عَبَسَ وَتَوَلَّى * أَنْ جَاءَهُ الْأَعْمَى﴾ يذكّر نبيَّه بأن ميزان الكرامة هو التقوى، لا جاهُ القوم ولا سلطانهم. ومنذ ذلك اليوم تغيّر وجه النبي ﷺ لابن أم مكتوم؛ إذا رآه أكثر من إكرامه، وقال له: «مرحبًا بمن عاتبني فيه ربي»، ثم هاجر معه، وجعله مع بلال مؤذِّنًا للمسجد، واستخلفه على المدينة غير مرّة عند خروجه إلى الغزو.",
+    "physicalDescription": {
+      "ar": "يقدّمه المؤلف بوصفه رجلًا ضريرًا من قريش، يحمل على وجهه ملامح الوقار مع أثر الفقر والاستضعاف، لكن قلبه عامر بالإيمان والحرص على العلم.",
+      "en": "The author portrays him as a blind Qurashi man whose face bore signs of dignity mingled with poverty and weakness, yet whose heart overflowed with faith and eagerness for knowledge."
+    },
+    "characterTraits": [
+      {
+        "ar": "حِرْصٌ شديد على تعلّم القرآن",
+        "en": "Intense eagerness to learn the Qur'an"
+      },
+      {
+        "ar": "الصبر على الإعاقة والضعف",
+        "en": "Patience with disability and weakness"
+      },
+      {
+        "ar": "الاستمساك بالمجالس العلميّة",
+        "en": "Determination to attend circles of knowledge"
+      },
+      {
+        "ar": "القيام بالواجب رغم العجز",
+        "en": "Fulfilling duty despite physical limitations"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Early Islam in Makkah as a blind, weak Qurashi",
+        "titleAr": "إسلامه المبكر في مكة وهو أعمى ضعيف",
+        "year": "Makkan period (before Hijrah)",
+        "descriptionEn": "He embraced Islam while the Muslims in Makkah were few and persecuted, and due to his blindness and lack of tribal protection, he belonged to the class of weak believers who had little worldly support but strong faith in the message.",
+        "descriptionAr": "أسلم ابن أم مكتوم في مكة حين كان عدد المسلمين قليلاً، والبلاء شديدًا، وكان أعمى لا يجد من يحميه من أذى قريش، فكان في عداد المستضعفين الذين لم يكن لهم في الدنيا سندٌ إلا إيمانهم بالله ورسوله."
+      },
+      {
+        "order": 2,
+        "titleEn": "The incident that prompted Surah Abasa",
+        "titleAr": "حادثة نزول سورة «عبس»",
+        "year": "Makkan period",
+        "descriptionEn": "While the Prophet ﷺ earnestly invited prominent Quraysh leaders to Islam, hoping they might embrace the truth, Ibn Umm Maktum came repeatedly requesting to be taught; the Prophet frowned and turned away from him, whereupon Allah revealed the verses beginning with “He frowned and turned away because there came to him the blind man,” redirecting the priorities of da‘wah.",
+        "descriptionAr": "جلس رسول الله ﷺ يومًا إلى كبار قريش يعرض عليهم الإسلام، وفي ذهنه ما قد يترتب على إسلامهم من نصرة للدعوة، فجاء عبد الله بن أم مكتوم يقول: «يا رسول الله، علّمني ممّا علّمك الله»، وكرر طلبه، فعبس النبي ﷺ في وجهه، وتولّى عنه إلى أولئك النفر، فعاتبه الله بقوله ﴿عَبَسَ وَتَوَلَّى * أَنْ جَاءَهُ الْأَعْمَى﴾."
+      },
+      {
+        "order": 3,
+        "titleEn": "Prophet’s changed attitude and special welcome",
+        "titleAr": "تغيّر موقف النبي ﷺ بعد العتاب الإلهي",
+        "year": "Makkan period (after revelation of Abasa)",
+        "descriptionEn": "After the revelation, the Prophet ﷺ honored him even more; whenever he saw Ibn Umm Maktum he would greet him warmly and say words to the effect of, “Welcome to the one for whose sake my Lord reproved me,” turning that moment into a continuous badge of honor.",
+        "descriptionAr": "منذ أن نزلت الآيات، صار رسول الله ﷺ إذا رأى ابن أم مكتوم قال له مرحّبًا: «مرحبًا بمن عاتبني فيه ربي»، ويقرّبه ويجلسه حيث يسمع، تعويضًا له عمّا كان من إعراض لحظة، وتعليمًا للأمة في إكرام المؤمنين الضعفاء."
+      },
+      {
+        "order": 4,
+        "titleEn": "Hijrah and settlement in Madinah",
+        "titleAr": "هجرته واستقراره في المدينة",
+        "year": "1 AH",
+        "descriptionEn": "He migrated to Madinah among the early Muhajirun, leaving behind the hardship he suffered in Makkah, and became part of the new community around the Prophet ﷺ, continuing to study the Qur'an and participate in communal worship.",
+        "descriptionAr": "خرج ابن أم مكتوم مهاجرًا مع من هاجر من المستضعفين، تاركًا وراءه أذى قريش وفقر مكة، ونزل المدينة يعيش في كنف المجتمع الجديد، يلازم المسجد ويتعلم القرآن ويشارك المسلمين في عبادتهم بحسب طاقته."
+      },
+      {
+        "order": 5,
+        "titleEn": "Sharing the adhan with Bilal",
+        "titleAr": "توليه الأذان مع بلال",
+        "year": "Madinan period",
+        "descriptionEn": "In Madinah, the Prophet ﷺ appointed him, along with Bilal, as a caller to prayer; they alternated or combined calls at Fajr, with Ibn Umm Maktum sometimes calling the earlier adhan to wake the people as described in the sources.",
+        "descriptionAr": "جعله النبي ﷺ مع بلال مؤذّنَيْن للمسجد النبوي؛ فكان بلال يؤذن أحيانًا وابن أم مكتوم أحيانًا، ويُذكر أنه كان يؤذن بليل في رمضان ونحوه لينبّه الناس، بينما يتولى بلال الأذان مع الفجر، فكان صوتهما معلَمًا من معالم المدينة."
+      },
+      {
+        "order": 6,
+        "titleEn": "Being left as the Prophet’s deputy in Madinah",
+        "titleAr": "استخلاف النبي ﷺ له على المدينة",
+        "year": "Multiple campaigns in Madinan period",
+        "descriptionEn": "On several occasions when the Prophet ﷺ went out for battle or expeditions, he left Ibn Umm Maktum in charge of the prayers and certain affairs in Madinah, showing that blindness did not prevent him from leadership in worship and communal responsibilities.",
+        "descriptionAr": "كان رسول الله ﷺ إذا خرج في بعض مغازيه يستخلف ابن أم مكتوم على المدينة، فيقيم بالناس الصلاة، ويشرف على شؤونهم الظاهرة، مما يدل على تقديره له وثقته بدينه، وأن فقدان البصر لا ينفي الأهلية للقيادة الروحية."
+      },
+      {
+        "order": 7,
+        "titleEn": "Participation in jihad despite blindness",
+        "titleAr": "خروجه للجهاد مع عماه",
+        "year": "Later Madinan years",
+        "descriptionEn": "Although dispensations existed for the blind regarding jihad, he still longed to participate and is described as going out with the army carrying the flag or supporting roles, seeking martyrdom and refusing to let his blindness deter him from striving in Allah’s path.",
+        "descriptionAr": "مع أن الله جعل للمكفوفين عذرًا في ترك القتال، كان ابن أم مكتوم يتشوّق للجهاد، ويخرج في بعض الأسفار حاملاً الراية أو خادمًا للجيش، يرجو أن يختم له بالشهادة، ويثبت أن الإعاقة لا تمنع من البذل في سبيل الله."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "يذكر المؤلف قصة نزول قوله تعالى: ﴿عَبَسَ وَتَوَلَّى * أَنْ جَاءَهُ الْأَعْمَى﴾ فيقول - بمعناها -: كان رسول الله ﷺ جالسًا إلى نفرٍ من عظماء قريش يعرض عليهم الإسلام، ويرجو أن يسلموا فيسلم بإسلامهم خلقٌ كثير، إذ أقبل عبد الله بن أم مكتوم الأعمى يقول: «يا رسول الله، علّمني مما علّمك الله»، فألحّ في طلبه، فكره النبي ﷺ مقاطعته لذلك المجلس، وعبس في وجهه، وأعرض عنه، فعاتبه الله تعالى بهذه الآيات، فصار ابن أم مكتوم علمًا على تكريم الله لعباده المستضعفين.",
+      "translationEn": "The author relates the story of the revelation of the verse, “He frowned and turned away, because there came to him the blind man,” in meaning as follows: The Messenger of Allah ﷺ was sitting with a group of Quraysh nobles, presenting Islam to them and hoping that if they accepted it, many others would follow, when Abdullah ibn Umm Maktum, the blind man, came saying, “O Messenger of Allah, teach me of what Allah has taught you,” and persisted in his request. The Prophet disliked his interruption of that gathering and frowned at him and turned away, so Allah reproached him with these verses, making Ibn Umm Maktum a sign of Allah’s honoring of His weak servants.",
+      "sourceRef": "صور من حياة الصحابة، ج١، فصل عبد الله بن أم مكتوم."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة عبد الله بن أم مكتوم من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Abdullah ibn Umm Maktum from the book when fully entered].",
+      "note": "الملخّص يلتقط: إسلامه في مكة، حادثة «عبس»، تكريم النبي ﷺ له بعدها، هجرته، توليه الأذان، واستخلافه على المدينة وخروجه للجهاد."
+    },
+    "hadithAboutThem": [
+      {
+        "arabic": "يُورِدُ المؤلف أثرًا أن النبي ﷺ كان إذا رأى ابن أم مكتوم قال له: «مرحبًا بمن عاتبني فيه ربي».",
+        "translationEn": "The author reports the effect that when the Prophet ﷺ saw Ibn Umm Maktum, he would say to him, “Welcome to the one for whose sake my Lord reproved me.”",
+        "note": "فيه دلالة على رفعة منزلته في قلب النبي ﷺ بعد العتاب الإلهي."
+      }
+    ],
+    "notableQuotes": [],
+    "quranReferences": [
+      {
+        "verseArabic": "﴿عَبَسَ وَتَوَلَّى * أَنْ جَاءَهُ الْأَعْمَى﴾",
+        "surah": "عبس",
+        "ayah": "1–2",
+        "relationNote": "يقرر المؤلف أن صدر السورة نزل في ابن أم مكتوم، تعظيمًا لشأنه، وتأديبًا للأمة في معاملة أهل الإيمان الضعفاء."
+      }
+    ]
+  },
+  "cardStats": {
+    "conversionEraScore": 4,
+    "conversionEraLabel": "قبل الهجرة (مكي من السابقين من قريش المستضعفين)",
+    "battlesCount": 4,
+    "distinctionsCount": 2,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث",
+      "قارئ"
+    ]
+  },
+  "additionalSources": [
+    {
+      "id": "ref-tarajim-ibn-umm-maktum",
+      "title": "مصادر التراجم في عبد الله بن أم مكتوم",
+      "note": "لاستكمال تاريخ وفاته، وتفصيل مشاركاته في الغزو، وتوثيق رواياته، يرجع إلى كتب كـ«الإصابة» و«أسد الغابة» و«سير أعلام النبلاء»، كما يحيل المؤلف لمثلها في آخر تراجم أخرى."
+    }
+  ],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik",
+    "sc-011-abu-ubaydah-ibn-al-jarrah",
+    "sc-012-abdullah-ibn-masud",
+    "sc-017-abu-dharr-al-ghifari"
+  ]
+}

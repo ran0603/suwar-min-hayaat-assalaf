@@ -1,0 +1,243 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-013-salman-al-farisi",
+    "cardNumber": "013",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "107-114"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "سَلْمَانُ الفَارِسِيُّ",
+    "nameTranslit": "Salman al-Farisi",
+    "fullNameArabic": "سَلْمَانُ بْنُ الإِسْلَامِ، وَقِيلَ: سَلْمَانُ بْنُ عَبْدِ اللَّهِ الفَارِسِيُّ",
+    "fullNameTranslit": "Salman ibn al-Islam (or Salman ibn Abdullah al-Farisi)",
+    "kunya": "أَبُو عَبْدِ اللَّهِ",
+    "laqab": [
+      "سَلْمَانُ الخَيْرِ"
+    ],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "نشأ في أرض فارس في بيت مجوسيٍّ ثريٍّ قبل البعثة بزمن، ثم تنقّل بين الرهبان حتى قدم إلى الجزيرة."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "الكتاب يركّز على رحلة إيمانه ومواقفه في المدينة أكثر من ضبط سنة الوفاة."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "فارس؛ في قريةٍ كان أبوه فيها صاحب ضيعةٍ وجاهٍ وسلطان، وكان يدين بالمجوسية.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": "كان مجوسيًّا مُتَعَصِّبًا، يحب سلمانًا حبًّا شديدًا، يحبسُه عن الناس خوفًا عليه، ويجعله قيّمًا على النار في المعبد."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "فارس",
+    "clan": "فارسي الأصل، ثم أصبح مولًى في المدينة بعد عتقه.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "مولى؛ آخى النبي ﷺ بينه وبين أبي الدرداء في المدينة، وقال فيه: «سَلْمَانُ مِنَّا أَهْلَ البَيْتِ» كما يذكر المؤلف في سياق مناقبه."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "بعد الهجرة",
+    "battles": [
+      "الخندق",
+      "خيبر",
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من أهل بيعة الرضوان",
+      "من السابقين الأولين من المهاجرين إلى المدينة من غير العرب"
+    ],
+    "scholarly_role": [
+      "راوي حديث",
+      "فقيه",
+      "مفسّر",
+      "زاهد مربٍّ"
+    ],
+    "relation_to_prophet": [
+      "مولى",
+      "حليف",
+      "منّا أهل البيت (شرف انتساب معنوي)"
+    ],
+    "tribe": "فارس",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "له أحاديث في أبواب الزهد والرقائق والفضائل؛ شهرته الأوسع في سيرته ورحلته الطويلة في طلب الحق، ومشاركته في الخندق."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "كان صاحبَ رأيٍ في الخندق حين أشار بحفره حول المدينة، فنزل القرآن يُثني على المؤمنين الذين صدقوا ما عاهدوا الله عليه في سياق الأحزاب، ويُذكر سلمان في ذلك الباب."
+    }
+  },
+  "biography": {
+    "tagline": "الباحثُ الفارسيُّ عن الحق، الذي طاف بالديانات حتى استوقفه نورُ النبوة في المدينة، وصار صاحبَ فكرة الخندق، وقال فيه النبي ﷺ: «سلمان منا أهل البيت».",
+    "taglineArabic": "من فارس إلى المدينة؛ رحلةُ قلبٍ لا يهدأ حتى يجد دين الحق، ينتهي به المطاف بين يدي رسول الله ﷺ مجاهدًا وزاهدًا ومعلّمًا.",
+    "summaryEn": "Salman al-Farisi (رضي الله عنه) grew up in a wealthy Magian household in Persia, so devoted to fire-worship that his father confined him at home to tend the sacred flame, yet his heart remained restless and searching. A chance encounter with a group of Christians on his way to his father’s estate exposed him to their worship, which he found closer to the truth than his inherited religion, prompting a long journey across lands and years in the service of successive priests until he was told of a final Prophet appearing in the land between two lava fields. He was eventually sold into slavery and brought to Madinah, where he recognized the signs of prophethood in Muhammad ﷺ, embraced Islam, was later freed, and became a key Companion whose strategic suggestion of the trench in the Battle of the Confederates saved the city and whose ascetic life inspired generations.",
+    "summaryAr": "نشأ سلمان الفارسي في قرية من قرى فارس، وكان أبوه صاحب ضيعةٍ ومنزلةٍ، أحبه حبًّا جعله يحبسُه في البيت ويجعله قيِّمًا على النار في المعبد لا يدعها تخبو لحظة، فكان سلمان يراها بعينيه لكنها لا تُطفئ ظمأ قلبه إلى الحق. خرج يومًا ليتفقد ضيعته، فمرَّ بكنيسة للنصارى، فسمع أصواتهم وهم يصلّون، فأعجبه ما رأى من خشوعهم، وقال: «هذا خيرٌ من ديننا»، فعاد إلى أبيه يطلب الإذن في مصاحبة النصارى، فاشتد غضب أبيه وقيده بالحديد، فاحتال سلمان على الفرار ولحق بأرض الشام، متنقّلًا بين الرهبان، كلما مات واحد انتقل إلى آخر، حتى دُلَّ أخيرًا على نبيٍّ يُبعث في أرضٍ بين حرتين ذات نخل، به علامات: يأكل الهدية ولا يأكل الصدقة، وبين كتفيه خاتم النبوة. تتابعت عليه المِحَن؛ بِيْعَ عبدًا حتى انتهى به الرقُّ إلى المدينة، فلما قَدِمَ النبي ﷺ هاجرًا أخذ سلمان يرقب العلامات، فامتحنه بالصدقة والهدية، حتى رأى خاتم النبوة بين كتفيه، فخرَّ يبكي ويقبّل يده ويعلن إسلامه، ثم شارك المسلمين في غزواتهم، وكان يوم الخندق صاحب الرأي الذي غيّر مجرى المعركة بحفر الخندق.",
+    "physicalDescription": {
+      "ar": "يصفه المؤلف في سياق قصته بما يدل على قوّة بدنه وصبره على الأسفار والأعمال الشاقة، مع بساطة في المظهر وملبس الزاهدين.",
+      "en": "The author presents him as physically strong and enduring, able to bear long journeys and hard labor, while living with the simple appearance and dress of an ascetic."
+    },
+    "characterTraits": [
+      {
+        "ar": "طول الصبر في طلب الحق",
+        "en": "Long-suffering patience in seeking the truth"
+      },
+      {
+        "ar": "الزهد في الدنيا",
+        "en": "Detachment from worldly comforts"
+      },
+      {
+        "ar": "الحكمة والرأي السديد",
+        "en": "Wisdom and sound strategic judgment"
+      },
+      {
+        "ar": "التواضع والشعور بالفضل لله",
+        "en": "Humility and deep sense that all favor is from Allah"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Childhood as a fire-worshipper in Persia",
+        "titleAr": "طفولته في بيت مجوسيٍّ بفارس",
+        "year": "Pre-Islamic period",
+        "descriptionEn": "He was raised by a wealthy Magian father who loved him intensely, confined him to the house, and placed him in charge of tending the sacred fire, which he was not allowed to let die, but the fire did not satisfy his yearning for truth.",
+        "descriptionAr": "نشأ سلمان في كنف أبٍ مجوسيٍّ جعله خادمًا للنار في المعبد، يوقِدُها ليلًا ونهارًا، ويظن أن في ذلك غاية القرب إلى الإله، بينما كان قلبه يشعر أن وراء النار نورًا آخر لم يهتدِ إليه بعد."
+      },
+      {
+        "order": 2,
+        "titleEn": "Encounter with Christians and leaving his homeland",
+        "titleAr": "لقاؤه بالنصارى وخروجه من فارس",
+        "year": "Pre-Hijrah (before the Prophet’s mission reaches Medina)",
+        "descriptionEn": "On his way to his father’s estate he heard Christian worship in a church, was impressed, and declared their religion better than his; despite his father chaining him at home, he managed to escape and journeyed to the Levant to live among Christian monks.",
+        "descriptionAr": "لمّا مرَّ بكنيسة النصارى واستمع إلى صلاتهم، تعلّق قلبه بهم وقال: «هذا خير من ديننا»، فحاول أبوه صرفه عنهم وحبسه، لكن سلمان فرَّ إلى الشام، ولزم رهبانًا يتنقّل بينهم من بلد إلى بلد، يطلب عندهم دين إبراهيم الحق."
+      },
+      {
+        "order": 3,
+        "titleEn": "Following a chain of monks toward the awaited Prophet",
+        "titleAr": "تسلسله بين الرهبان إلى بشارة النبي الخاتم",
+        "year": "Pre-Hijrah",
+        "descriptionEn": "He served a series of monks, some sincere and others corrupt in their accumulation of wealth, until a dying righteous monk told him of a final Prophet soon to appear in a land of palm trees between two lava fields, who accepts gifts but not charity and bears the seal of prophethood.",
+        "descriptionAr": "خدم سلمان رهبانًا عدّة؛ رأى في بعضهم الصلاح والعبادة، وفي بعضهم جمع المال وخيانة الأمانة، حتى جاءه راهب صالح عند موته فقال له: «ما أعلم اليوم أحدًا على مثل ما نحن عليه، ولكن قد أظلَّ زمان نبيٍّ يُبعث بدين إبراهيم في أرضٍ ذات نخل، بين حرتين، يقبل الهدية ولا يأكل الصدقة، وبين كتفيه خاتم النبوة»."
+      },
+      {
+        "order": 4,
+        "titleEn": "Sold into slavery and brought to Madinah",
+        "titleAr": "وقوعه في الرق ووصوله إلى المدينة",
+        "year": "Shortly before Hijrah",
+        "descriptionEn": "Trusting some Arab traders to carry him to the land of the Prophet, he was betrayed, sold as a slave, and eventually ended up owned by a Jew in Madinah, where he began to notice the signs matching what the monk had described.",
+        "descriptionAr": "خرج سلمان مع قومٍ من العرب لما حدّثهم برغبتِه في أرض النبي الموعود، فغدروا به وباعوه عبدًا، وتنتقل به الأيدي حتى استقرَّ في ملك يهوديٍّ بالمدينة، وهناك رأى النخل، والحرتين السوداوين، فعلم أن هذه هي الأرض التي وُعِدَ بها."
+      },
+      {
+        "order": 5,
+        "titleEn": "Recognizing the Prophet ﷺ through the signs",
+        "titleAr": "تعرفه على النبي ﷺ بعلامات النبوة",
+        "year": "1 AH (arrival of the Prophet in Madinah)",
+        "descriptionEn": "After the Hijrah, he tested the Prophet ﷺ by bringing food as charity, which the Prophet would not eat, then as a gift, which he accepted, and finally by looking for the seal of prophethood between his shoulders, at which point he burst into tears and embraced Islam.",
+        "descriptionAr": "لما قدم النبي ﷺ مهاجرًا إلى المدينة، جاءه سلمان بطعامٍ وقال: هذه صدقة، فوضعها بين يديه فلم يأكل منها، ثم جاءه في يوم آخر بطعامٍ وقال: هذه هدية، فأكل منها، ثم تحيّن فرصةً ليرى ما بين كتفيه، فلما رأى خاتم النبوة أيقن، فبكى وأكبَّ على يده يقبّلها ويخبره بخبره الطويل في طلب الحق."
+      },
+      {
+        "order": 6,
+        "titleEn": "The trench strategy at the Battle of the Confederates",
+        "titleAr": "مبادرته بفكرة الخندق يوم الأحزاب",
+        "year": "5 AH (Battle of al-Khandaq)",
+        "descriptionEn": "When Madinah faced a massive coalition of enemies, Salman suggested the unfamiliar Persian tactic of digging a trench around the exposed side of the city; the Muslims implemented his plan, digging the trench with the Prophet ﷺ working alongside them, and the strategy thwarted the enemy.",
+        "descriptionAr": "حين اجتمعت الأحزاب على المدينة وشاور النبي ﷺ أصحابه، أشار سلمان بحفر خندقٍ يحيط بالجانب المكشوف من المدينة، وهي فكرة عرفها في بلاد فارس ولم تعرفها العرب، فأخذ النبي ﷺ برأيه، ونزل مع الصحابة يحفر بيديه، وكان سلمان ينقل التراب وهو يلهج بالتكبير، حتى صار الخندق سببًا في حماية المدينة وانكسار الأحزاب."
+      },
+      {
+        "order": 7,
+        "titleEn": "His ascetic life and status among the Companions",
+        "titleAr": "زهده ومنزلته بين الصحابة",
+        "year": "Madinan period",
+        "descriptionEn": "The author highlights his extreme simplicity in living, minimal possessions, and constant remembrance of his long journey, to the point that when given authority or wealth, he treated himself as a mere caretaker, embodying sincere detachment and God-consciousness.",
+        "descriptionAr": "يصفه المؤلف بأنه كان زاهدًا في الدنيا، لا يترك عنده من متاعها إلا بلاغًا، وكان إذا تولّى شيئًا من الأعمال أو الإمارة جعل نفسه أجيرًا عند الله، يذكر الناس دومًا بأن شرفه ليس في نسب فارس، بل في الإسلام الذي أخرجه من الظلمات إلى النور."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "كان سلمانُ الفارسيُّ غلامًا من أبناء فارس، قد أحبَّه أبوه حبًّا شديدًا، حتى حبسَه في البيت خوفًا عليه، وجعله قيِّمًا على النار في المعبد، لا يدعها تخبو ساعةً من ليلٍ أو نهار. غير أن قلب سلمان كان يضطرم بسؤالٍ لا تُجِيبُ عنه النار ولا المعبد، حتى مرَّ يومًا بكنيسةٍ للنصارى فسمع صلاتهم، فمال قلبه إليهم وقال: «هذا خيرٌ من ديننا».",
+      "translationEn": "Salman al-Farisi was a youth from the sons of Persia whom his father loved intensely, to the point that he kept him confined at home out of fear for him and made him the caretaker of the fire in the temple, not allowing it to die out for even an hour of night or day. Yet Salman's heart blazed with a question that neither the fire nor the temple could answer, until one day he passed by a church of the Christians and heard their prayer, so his heart inclined toward them and he said, “This is better than our religion.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، فصل سلمان الفارسي."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة سلمان الفارسي من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Salman al-Farisi from the book when fully entered].",
+      "note": "المُلخَّص هنا يلتقط الرحلة العقدية لسلمان من المجوسية إلى النصرانية ثم إلى الإسلام، وموقفه في الخندق، وبعض معالم زهده."
+    },
+    "hadithAboutThem": [
+      {
+        "arabic": "«سَلْمَانُ مِنَّا أَهْلَ البَيْتِ» يذكره المؤلف في سياق الثناء عليه ومزجه بأنساب العرب في كيان الأمة.",
+        "translationEn": "“Salman is one of us, the people of the household,” quoted by the author in praising him and showing how he was blended into the lineages of the Arabs within the body of the Ummah.",
+        "note": "يدل على شرف انتسابه المعنوي لأهل بيت النبوة."
+      }
+    ],
+    "notableQuotes": [],
+    "quranReferences": [
+      {
+        "verseArabic": "﴿إِذْ جَاءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنْكُمْ﴾",
+        "surah": "الأحزاب",
+        "ayah": 10,
+        "relationNote": "تُذكر آيات الأحزاب في سياق قصة الخندق التي كان سلمان صاحب فكرتها، وإن لم يُذكر اسمه صراحة في الآيات."
+      }
+    ]
+  },
+  "cardStats": {
+    "conversionEraScore": 3,
+    "conversionEraLabel": "بعد الهجرة (مدني من المهاجرين من العجم)",
+    "battlesCount": 5,
+    "distinctionsCount": 2,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث",
+      "فقيه",
+      "مفسّر",
+      "زاهد مربٍّ"
+    ]
+  },
+  "additionalSources": [
+    {
+      "id": "ref-tarajim-salman",
+      "title": "كتب التراجم العامة في سلمان الفارسي",
+      "note": "يُحال لاستكمال التواريخ الدقيقة وعدد الروايات إلى مصادر مثل الإصابة وحلية الأولياء وغيرها كما يصنع المؤلف في تراجم أخرى."
+    }
+  ],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik",
+    "sc-011-abu-ubaydah-ibn-al-jarrah",
+    "sc-012-abdullah-ibn-masud",
+    "sc-017-abu-dharr-al-ghifari"
+  ]
+}
