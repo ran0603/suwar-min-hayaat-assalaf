@@ -1,0 +1,207 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-004-abdullah-ibn-hudhafa",
+    "cardNumber": "004",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "37–44"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "عَبْدُ اللَّهِ بْنُ حُذَافَةَ السَّهْمِيُّ",
+    "nameTranslit": "Abdullah ibn Hudhafa as-Sahmi",
+    "fullNameArabic": "عَبْدُ اللَّهِ بْنُ حُذَافَةَ بْنِ قَيْسٍ السَّهْمِيُّ القُرَشِيُّ",
+    "fullNameTranslit": "Abdullah ibn Hudhafa ibn Qays as-Sahmi al-Qurashi",
+    "kunya": null,
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "كان شابًا في أوائل العهد المدني، يصلح لأن يكون رسولًا إلى الملوك في السنة السادسة للهجرة."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "مكة المكرمة.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "حُذَافَةُ بْنُ قَيْسٍ",
+      "kunya": null,
+      "note": null
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "قريش",
+    "clan": "بنو سهم.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "من المهاجرين من قريش، صحابي جليل حمل رسائل النبي ﷺ إلى الملوك."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "قبل الهجرة",
+    "conversionEraEn": "Before Hijrah (Makkan Muslim, later among the Muhajirun).",
+    "conversionOrder": "من مسلمي قريش الذين هاجروا إلى المدينة قبل السنة السادسة وأصبح أهلًا للمهام الكبرى.",
+    "battles": [
+      "أحد",
+      "الخندق",
+      "خيبر",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من المهاجرين الأولين",
+      "من السابقين الأولين"
+    ],
+    "scholarly_role": [
+      "راوي حديث"
+    ],
+    "relation_to_prophet": [
+      "حليف"
+    ],
+    "tribe": "قريش",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "معروف بمواقفه مع كسرى وقيصر أكثر من كثرة الرواية، وله أحاديث معدودة."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "جاهد في تبليغ رسالة النبي ﷺ إلى الملوك، حاميًا بذلك دعوة القرآن خارج الجزيرة."
+    }
+  },
+  "biography": {
+    "tagline": "رسول النبي ﷺ إلى كسرى وقيصر؛ قبّل عمر رأسه وقال: حق على كل مسلم أن يفعل ذلك.",
+    "taglineArabic": "صحابي قرشي حمل رسالة النبي ﷺ إلى كسرى، وثبت أمام قيصر، فصار مثالًا في الجرأة على الملوك والثبات على الدين.",
+    "summaryEn": "Abdullah ibn Hudhafa as-Sahmi (رضي الله عنه) was a Qurashi Companion from Banu Sahm known for his courage in carrying the Prophet’s ﷺ letters to the greatest rulers of his time. In the sixth year after Hijrah, the Prophet ﷺ chose him to deliver a letter to Kisra, king of Persia, a mission he fulfilled despite the danger and Kisra’s arrogance in tearing the letter. Later, he was captured by the Byzantines and brought before Caesar, where he resisted temptations of wealth and marriage, endured torture, and even pretended to accept Christianity to save his fellow Muslim captives, earning from Umar ibn al-Khattab the statement that it is a duty upon every Muslim to kiss his head.",
+    "summaryAr": "عَبْدُ اللَّهِ بْنُ حُذَافَةَ السَّهْمِيُّ (رضي الله عنه) أحدُ فرسان قريش في الإيمان والجرأة، اختاره النبي ﷺ ليكون رسولَه إلى كسرى ملك الفرس في السنة السادسة للهجرة، مع علمه بخطورة الرحلة وأن الذهاب فيها مفقود والراجع منها مولود. انطلق عبد الله منفردًا حتى بلغ فارس، ودخل على كسرى شامخ الهامة، يفيض قلبه بعزة الإسلام، فأبى أن يسلّم الكتاب إلا في يد الملك مباشرة كما أمره النبي ﷺ، فلما مزّقه كسرى قال رسول الله ﷺ حين بلغه الخبر: «مزّق الله ملكه» فكان كما قال. وفي عهد عمر بن الخطاب خرج في سرية إلى أرض الروم فأُسر وحُمل إلى قيصر، فعرض عليه الملك المال والجاه والزواج بابنته فلم يلن، ثم أمر بإلقائه في قدر تغلي أمامه، فبكى لا جزعًا من الموت بل حزنًا لأنه لا يملك إلا نفسًا واحدة يفدي بها دينه، ثم تظاهر بقبول التنصّر حين اشترط أن يُطلق سراح أسرى المسلمين، فلما عاد إلى المدينة أخبر عمر بما فعل، فقبّل عمر رأسه على ملأ الناس وقال: حق على كل مسلم أن يقبل رأس عبد الله بن حذافة وأنا أبدأ بذلك.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الشجاعة",
+        "en": "Courage"
+      },
+      {
+        "ar": "عزّة الإسلام",
+        "en": "Pride in Islam"
+      },
+      {
+        "ar": "الدهاء المشروع لنصرة المسلمين",
+        "en": "Strategic cleverness in aiding Muslims"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Chosen to carry the letter to Kisra",
+        "titleAr": "اختياره رسولًا إلى كسرى",
+        "year": "6 AH",
+        "descriptionEn": "When the Prophet ﷺ decided to send letters to the kings beyond Arabia, he gathered his Companions and informed them of this dangerous mission; among the six selected messengers was Abdullah ibn Hudhafa, entrusted with the letter to Kisra, king of Persia.",
+        "descriptionAr": "لما همَّ النبي ﷺ أن يبعث طائفة من أصحابه بكتب إلى ملوك الأعاجم، قام فيهم خطيبًا وبيّن خطورة المهمة، ثم انتدب ستةً من الصحابة لحمل كتبه، وكان أحد هؤلاء الستة عبدَ الله بن حذافة السهمي، ليحمل رسالة النبي ﷺ إلى كسرى ملك الفرس."
+      },
+      {
+        "order": 2,
+        "titleEn": "Standing before Kisra",
+        "titleAr": "موقفه بين يدي كسرى",
+        "year": "6 AH",
+        "descriptionEn": "He traveled alone until he reached Persia and was admitted to Kisra’s court, where he refused to let anyone else take the Prophet’s ﷺ letter, insisting on handing it directly to the king as ordered; when Kisra tore the letter upon hearing its opening, Allah later tore apart his kingdom.",
+        "descriptionAr": "دخل على كسرى مشتمِلًا شملته البسيطة وعباءته الصفيقة، لكن عزة الإسلام قد ملأت قلبه، فلما أومأ كسرى إلى حاجبه ليأخذ الكتاب قال عبد الله: إنما أمرني رسول الله ﷺ أن أدفعه لك يدًا بيد، فما زال حتى ناوله إياه، فلما قرأ كسرى أوله ومُدح فيه رسول الله ﷺ غضب ومزّق الكتاب، فلما بلغ ذلك النبي ﷺ قال: «مزق الله ملكه» فاستجاب الله دعاءه."
+      },
+      {
+        "order": 3,
+        "titleEn": "Journey back from Persia",
+        "titleAr": "عودته من فارس بعد أداء الرسالة",
+        "year": "6 AH",
+        "descriptionEn": "Abdullah left not knowing whether his life would be spared, but he said he no longer cared what happened to him after having delivered the Prophet’s ﷺ letter; he returned safely to Madinah and informed the Prophet ﷺ of Kisra’s reaction.",
+        "descriptionAr": "خرج عبد الله من مجلس كسرى لا يدري أيُقتل أم يترك، لكنه قال: والله ما أبالي على أي حال أكون بعد أن أديت كتاب رسول الله ﷺ، ثم عاد إلى المدينة فلما قدم على النبي ﷺ أخبره بما كان من أمر كسرى وتمزيقه الكتاب."
+      },
+      {
+        "order": 4,
+        "titleEn": "Captured by the Byzantines",
+        "titleAr": "أسره عند الروم ومثوله بين يدي قيصر",
+        "year": "Caliphate of Umar",
+        "descriptionEn": "In a later expedition during Umar’s caliphate, he was captured by the Byzantines and brought to Caesar, who tried to entice him with wealth, high rank, and marriage to his daughter if he would leave Islam, but Abdullah refused every offer.",
+        "descriptionAr": "خرج في سرية من سرايا المسلمين في عهد عمر بن الخطاب، فوقع في أسر الروم وحُمل إلى قيصر، فعرض عليه الملك أن يعطيه ما شاء من المال، وأن يزوجه ابنته، وأن يجعله من خاصته إن هو ترك دين محمد ﷺ، فأبى عبد الله أن يبيع دينه بكل ما في الدنيا."
+      },
+      {
+        "order": 5,
+        "titleEn": "Test of boiling cauldron and tears",
+        "titleAr": "اختباره بالإلقاء في القدر وغلبته البكاء",
+        "year": "Caliphate of Umar",
+        "descriptionEn": "Caesar ordered a Muslim prisoner to be thrown into a huge boiling cauldron before Abdullah’s eyes to frighten him, then commanded that Abdullah be thrown in as well; when he wept, Caesar thought he had weakened, but Abdullah explained that he only cried because he wished he had as many souls as there were hairs on his body to sacrifice each one in Allah’s path.",
+        "descriptionAr": "أمر قيصر بإحضار قدر عظيم مملوءة بالزيت أو الماء المغلي، فألقي فيها أسير مسلم أمام عبد الله حتى تساقط لحمه عن عظامه، ثم أمر به أن يُلقى فيها، فبكى، فظن القيصر أنه ضعف، فلما سأله قال: ما بكيت جزعًا من الموت، ولكن تمنيت أن يكون لي بعدد شعري أنفس أُقتل في الله كل نفس."
+      },
+      {
+        "order": 6,
+        "titleEn": "Pretending to accept Christianity to free the captives",
+        "titleAr": "تظاهره بقبول التنصّر لفك أسرى المسلمين",
+        "year": "Caliphate of Umar",
+        "descriptionEn": "Seeing no way out for the Muslim prisoners, he agreed to a condition set by Caesar that if he kissed the emperor’s head he and the Muslim captives would be released; Abdullah accepted and kissed his head to secure the freedom of his brothers, an act of sacrifice later praised by Umar.",
+        "descriptionAr": "لما ضاقت الحيل بعبد الله ورأى ما ينزل بإخوانه من البلاء، عرض عليه قيصر أن يقبِّل رأسه مقابل أن يطلقه ويطلق سراح من معه من أسرى المسلمين، فقبل عبد الله بذلك وقبّل رأسه، فأوفى قيصر بوعده وأطلقهم جميعًا، فعادوا إلى المدينة مكرمين."
+      },
+      {
+        "order": 7,
+        "titleEn": "Umar kisses his head",
+        "titleAr": "تقبيل عمر لرأسه وقوله المشهور",
+        "year": "Caliphate of Umar",
+        "descriptionEn": "When Umar heard the full story, he gathered the people, called Abdullah forward, and kissed his head, declaring: 'It is a duty upon every Muslim to kiss the head of Abdullah ibn Hudhafa, and I begin with myself,' honoring his courage and wisdom.",
+        "descriptionAr": "لما قصّ عبد الله بن حذافة خبرَه على عمر بن الخطاب رضي الله عنهما قام الفاروق بين الناس، ثم دنا من عبد الله فقبّل رأسه وقال: «حقٌّ على كل مسلم أن يقبِّل رأسَ عبدِ الله بنِ حذافةَ، وأنا أبدأ بذلك»، فصار هذا الموقف تاجًا على رأسه إلى يوم الدين."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "حَقٌّ عَلَى كُلِّ مُسْلِمٍ أَنْ يُقَبِّلَ رَأْسَ عَبْدِ اللَّهِ بْنِ حُذَافَةَ، وَأَنَا أَبْدَأُ بِذَلِكَ.",
+      "translationEn": "“It is a duty upon every Muslim to kiss the head of Abdullah ibn Hudhafa, and I begin with that myself.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٣٧–٤١."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بإدخال النص الكامل لفصل عبد الله بن حذافة السهمي من الكتاب].",
+      "translationEn": "[To be completed later with the full chapter text about Abdullah ibn Hudhafa as-Sahmi from the book].",
+      "note": "المتن الحالي خلاصة موسّعة اعتمادًا على النص المعروض."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 3,
+    "conversionEraLabel": "قبل الهجرة (مكي مهاجر)",
+    "battlesCount": 4,
+    "distinctionsCount": 2,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-abu-bakr-as-siddiq"
+  ]
+}

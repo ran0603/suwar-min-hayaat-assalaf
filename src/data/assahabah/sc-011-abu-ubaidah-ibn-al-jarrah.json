@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-011-abu-ubaydah-ibn-al-jarrah",
+    "cardNumber": "011",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "89–93"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "أَبُو عُبَيْدَةَ بْنُ الجَرَّاحِ",
+    "nameTranslit": "Abu Ubaydah ibn al-Jarrah",
+    "fullNameArabic": "عَامِرُ بْنُ عَبْدِ اللَّهِ بْنِ الجَرَّاحِ الفِهْرِيُّ القُرَشِيُّ",
+    "fullNameTranslit": "Amir ibn Abdullah ibn al-Jarrah al-Fihri al-Qurashi",
+    "kunya": "أَبُو عُبَيْدَةَ",
+    "laqab": [
+      "أَمِينُ هَذِهِ الأُمَّةِ"
+    ],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "من السابقين الأولين؛ أسلم في اليوم التالي لإسلام أبي بكر الصديق في مكة."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "استُكمل من مصادر أخرى لاحقًا؛ الكتاب الماثل يركّز على ملامح من سيرته الجهادية والأخلاقية دون تفصيل سنة الوفاة."
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "مكة المكرمة؛ من بني فهر من قريش.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "عَبْدُ اللَّهِ بْنُ الجَرَّاحِ",
+      "kunya": null,
+      "note": "كان من المشركين، ولقِيَ أبا عبيدة يوم بدر، فاجتهد في مواجهته حتى قتله أبو عبيدة في سبيل الله."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "قريش",
+    "clan": "بنو فهر.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "صحابي من قريش، من السابقين الأولين، ومن خواص أصحاب النبي ﷺ."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "قبل دار الأرقم",
+    "battles": [
+      "بدر",
+      "أحد",
+      "الخندق",
+      "خيبر",
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من العشرة المبشرين",
+      "من السابقين الأولين",
+      "من المهاجرين الأولين",
+      "بدري"
+    ],
+    "scholarly_role": [
+      "راوي حديث"
+    ],
+    "relation_to_prophet": [
+      "حليف من قريش وأمين الأمة"
+    ],
+    "tribe": "قريش",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "يظهر في المصادر راوٍ لبعض الأحاديث، لكن شهرته الأبرز في باب القيادة والجهاد والزهد والأمانة أكثر من كثرة المرويات."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "نزل في موقفه مع أبيه في بدر قول الله تعالى ﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ…﴾ كما يذكر المؤلف."
+    }
+  },
+  "biography": {
+    "tagline": "أمينُ هذه الأمة، الرفيقُ القرشيّ النحيل الذي قدّم إيمانَه على أبيه، وجمع بين القوة في الجهاد والأمانة في القيادة.",
+    "taglineArabic": "صحابيٌّ قرشيٌّ فِهْري، من السابقين إلى الإسلام، لقّبه النبي ﷺ بأمين الأمة، وجمع بين رقّة الحاشية وشدة البأس في ميادين القتال.",
+    "summaryEn": "Abu Ubaydah ibn al-Jarrah (رضي الله عنه) was a noble Qurashi Companion from Banu Fihr, described as handsome, slim, and tall, with a gentle, modest demeanor that inspired comfort and trust. He embraced Islam in the earliest days through Abu Bakr, endured the persecution of Makkah with the first Muslims, and then participated in Badr where he faced and killed his own father in combat when the latter persistently blocked his path, embodying loyalty to faith over family ties. The Qur'an is reported to have been revealed regarding this stance, and the Prophet ﷺ named him “the trustee of this Ummah,” later entrusting him with sensitive missions and leadership roles, while he remained a model of asceticism, courage, and integrity.",
+    "summaryAr": "كان أبو عبيدة بن الجراح (رضي الله عنه) وضيءَ الوجه، بهيَّ الطَّلعة، نحيلَ الجسم، طويلَ القامة، خفيفَ العارضين، ترتاح العين لرؤيته، وتأنس النفس للقياه. أسلم في اليوم التالي لإسلام أبي بكر الصديق على يديه، فكان مع الرعيل الأول الذي أُقيم على عاتقه صرح الإسلام، وشهد مع النبي ﷺ تجربة مكة المريرة من أولها إلى آخرها صابرًا ثابتًا. في بدر كان يجول كالليث بين الصفوف، ويتحاشى لقاء رجل واحد لا يني يلاحقه، حتى ضاق به ذرعًا فضرب رأسه فقتله، فإذا هو أبوه عبد الله بن الجراح، فكان قتله للشرك في شخص أبيه، ونزل في معنى موقفه قوله تعالى: ﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ…﴾. ثم تجلى وصف الأمانة والقوة فيه في مواقف أخرى، منها أن وفدًا من النصارى طلب من النبي ﷺ أن يبعث معهم من يحكم بينهم، فقال: «لأبعثن معكم الرجل القوي الأمين»، فكان أبو عبيدة هو المختار، كما كان أحد العشرة الذين أحاطوا بالنبي ﷺ يوم أحد يذودون عنه بأجسادهم.",
+    "physicalDescription": {
+      "ar": "وَضِيءَ الْوَجْهِ، بَهِيَّ الطَّلْعَةِ، نَحِيلَ الْجِسْمِ، طَوِيلَ الْقَامَةِ، خَفِيفَ الْعَارِضَيْنِ.",
+      "en": "He was bright-faced and handsome in appearance, slender in build, tall in stature, with light beard along the cheeks."
+    },
+    "characterTraits": [
+      {
+        "ar": "شديد الحياء",
+        "en": "Deep sense of modesty"
+      },
+      {
+        "ar": "جمّ التواضع",
+        "en": "Abundant humility"
+      },
+      {
+        "ar": "شجاعة في مواطن الشدة",
+        "en": "Courage in times of hardship"
+      },
+      {
+        "ar": "الأمانة والصدق",
+        "en": "Trustworthiness and sincerity"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Early conversion through Abu Bakr",
+        "titleAr": "إسلامه المبكر على يد أبي بكر",
+        "year": "Pre-Dar al-Arqam (early Makkan period)",
+        "descriptionEn": "He accepted Islam in Makkah the day after Abu Bakr’s conversion, through Abu Bakr himself, joining a small core including Abd al-Rahman ibn Awf, Uthman ibn Mazun, and al-Arqam ibn Abi al-Arqam as foundational supporters of the Prophet ﷺ.",
+        "descriptionAr": "أسلم أبو عبيدة في اليوم التالي لإسلام أبي بكر الصديق، حين مضى به وبعبد الرحمن بن عوف وعثمان بن مظعون والأرقم بن أبي الأرقم إلى النبي ﷺ فأعلنوا بين يديه كلمة الحق، فكانوا من القواعد الأولى التي أقيم عليها صرح الإسلام."
+      },
+      {
+        "order": 2,
+        "titleEn": "Enduring persecution in Makkah",
+        "titleAr": "معايشته لابتلاء المسلمين في مكة",
+        "year": "Makkan period",
+        "descriptionEn": "He lived through the harsh trial of the Muslims in Makkah from beginning to end, bearing its cruelty and sorrow with steadfast faith, never wavering in his loyalty to Allah and His Messenger.",
+        "descriptionAr": "عاش أبو عبيدة تجربة المسلمين القاسية في مكة من بداتها إلى نهايتها، وعانى معهم من عنفها وضراوتها وآلامها وأحزانها ما لم يعانه أتباع دين على ظهر الأرض؛ فثبت للابتلاء وصدق الله ورسوله في كل موقف."
+      },
+      {
+        "order": 3,
+        "titleEn": "Killing his father at Badr",
+        "titleAr": "موقفه مع أبيه يوم بدر",
+        "year": "2 AH",
+        "descriptionEn": "At Badr he charged among the lines fearlessly, and one polytheist repeatedly intercepted him until Abu Ubaydah, unable to avoid him, struck his head with his sword and killed him, later discovering that the slain man was his own father, Abdullah ibn al-Jarrah.",
+        "descriptionAr": "انطلق يوم بدر يصول بين الصفوف صولة من لا يهاب الردى، وجعل فرسان قريش يتحاشونه، إلا رجلًا واحدًا كان يبرز له في كل اتجاه، فيتحرف عنه أبو عبيدة ويتحاشى لقاءه، حتى إذا سدّ عليه المسالك ووقف حائلًا بينه وبين قتال أعداء الله، ضاق به ذرعًا فضرب رأسه بالسيف ضربة فلقت هامته فسقط صريعًا، فإذا هو أبوه عبد الله بن الجراح."
+      },
+      {
+        "order": 4,
+        "titleEn": "Qur'anic praise of his stance",
+        "titleAr": "نزول الآية في شأنه",
+        "year": "Post-Badr (2 AH)",
+        "descriptionEn": "The author reports that the verse ﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ…﴾ was revealed in connection with his refusal to show loyalty to those opposing Allah and His Messenger, even when they were close kin.",
+        "descriptionAr": "يذكر المؤلف أن الله تعالى أنزل في شأن أبي عبيدة وأبيه قوله سبحانه: ﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ…﴾، مبينًا أن الإيمان الصادق يقدَّم على روابط الدم."
+      },
+      {
+        "order": 5,
+        "titleEn": "Chosen as 'the strong and trustworthy' for the Christian delegation",
+        "titleAr": "اختياره للقضاء بين وفد النصارى",
+        "year": "Madinan period",
+        "descriptionEn": "When a Christian delegation asked the Prophet ﷺ to send with them someone to judge fairly between them in financial disputes, the Prophet promised to send “the strong and trustworthy,” and after the noon prayer he looked among the Companions and chose Abu Ubaydah to accompany them and judge by the truth.",
+        "descriptionAr": "قدم وفد من النصارى على رسول الله ﷺ يطلبون منه أن يبعث معهم رجلًا يرضاه ليحكم بينهم في أموال اختلفوا فيها، فقال: «ائتوني العشية أبعث معكم القوي الأمين»، يقول عمر: رجوت أن أكونه، فلما صلى النبي ﷺ الظهر جعل ينظر في أصحابه حتى رأى أبا عبيدة فدعاه وقال: «اخرج معهم فاقض بينهم بالحق فيما اختلفوا فيه»."
+      },
+      {
+        "order": 6,
+        "titleEn": "Protecting the Prophet at Uhud",
+        "titleAr": "موقفه يوم أحد حول النبي ﷺ",
+        "year": "3 AH",
+        "descriptionEn": "At Uhud, when Muslims were routed and a caller from the polytheists shouted for Muhammad ﷺ, Abu Ubaydah was among the ten men who formed a human shield around the Prophet, defending him with their bodies against enemy spears.",
+        "descriptionAr": "في يوم أحد حين انهزم المسلمون وطفق صائح المشركين ينادي: دلوني على محمد، كان أبو عبيدة أحد النفر العشرة الذين أحاطوا بالرسول ﷺ ليذودوا عنه بصدورهم رماح المشركين، حتى انجلت المعركة."
+      },
+      {
+        "order": 7,
+        "titleEn": "Removing the rings of armor from the Prophet’s face",
+        "titleAr": "انتزاع حلقات الدرع من وجه النبي ﷺ",
+        "year": "3 AH (after the battle of Uhud)",
+        "descriptionEn": "After Uhud, the Prophet ﷺ had two rings of his armor embedded in his cheek, and while Abu Bakr tried to remove them, Abu Ubaydah insisted on doing it himself by biting each ring with his front teeth and pulling it out, losing both his incisors in the process and leaving him with a distinctive gap in his smile.",
+        "descriptionAr": "لما انتهت المعركة كان النبي ﷺ قد كسرت رباعيته وشج جبينه وغارت حلقتان من حلق درعه في وجنته، فأقبل أبو بكر يريد انتزاعهما، فقال له أبو عبيدة: أقسم عليك أن تتركني، فعض على الأولى بثنيته حتى استخرجها فسقطت ثنيته، ثم فعل بالثانية كذلك فسقطت ثنيته الثانية، فقال أبو بكر: «فكان أبو عبيدة من أحسن الناس هتمًا»."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "كَانَ وَضِيءَ الْوَجْهِ، بَهِيَّ الطَّلْعَةِ، نَحِيلَ الْجِسْمِ، طَوِيلَ الْقَامَةِ، خَفِيفَ الْعَارِضَيْنِ … تَرْتَاحُ الْعَيْنُ لِمَرْآهُ، وَتَأْنَسُ النَّفْسُ لِلُقْيَاةَ، وَيَطْمَئِنُّ إِلَيْهِ الْفُؤَادُ.",
+      "translationEn": "He was bright of face, handsome in appearance, slender of body, tall of stature, with light hair on his cheeks; the eye relaxes at seeing him, the soul feels at ease meeting him, and the heart finds tranquility with him.",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٨٩."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة أبي عبيدة بن الجراح من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Abu Ubaydah ibn al-Jarrah from the book when fully entered].",
+      "note": "المعلومات الحالية مبنية على مقطع من بداية ترجمته في الكتاب، مع تركيز على وصفه الخُلقي وبعض المواقف البارزة في بدر وأحد وقصة وفد النصارى."
+    },
+    "hadithAboutThem": [
+      {
+        "arabic": "«لِكُلِّ أُمَّةٍ أَمِينٌ، وَأَمِينُ هَذِهِ الأُمَّةِ أَبُو عُبَيْدَةَ».",
+        "translationEn": "“Every nation has a trustee, and the trustee of this nation is Abu Ubaydah.”",
+        "note": "أورده المؤلف في صدر الترجمة لتعظيم لقبه ومكانته."
+      }
+    ],
+    "notableQuotes": [],
+    "quranReferences": [
+      {
+        "verseArabic": "﴿لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ…﴾",
+        "surah": "المجادلة",
+        "ayah": 22,
+        "relationNote": "المؤلف يربط هذه الآية بموقف أبي عبيدة حين قتل أباه يوم بدر إيثارًا للإيمان على رابطة الدم."
+      }
+    ]
+  },
+  "cardStats": {
+    "conversionEraScore": 5,
+    "conversionEraLabel": "من أسبق السابقين (اليوم التالي لإسلام أبي بكر)",
+    "battlesCount": 7,
+    "distinctionsCount": 4,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث"
+    ]
+  },
+  "additionalSources": [
+    {
+      "id": "ref-isaba",
+      "title": "الإصابة في تمييز الصحابة",
+      "note": "أشار المؤلف في ترجمة عبد الله بن جحش إلى الإحالة على الإصابة وغيرها؛ يمكن القياس على ذلك لاستكمال ترجمة أبي عبيدة من كتب التراجم."
+    }
+  ],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik",
+    "sc-008-abu-ayyoob-al-ansari",
+    "sc-010-abdullah-ibn-jahsh"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-001-anas-ibn-malik",
+    "cardNumber": "001",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "13–17"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "أَنَسُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
+    "nameTranslit": "Anas ibn Malik al-Ansari",
+    "fullNameArabic": "أَنَسُ بْنُ مَالِكِ بْنِ النَّضْرِ الأَنْصَارِيُّ الخَزْرَجِيُّ",
+    "fullNameTranslit": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+    "kunya": "أَبُو حَمْزَةَ",
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "كان في نحو العاشرة من عمره عند قدوم النبي ﷺ إلى المدينة، وخدمه عشر سنين حتى وفاته."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "يثرب (المدينة المنورة لاحقًا).",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "مَالِكُ بْنُ النَّضْرِ",
+      "kunya": null,
+      "note": null
+    },
+    "mother": {
+      "nameArabic": "الرُّمَيْصَاءُ (الغُمَيْصَاءُ) بِنْتُ مِلْحَانَ",
+      "kunya": "أُمُّ أَنَسٍ (أم سليم)",
+      "note": "لقَّنته الشهادتين وملأت قلبه بحب النبي ﷺ قبل قدومه المدينة."
+    },
+    "tribe": "الخزرج",
+    "clan": "بنو النجار من الأنصار.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "خادم النبي ﷺ عشر سنين."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "أنصاري",
+    "conversion_era": "بعد الهجرة",
+    "battles": [],
+    "distinctions": [
+      "من حفّاظ القرآن",
+      "راوي حديث"
+    ],
+    "scholarly_role": [
+      "راوي حديث",
+      "قارئ"
+    ],
+    "relation_to_prophet": [],
+    "tribe": "خزرج",
+    "narrations_count": "مكثر",
+    "narrations": {
+      "tier": "مكثر",
+      "tierEn": "Prolific (500+)",
+      "count": null,
+      "note": "من المكثرين في رواية الحديث؛ لازم النبي ﷺ في بيته وخارجه مدة طويلة."
+    },
+    "quranRelation": {
+      "hafiz": true,
+      "specialRole": "كان من صغار القرّاء الملازمين للسنة؛ نقل كثيرًا من أحوال النبي ﷺ العملية المبيِّنة للقرآن."
+    }
+  },
+  "biography": {
+    "tagline": "غلام الأنصار الذي خدم النبي ﷺ عشر سنين وصار من كبار رواة حديثه.",
+    "taglineArabic": "خادم رسول الله ﷺ في المدينة، ومن المكثرين في نقل سنته وشمائله للناس.",
+    "summaryEn": "Anas ibn Malik (رضي الله عنه) was a young boy from the Ansar whose mother, Umm Sulaym, filled his heart with love for the Prophet ﷺ and taught him the shahadah before the Hijrah. When the Prophet ﷺ arrived in Madinah, she brought Anas to him as a 'gift' to serve him, and the Prophet ﷺ accepted, gently placing his blessed hand on Anas's head. Anas then served the Prophet ﷺ for ten full years, witnessing his private and public life, and later became one of the most prolific narrators of Hadith, conveying a wealth of information about the Prophet’s ﷺ character, worship, and household life.",
+    "summaryAr": "أَنَسُ بْنُ مَالِكٍ (رضي الله عنه) غلامٌ أنصاريّ لقّنته أمُّه «الرُّمَيْصَاءُ» الشهادتين وأترعت قلبه بحب النبي ﷺ قبل أن يراه، فشبّ وهو يتطلع إلى لقائه. لما قدم رسول الله ﷺ المدينة جاءت به أمُّه إليه وقالت: ما عند الأنصار من هدية أعزّ عليّ من ابني هذا فليَخْدُمْك، فقبله النبي ﷺ ومسح رأسه وضمه إلى أهله. خدم أنس رسولَ الله ﷺ عشر سنين كاملة، فوعى من حديثه وهديه وشمائله ما لم يبلغه غيره من صغار الصحابة، فصار من المكثرين في رواية الحديث ومن أبرز من نقلوا دقائق حياة النبي ﷺ في بيته ومع أهله وأصحابه.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "المحبّة للنبي ﷺ",
+        "en": "Deep love for the Prophet ﷺ"
+      },
+      {
+        "ar": "الخدمة",
+        "en": "Devotion in service"
+      },
+      {
+        "ar": "حسن التلقي والحفظ",
+        "en": "Strong receptivity and memory"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "His mother teaches him faith and love of the Prophet ﷺ",
+        "titleAr": "تلقين أمِّه له الشهادتين وغرس حب النبي ﷺ في قلبه",
+        "year": "Before 1 AH",
+        "descriptionEn": "As a child in Yathrib, his mother al-Rumaysa (Umm Sulaym) taught him the shahadah and filled his tender heart with love for the Prophet ﷺ purely from hearing about him.",
+        "descriptionAr": "كان أنس في عُمُرِ الزهور حين لقّنته أمُّه الرُّمَيْصَاءُ الشهادتين، وأترعت فؤاده الغض بحب نبي الإسلام محمد ﷺ، فشُغِف به حبًّا على السماع قبل أن تقع عيناه عليه."
+      },
+      {
+        "order": 2,
+        "titleEn": "Gifted to the Prophet ﷺ as a servant",
+        "titleAr": "هبة أمه إياه لخدمة النبي ﷺ",
+        "year": "1 AH",
+        "descriptionEn": "When the Prophet ﷺ settled in Madinah, Umm Sulaym brought Anas saying she had no gift more precious than her son to serve him, so the Prophet ﷺ accepted him into his household and prayed for him.",
+        "descriptionAr": "لما استقر رسول الله ﷺ في المدينة جاءت أم سليم بابنها أنس وقالت: يا رسول الله ما عند الأنصار من هدية أعزّ من ابني هذا، فخذه يخدمك، فقبله النبي ﷺ ودعا له ومسح على رأسه."
+      },
+      {
+        "order": 3,
+        "titleEn": "Ten years of service",
+        "titleAr": "عشر سنين من الخدمة المتصلة",
+        "year": "1–11 AH",
+        "descriptionEn": "Anas served the Prophet ﷺ for ten consecutive years, later saying that the Prophet ﷺ never once said to him 'Why did you do such-and-such?' or 'Why did you not do such-and-such?', a testimony to the Prophet’s ﷺ gentle character.",
+        "descriptionAr": "لازم أنس خدمة النبي ﷺ عشر سنين، وكان يقول: والله لقد خدمته عشر سنين فما قال لي لشيء فعلته: لِمَ فعلتَه؟ ولا لشيء تركته: لِمَ تركتَه؟ شهادةً برفق النبي ﷺ وحسن خلقه."
+      },
+      {
+        "order": 4,
+        "titleEn": "Witnessing the Prophet’s ﷺ manners and worship",
+        "titleAr": "مشاهدته لأخلاق النبي ﷺ وعبادته في بيته",
+        "year": "Madinan period",
+        "descriptionEn": "Through his service, Anas observed the Prophet’s ﷺ dealings with family, guests, and children, as well as his night prayers and domestic habits, which he later transmitted in numerous hadiths describing these intimate aspects.",
+        "descriptionAr": "أتاحت له خدمته للنبي ﷺ أن يرى كيف كان مع أهله وولده وخدمه وضيوفه، وكيف كانت عبادته في بيته وقيامه بالليل، فنقل للناس بعد ذلك طائفة كبيرة من الأحاديث في شمائل النبي ﷺ وأحواله الخاصة."
+      },
+      {
+        "order": 5,
+        "titleEn": "Long life spreading knowledge",
+        "titleAr": "طول عمره في بث العلم",
+        "year": "After 11 AH",
+        "descriptionEn": "He lived long after the Prophet ﷺ, teaching large numbers of Companions and Tabi'in, and filling hearts and chests with the knowledge and guidance he had received during his decade of close service.",
+        "descriptionAr": "عاش أنس بعد وفاة رسول الله ﷺ سنين طويلة، يحدّث الناس بما سمع ورأى، ويملأ الصدور من علم النبي ﷺ وهديه، حتى صار من أعلام المكثرين من الرواية بين الصحابة."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "كَانَ أَنَسُ بْنُ مَالِكٍ فِي عُمُرِ الْوَرْدِ حِينَ لَقَّنَتْهُ أُمُّهُ الشَّهَادَتَيْنِ، وَأَتْرَعَتْ فُؤَادَهُ الْغَضَّ بِحُبِّ نَبِيِّ الْإِسْلَامِ … فَشُغِفَ أَنَسٌ بِهِ حُبًّا عَلَى السَّمَاعِ.",
+      "translationEn": "Anas ibn Malik was in the blossom of youth when his mother taught him the two testimonies of faith and filled his tender heart with love for the Prophet of Islam, so he became passionately attached to him purely from hearing about him.",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص١٣ وما بعدها."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بنص الفصل الكامل عن أنس بن مالك الأنصاري من الكتاب عند الإدخال الكامل].",
+      "translationEn": "[To be completed later with the full chapter on Anas ibn Malik al-Ansari from the book when fully entered].",
+      "note": "الخلاصة الحالية مبنية على افتتاحية الفصل وما أشار إليه المؤلف من خدمته الطويلة للنبي ﷺ."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 3,
+    "conversionEraLabel": "بعد الهجرة (أنصاري)",
+    "battlesCount": 0,
+    "distinctionsCount": 2,
+    "narrationsTier": "مكثر",
+    "narrationsTierScore": 3,
+    "scholarlyRoles": [
+      "راوي حديث",
+      "قارئ"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": []
+}

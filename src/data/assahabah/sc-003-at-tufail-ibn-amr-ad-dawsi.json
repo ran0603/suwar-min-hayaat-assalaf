@@ -1,0 +1,208 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-003-at-tufayl-ibn-amr",
+    "cardNumber": "003",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "31–36"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "الطُّفَيْلُ بْنُ عَمْرِو الدَّوْسِيُّ",
+    "nameTranslit": "At-Tufayl ibn Amr ad-Dawsi",
+    "fullNameArabic": "الطُّفَيْلُ بْنُ عَمْرِو بْنِ طَرِيفٍ الدَّوْسِيُّ",
+    "fullNameTranslit": "At-Tufayl ibn Amr ibn Tarif ad-Dawsi",
+    "kunya": null,
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": null
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "قبيلة دَوْس في جنوب الجزيرة العربية (نواحي السراة/تهامة).",
+    "placeOfDeath": "في طريقه أو في أرض المعركة حول اليمامة (استشهاد).",
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "عَمْرُو بْنُ طَرِيفٍ",
+      "kunya": null,
+      "note": null
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "دَوْس",
+    "clan": "من أزد السراة (قبيلة يمنية).",
+    "spouses": [],
+    "children": [
+      {
+        "nameArabic": "عَمْرُو بْنُ الطُّفَيْلِ",
+        "gender": "male",
+        "companionStatus": true,
+        "note": "شارك في اليمامة ويوم اليرموك، نال الشهادة لاحقًا."
+      }
+    ],
+    "relationToProphet": [
+      "حليف من قبيلة دَوْس، أسلم وجاء بقومه إلى النبي ﷺ."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "مهاجر",
+    "conversion_era": "قبل الهجرة",
+    "conversionEraEn": "Before Hijrah (Makkan period after public da‘wah).",
+    "conversionOrder": "أسلم في مكة بعد ما كُذِّب النبي ﷺ عند أهلها، ثم رجع إلى قومه دَوْس داعيًا لهم.",
+    "battles": [
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من السابقين الأولين",
+      "من المهاجرين الأولين",
+      "شهيد"
+    ],
+    "scholarly_role": [
+      "راوي حديث",
+      "داعية"
+    ],
+    "relation_to_prophet": [
+      "حليف"
+    ],
+    "tribe": "دوس",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "له روايات محدودة، يُذكر أكثر بدعوته لقومه وجهاده واستشهاده."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "شارك في حروب الردة فكان من حماة الدين في مرحلة تثبيت القرآن وأهله بالقتال حول اليمامة."
+    }
+  },
+  "biography": {
+    "tagline": "سيد دَوْسٍ وداعيتها؛ هدم صنم «ذي الكفين» واستشهد مجاهدًا في اليمامة.",
+    "taglineArabic": "زعيم قبيلة دَوْسٍ، حمل نور الإسلام إلى قومه، وأحرق صنمهم الأكبر، وختم حياته بشهادة في سبيل الله.",
+    "summaryEn": "At-Tufayl ibn Amr ad-Dawsi (رضي الله عنه) was the chief of the tribe of Daws and a respected poet and nobleman in pre-Islamic Arabia. He embraced Islam in Makkah despite intense opposition, then returned to his people as a caller to Allah, patiently inviting them until most of Daws accepted Islam. After migrating to the Prophet ﷺ, he fought alongside him in campaigns, destroyed the idol Dhu al-Kaffayn, and later joined the battles of Ridda, where he was martyred on the way to or at the battle of Yamama, while his son Amr continued seeking martyrdom until he fell at Yarmuk.",
+    "summaryAr": "الطُّفَيْلُ بْنُ عَمْرٍو الدَّوْسِيُّ (رضي الله عنه) سيّدُ قبيلةِ دَوْسٍ وشريفها، كان شاعرًا مجيدًا ذا رأيٍ ومكانة بين قومه. أسلم في مكة بعد أن حاولت قريش أن تصدَّه عن النبي ﷺ، فعاد إلى قومه داعيًا لهم، فلبث يدعوهم زمنًا حتى فتح الله قلوبهم فأسلم أكثرهم وحسن إسلامهم. لزم رسول الله ﷺ بعد الهجرة، وقال له: «يا رسول الله اجعلنا ميمنتك في كل غزوة تغزوها، واجعل شعارنا: مَبْرُور»، ثم ذهب بإذن النبي ﷺ إلى صنم قومه «ذي الكفين» فأحرقه على ملأ من الناس، وكان ذلك إيذانًا بزوال ما بقي من الشرك في دَوْس. وبعد وفاة النبي ﷺ خرج في طليعة جيش المسلمين لحرب مسيلمة الكذاب، فرأى رؤيا أوّلها بالشهادة، فقاتل قتال الأبطال حتى استشهد في طريقه إلى اليمامة أو في ساحتها، وبقي حلم الشهادة في قلب ابنه عمرو حتى نالها في معركة اليرموك.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الشجاعة",
+        "en": "Bravery"
+      },
+      {
+        "ar": "الثبات على الدعوة",
+        "en": "Steadfastness in da‘wah"
+      },
+      {
+        "ar": "تحطيم الوثنية",
+        "en": "Zeal in destroying idolatry"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Acceptance of Islam and da‘wah to Daws",
+        "titleAr": "إسلامه ودعوته لقومه دَوْس",
+        "year": "Before Hijrah",
+        "descriptionEn": "He accepted Islam in Makkah and then returned to his tribe Daws, repeatedly going back to the Prophet ﷺ asking him to supplicate for his people until they entered Islam in groups.",
+        "descriptionAr": "أسلم في مكة، ثم رجع إلى قومه دَوْس يدعوهم إلى الإسلام، وظل يتردد بين النبي ﷺ وقومه، يطلب من الرسول أن يدعو لدَوْس بالهداية حتى أسلموا أفواجًا وحسن إسلامهم."
+      },
+      {
+        "order": 2,
+        "titleEn": "Dua for right flank and battle slogan",
+        "titleAr": "طلبه أن يكون في الميمنة وشعارهم «مَبْرُور»",
+        "year": "Madinan period",
+        "descriptionEn": "He said, 'O Messenger of Allah, place us on your right flank in every battle you fight, and make our battle-cry: Mabrūr,' showing his eagerness to be at the forefront of struggle.",
+        "descriptionAr": "قال: «يا رسولَ اللهِ اجعلنا ميمنتَك في كلِّ غزوةٍ تغزوها، واجعل شعارَنا: مَبْرُور»، تعبيرًا عن رغبته في أن يكون وقومه في أخطر مواقع القتال."
+      },
+      {
+        "order": 3,
+        "titleEn": "Burning the idol Dhu al-Kaffayn",
+        "titleAr": "إحراق صنم «ذي الكفين»",
+        "year": "After the Conquest of Makkah",
+        "descriptionEn": "After the Conquest of Makkah, he asked the Prophet ﷺ to send him against the idol Dhu al-Kaffayn, the main idol of his tribe, and with a detachment of his people he publicly set it on fire while reciting verses mocking its power, which completed the eradication of shirk among Daws.",
+        "descriptionAr": "قال للنبي ﷺ بعد فتح مكة: «ابعثني إلى ذي الكفين صنم عمرو بن حممة حتى أحرِّقه»، فأذن له، فسار في سرية من قومه حتى بلغ الصنم، واجتمع الناس يتربصون أن تصيبه صاعقة إن مسّه بسوء، فأقبل عليه وأضرم النار في جوفه وهو يرتجز: «يا ذا الكفين لستُ من عبادِكا…»، فما إن التهمت النار الصنم حتى التهمت معه ما بقي من الشرك في دَوْس فأسلم القوم جميعًا."
+      },
+      {
+        "order": 4,
+        "titleEn": "Joining the Ridda wars",
+        "titleAr": "خروجه في حروب الردة",
+        "year": "11–12 AH",
+        "descriptionEn": "When the Ridda wars broke out, he set out at the head of the Muslim vanguard to fight Musaylima the Liar, taking his son Amr with him.",
+        "descriptionAr": "لما نشبت حروب الردة نفر الطفيل في طليعة جيش المسلمين لحرب مسيلمة الكذاب، ومعه ابنه عمرو، عارضًا نفسه وولده وسيفه لطاعة خليفة رسول الله الصديق."
+      },
+      {
+        "order": 5,
+        "titleEn": "Dream of martyrdom",
+        "titleAr": "رؤياه وتأويلها بالشهادة",
+        "year": "On the way to Yamama",
+        "descriptionEn": "On the road to Yamama he saw a dream: his head shaved, a bird coming from his mouth, a woman enclosing him in her belly, and his son trying to reach him but being kept away; he interpreted it as his head being struck off, his soul leaving, the earth being his grave, and his son later attaining the martyrdom he himself would soon reach.",
+        "descriptionAr": "في طريقه إلى اليمامة رأى رؤيا فقال لأصحابه: رأيت أن رأسي قد حُلِق، وطائرًا خرج من فمي، وامرأةً أدخلتني في بطنها، وابني عمرو يطلبني فلا يصل إليّ؛ ثم أولها: أما حلق رأسي فقتلي، وأما الطائر فروحي، وأما المرأة فالأرض تُحفر لي فأُدفن فيها، وأرجو أن أُقتل شهيدًا، وأما طلب ابني فطلبه الشهادة التي سأنالها قبله."
+      },
+      {
+        "order": 6,
+        "titleEn": "Martyrdom at Yamama",
+        "titleAr": "استشهاده في اليمامة",
+        "year": "Battle of Yamama",
+        "descriptionEn": "In the battle of Yamama he fought with great courage until he fell as a martyr on the battlefield, while his son Amr returned to Madinah missing a hand, later to die as a martyr at Yarmuk, fulfilling the rest of his father’s interpretation.",
+        "descriptionAr": "في معركة اليمامة أبلى الطفيل بن عمرو أحسن البلاء حتى خَرَّ صريعًا شهيدًا على أرض المعركة، وأما ابنه عمرو فاستمر يقاتل حتى أثخنته الجراح وقُطعت كفه اليمنى، فعاد إلى المدينة مخلفًا على أرض اليمامة أباه ويده، ثم ما لبث أن بادر إلى اليرموك حتى أدرك الشهادة التي منّاه بها أبوه."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "يَا رَسُولَ اللَّهِ: اجْعَلْنَا مَيْمَنَتَكَ فِي كُلِّ غَزْوَةٍ تَغْزُوهَا، وَاجْعَلْ شِعَارَنَا: «مَبْرُورٌ».",
+      "translationEn": "“O Messenger of Allah, place us on your right flank in every battle you fight, and make our slogan: ‘Mabrūr’.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٣٤–٣٦."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بنص الفصل الكامل عن الطفيل بن عمرو الدوسي].",
+      "translationEn": "[To be completed later with the full chapter text on At-Tufayl ibn Amr ad-Dawsi].",
+      "note": "خلاصة موسَّعة اعتمادًا على المقطع المعروض من الكتاب."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 3,
+    "conversionEraLabel": "قبل الهجرة",
+    "battlesCount": 3,
+    "distinctionsCount": 3,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث",
+      "داعية"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-abu-bakr-as-siddiq"
+  ]
+}

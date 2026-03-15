@@ -1,0 +1,197 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-006-al-baraa-ibn-malik",
+    "cardNumber": "006",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "49–55"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "الْبَرَاءُ بْنُ مَالِكٍ الأَنْصَارِيُّ",
+    "nameTranslit": "Al-Baraa ibn Malik al-Ansari",
+    "fullNameArabic": "الْبَرَاءُ بْنُ مَالِكِ بْنِ النَّضْرِ الأَنْصَارِيُّ الخَزْرَجِيُّ",
+    "fullNameTranslit": "Al-Baraa ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+    "kunya": null,
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "كان شابًا من شباب الأنصار في العهد المدني، واشتهر بشجاعته في المغازي."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "يثرب (المدينة المنورة لاحقًا). ",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "مَالِكُ بْنُ النَّضْرِ",
+      "kunya": null,
+      "note": "هو والد أنس بن مالك أيضًا على الأرجح، فيكون البراء عمَّ أنس أو من قرابته القريبة بحسب روايات النسب."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "الخزرج",
+    "clan": "من الأنصار (بنو النجار). ",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "أنصاري من أهل المدينة، من المجاهدين بين يدي رسول الله ﷺ ثم في الفتوحات بعده."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "أنصاري",
+    "conversion_era": "بعد الهجرة",
+    "battles": [
+      "أحد",
+      "الخندق",
+      "خيبر",
+      "فتح مكة",
+      "حنين",
+      "تبوك"
+    ],
+    "distinctions": [
+      "من أهل بيعة الرضوان",
+      "من السابقين الأولين من الأنصار في الجهاد"
+    ],
+    "scholarly_role": [
+      "راوي حديث"
+    ],
+    "relation_to_prophet": [],
+    "tribe": "خزرج",
+    "narrations_count": "قليل",
+    "narrations": {
+      "tier": "قليل",
+      "tierEn": "Few (1–99)",
+      "count": null,
+      "note": "شهرته في الشجاعة والقتال والبلاء في سبيل الله أكثر من شهرته في كثرة الرواية."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "شارك في تثبيت دولة الإسلام في حروب الردة والفتوح؛ كانت شجاعته سببًا في فتح حصون وأمصار لأهل القرآن."
+    }
+  },
+  "biography": {
+    "tagline": "فارس من فرسان الأنصار، كان المسلمون يتفاءلون بدعائه في المعارك لكثرة ما استُجيب له.",
+    "taglineArabic": "سيفٌ أنصاريّ مضاء؛ جُرح عشرات المرّات، وجعل جسده جسرًا لعبور المسلمين فوق حصن «تستر».",
+    "summaryEn": "Al-Baraa ibn Malik (رضي الله عنه) was an Ansari warrior renowned for extraordinary courage in battle and a heart firmly attached to martyrdom. During the Prophet’s ﷺ lifetime and the subsequent conquests, he repeatedly placed himself in the most dangerous positions, and the Muslims would often ask him to supplicate before battles because his prayers were frequently answered. His story culminated in the famous siege of Tustar in Persia, where he allowed himself to be flung by a shield or a contraption over the fortress wall so he could open the gate from inside, being severely wounded in the process while enabling the Muslims to capture the stronghold.",
+    "summaryAr": "البراء بن مالك الأنصاري (رضي الله عنه) شابٌّ من الأنصار ذاع صيته في ميادين الجهاد، حتى كان المسلمون يتفاءلون بدعائه ويتوسلون إلى الله بدعائه عليهم في المعارك. كان لا يبالي أن يلقي بنفسه في أتون الموت طلبًا للشهادة، حتى إن عمر بن الخطاب رضي الله عنه كان يكتب إلى الأمراء أن لا يولّوه إمرة جيش؛ خشية أن يوردهم الموارد المهلكة لإقدامه الشديد. بلغت شجاعته ذروتها في حصار «تستر»؛ إذ ربط نفسه على تُرسٍ أو آلة، فأُلقي في جوف الحصن، فقاتل وحده حتى فتح الباب للمسلمين، وأصيب يومئذٍ بضعًا وثمانين جراحة، لكن الله نجّاه ليُتمّ ما كُتب له من الجهاد حتى لقي الله شهيدًا.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الشجاعة",
+        "en": "Bravery"
+      },
+      {
+        "ar": "الرغبة في الشهادة",
+        "en": "Longing for martyrdom"
+      },
+      {
+        "ar": "الزهد في الدنيا",
+        "en": "Disinterest in worldly life"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Courage in the Prophet’s ﷺ battles",
+        "titleAr": "بلاؤه في مغازي النبي ﷺ",
+        "year": "Madinan period",
+        "descriptionEn": "He fought in the Prophet’s ﷺ campaigns with notable courage, often seeking the most dangerous positions and earning a reputation among the Companions for daring feats on the battlefield.",
+        "descriptionAr": "شهد البراء بن مالك مشاهدَ النبي ﷺ، وكان يُعرَف في صفوف الأنصار بأنه من أجرأهم قلبًا، يختار أشدّ المواقف خطرًا، ويقتحم الصفوف اقتحامًا تعجّب له الصحابة."
+      },
+      {
+        "order": 2,
+        "titleEn": "Supplications in battle",
+        "titleAr": "استجابة الدعاء على يديه في القتال",
+        "year": "Riddah and early conquests",
+        "descriptionEn": "During the Ridda wars and later campaigns, the Muslims would say: 'By Allah, among us is a man whose supplication is often answered: al-Baraa ibn Malik,' and they would ask him to call upon Allah for victory before charging into fierce combat.",
+        "descriptionAr": "في حروب الردة وما بعدها كان المسلمون إذا اشتدّ عليهم القتال قالوا: والله إن فينا رجلاً مجابَ الدعوة هو البراء بن مالك، فيتقدّم ويدعو الله أن ينصر المسلمين، فما يزال القوم يرون أثر دعائه في مآل المعركة."
+      },
+      {
+        "order": 3,
+        "titleEn": "Umar’s instruction about him",
+        "titleAr": "كتاب عمر في شأنه إلى الولاة",
+        "year": "Caliphate of Umar",
+        "descriptionEn": "Because of his extreme daring, Umar ibn al-Khattab reportedly instructed his commanders not to appoint al-Baraa as overall leader of an army, fearing he might endanger the whole force by his love of martyrdom and recklessness with his own life.",
+        "descriptionAr": "بلغ من إقدامه أن عمر كتب إلى عمّاله: لا تولُّوا البراءَ بنَ مالك قيادةَ جيشٍ من جيوش المسلمين؛ فإنه مهلكةٌ من شدّة طلبه للشهادة واستهانته بنفسه في سبيل الله."
+      },
+      {
+        "order": 4,
+        "titleEn": "The siege of Tustar and the sling over the wall",
+        "titleAr": "حصار تُسْتَرَ وقذفه فوق سورها",
+        "year": "Conquest of Persia (Tustar)",
+        "descriptionEn": "At the fortress of Tustar, when the Muslims struggled to breach the walls, al-Baraa suggested that he be placed on a shield or contrivance and flung over the wall so he could reach the gate from inside; he was launched, fought alone until he opened the gate, and the army poured in to capture the citadel.",
+        "descriptionAr": "عندما استعصت تُسْتَرُ على جيوش المسلمين اقترح البراء أن يُجعل في تُرسٍ وأن يُقْذَفَ به فوق السور ليهبط في جوف الحصن، فيفتح للمسلمين بابه؛ ففعلوا، فوقع في وسط العدوّ، فقاتلهم حتى فتح الباب، فاندفع المسلمون إلى الداخل وفتح الله الحصن على يديه."
+      },
+      {
+        "order": 5,
+        "titleEn": "Severe wounds at Tustar",
+        "titleAr": "جراحه الكثيرة في تُسْتَر",
+        "year": "Same battle",
+        "descriptionEn": "He suffered dozens of serious wounds during this exploit—some narrations mention more than eighty injuries—yet survived that day by Allah’s decree, bearing the marks of his sacrifice on his body.",
+        "descriptionAr": "أصيب البراء في تُسْتَر ببضعٍ وثمانين جراحة في جسده من طعن وضرب وسهم، حتى خُيّل للناس أنه قد قُتِل، ثم عافاه الله بعد حين، فظلّت آثار تلك الجراح شاهدة على تفانيه في سبيل الله."
+      },
+      {
+        "order": 6,
+        "titleEn": "Martyrdom after a life of jihad",
+        "titleAr": "استشهاده بعد عمرٍ حافل بالجهاد",
+        "year": "Later conquests",
+        "descriptionEn": "After a lifetime of striving in Allah’s path and repeatedly seeking martyrdom, he finally attained it in one of the major battles of the conquests, closing a biography marked by courage and answered supplications.",
+        "descriptionAr": "ما زال البراء يجاهد ويطلب الشهادة في المواطن المختلفة حتى لقي الله شهيدًا في بعض معارك الفتح، فخُتم له بما كان يرجوه من ربه بعد عمرٍ حافلٍ بالطعن والضرب والدعاء المستجاب."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "كَانَ الْمُسْلِمُونَ إِذَا اشْتَدَّ عَلَيْهِمُ الْقِتَالُ قَالُوا: أَيْنَ الْبَرَاءُ بْنُ مَالِكٍ؟! لَعَلَّ اللَّهَ أَنْ يَسْتَجِيبَ لَهُ.",
+      "translationEn": "When fighting grew intense for the Muslims, they would say: “Where is al-Baraa ibn Malik? Perhaps Allah will answer through him.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٤٩–٥٥."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة البراء بن مالك الأنصاري من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on al-Baraa ibn Malik al-Ansari from the book when fully entered].",
+      "note": "الخلاصة الحالية مبنية على مضمون الفصل كما عرضه المؤلف، مع التركيز على حصار تُسْتَر ودور البراء فيه."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 3,
+    "conversionEraLabel": "بعد الهجرة (أنصاري مدني)",
+    "battlesCount": 6,
+    "distinctionsCount": 2,
+    "narrationsTier": "قليل",
+    "narrationsTierScore": 1,
+    "scholarlyRoles": [
+      "راوي حديث"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-001-anas-ibn-malik"
+  ]
+}

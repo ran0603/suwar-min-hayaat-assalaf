@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0",
+    "fileId": "sc-007-thumamah-ibn-uthal",
+    "cardNumber": "007",
+    "volumeId": "vol-1",
+    "completeness": "partial",
+    "lastUpdated": "2026-03-14",
+    "sources": [
+      {
+        "id": "src-main",
+        "title": "صور من حياة الصحابة",
+        "author": "د. عبد الرحمن رأفت الباشا",
+        "volume": 1,
+        "pages": "56–62"
+      }
+    ]
+  },
+  "identity": {
+    "nameArabic": "ثُمَامَةُ بْنُ أُثَالٍ الحَنَفِيُّ",
+    "nameTranslit": "Thumamah ibn Uthal al-Hanafi",
+    "fullNameArabic": "ثُمَامَةُ بْنُ أُثَالٍ بْنِ النُّعْمَانِ الحَنَفِيُّ",
+    "fullNameTranslit": "Thumamah ibn Uthal ibn al-Nu'man al-Hanafi",
+    "kunya": null,
+    "laqab": [],
+    "gender": "sahabi",
+    "birthYear": {
+      "hijri": null,
+      "gregorian": null,
+      "note": "كان سيد بني حنيفة في نجد، من زعماء العرب قبل إسلامه."
+    },
+    "deathYear": {
+      "hijri": null,
+      "gregorian": null
+    },
+    "ageAtDeath": null,
+    "placeOfBirth": "ديار بني حنيفة بنجد.",
+    "placeOfDeath": null,
+    "graveLocation": null
+  },
+  "lineage": {
+    "father": {
+      "nameArabic": "أُثَالُ بْنُ النُّعْمَانِ",
+      "kunya": null,
+      "note": "من أشراف بني حنيفة."
+    },
+    "mother": {
+      "nameArabic": null,
+      "kunya": null,
+      "note": null
+    },
+    "tribe": "بنو حنيفة",
+    "clan": "من ربيعة بن نزار، أهل اليمامة.",
+    "spouses": [],
+    "children": [],
+    "relationToProphet": [
+      "سيد من أقيال العرب، أسلم بعد أن أُسر وربط في سارية المسجد، ثم صار من أنصار النبي ﷺ في قومه."
+    ]
+  },
+  "islamicProfile": {
+    "hijrah_status": "لم يهاجر",
+    "conversion_era": "بعد الهجرة",
+    "battles": [],
+    "distinctions": [
+      "حليف",
+      "من السابقين في قومه"
+    ],
+    "scholarly_role": [
+      "لا رواية"
+    ],
+    "relation_to_prophet": [
+      "حليف"
+    ],
+    "tribe": "تميم",
+    "narrations_count": "لا رواية",
+    "narrations": {
+      "tier": "لا رواية",
+      "tierEn": "No hadith recorded",
+      "count": null,
+      "note": "يُذكر في كتب السير لقصته مع الأسر والإسلام وحبس الميرة عن قريش، لا لكونه من المكثرين في الرواية."
+    },
+    "quranRelation": {
+      "hafiz": false,
+      "specialRole": "بسياسته لقومه وحبس الميرة عن قريش نصر دولة الإسلام والقرآن اقتصاديًا بعد الحديبية."
+    }
+  },
+  "biography": {
+    "tagline": "سيد بني حنيفة الذي رُبط في سارية المسجد، فخرج منها محبًا للإسلام، وحبس الميرة عن قريش.",
+    "taglineArabic": "من عدوٍّ متربّصٍ بالرسول ﷺ إلى حليفٍ يأمر قومه أن لا يحملوا لقريش حبة قمح حتى يأذن رسول الله ﷺ.",
+    "summaryEn": "Thumamah ibn Uthal (رضي الله عنه) was the chief of Banu Hanifa in Yamamah and one of the notable Arab rulers in Najd before accepting Islam. After the Prophet ﷺ sent a small detachment which captured him without knowing his identity, he was tied to a pillar in the Prophet’s Mosque for several days, during which he observed the Muslims’ worship and the character of the Prophet ﷺ while being treated with generosity. Once the Prophet ﷺ released him unconditionally, Thumamah bathed, returned declaring his embrace of Islam, and later used his influence to cut off grain supplies to Quraysh until they appealed to the Prophet ﷺ, who then instructed him to resume trade.",
+    "summaryAr": "ثُمَامَةُ بْنُ أُثَالٍ الحَنَفِيُّ (رضي الله عنه) كان سيّدَ بني حنيفة وصاحبَ أمرِ اليمامة قبل إسلامه، وقد كان يحمل في صدره حقدًا على الإسلام حتى همَّ بقتل النبي ﷺ أو منعه من الوصول إلى قومه. بعث النبي ﷺ سريةً فأسرتْه من غير أن تعرف قدره، فجِيءَ به إلى المدينة وربطوه في سارية من سواري المسجد، فكان رسول الله ﷺ يخرج إليه فيسأله: «ما عندك يا ثُمامة؟» فيجيبه أولًا بكلام المتحدّي، ثم لا يلبث أن يرى من حلم النبي ﷺ وحسن معاملته ما يلين به قلبه، خاصةً وقد أمر لهم أن يُحسنوا قراه. وبعد أيام أمر النبي ﷺ بإطلاقه من غير فداء، فانطلق فاغتسل، ثم رجع إلى المسجد وقال: «أشهد أن لا إله إلا الله وأشهد أن محمدًا رسول الله، والله ما كان على وجه الأرض وجهٌ أبغض إليّ من وجهك، فقد أصبح وجهك أحبَّ الوجوه إليّ، ولا دينٌ أبغض إليّ من دينك، فقد أصبح دينك أحبَّ الدين إليّ.» ثم رجع إلى قومه مسلمًا، ومن ثمّ أمرهم أن يحبسوا الميرة عن قريش، حتى كتب أهل مكة إلى النبي ﷺ يسألونه بالله والرحم أن يأمر ثُمامة أن يطلق إليهم أقواتهم، فأرسل ﷺ إليه أن يخلّي بينهم وبين حمل الطعام.",
+    "physicalDescription": {
+      "ar": null,
+      "en": null
+    },
+    "characterTraits": [
+      {
+        "ar": "الهيبة والزعامة",
+        "en": "Dignity and leadership"
+      },
+      {
+        "ar": "الحزم السياسي",
+        "en": "Political firmness"
+      },
+      {
+        "ar": "الانقلاب الصادق بعد الهداية",
+        "en": "Sincere transformation after guidance"
+      }
+    ],
+    "keyEvents": [
+      {
+        "order": 1,
+        "titleEn": "Pre-Islam hostility and status",
+        "titleAr": "مكانته قبل الإسلام وعداوته للإسلام",
+        "year": "Early Madinan period",
+        "descriptionEn": "As the chief of Banu Hanifa, Thumamah initially harbored hostility toward the Prophet ﷺ and Islam, wielding significant influence over the grain routes from Yamamah to Makkah.",
+        "descriptionAr": "كان ثُمَامَةُ سيدَ بني حنيفة، يملك أمرَ الزرع في اليمامة وما يمدّ به قريشًا من القمح، وكانت في نفسه عداوة للإسلام، يرى في دعوة محمد ﷺ خطرًا على نفوذ العرب القدماء."
+      },
+      {
+        "order": 2,
+        "titleEn": "Captured and tied to a pillar in the mosque",
+        "titleAr": "أسره وربطه في سارية المسجد",
+        "year": "After some of the ghazawat",
+        "descriptionEn": "A Muslim detachment captured him without realizing his rank and brought him to Madinah, where the Prophet ﷺ ordered that he be tied to a pillar in the mosque, allowing him to witness Muslim prayer and community life up close.",
+        "descriptionAr": "خرجت سرية من سرايا المسلمين فأمسكوا برجل لا يعرفونه، فجاؤوا به إلى المدينة، فأمر النبي ﷺ أن يربطوه في سارية من سواري المسجد، فصار ثُمَامَةٌ يراقب صلاة المسلمين وسلوكهم صباح مساء وهو موثوق بالرِّباط."
+      },
+      {
+        "order": 3,
+        "titleEn": "Repeated dialogue with the Prophet ﷺ",
+        "titleAr": "حواره اليومي مع النبي ﷺ وهو موثوق",
+        "year": "Same stay in Madinah",
+        "descriptionEn": "The Prophet ﷺ came to him morning and evening asking, 'What do you have, O Thumamah?', and he first replied defiantly that if killed he would be a man of blood, if pardoned it would be to a grateful man, and if ransomed it would be for wealth; the Prophet ﷺ left him each time without harming him.",
+        "descriptionAr": "كان رسول الله ﷺ يخرج إليه فيقول: «ما عندك يا ثُمامة؟» فيقول: إن تقتل تقتل ذا دم، وإن تُنعِم تُنعِم على شاكر، وإن شئت الفداء فسل ما شئت، فيتركه النبي ﷺ يومًا بعد يوم، وهو يسمع القرآن ويرى أحوال المسلمين، ويُحسَن إليه في الطعام والشراب."
+      },
+      {
+        "order": 4,
+        "titleEn": "Unconditional release and embrace of Islam",
+        "titleAr": "إطلاقه بلا فداء وإسلامه",
+        "year": "End of his captivity",
+        "descriptionEn": "After a few days the Prophet ﷺ ordered that Thumamah be released without ransom; he went to a nearby grove, bathed, then returned to the mosque declaring his Islam and his complete change of heart regarding the Prophet ﷺ and his religion.",
+        "descriptionAr": "بعد ثلاثة أيام أو نحوها أمر النبي ﷺ أصحابه أن يطلقوا ثُمامة، فانطلق إلى حائط قريب فاغتسل، ثم عاد إلى المسجد وقال: أشهد أن لا إله إلا الله، وأشهد أن محمدًا رسول الله، والله ما كان على وجه الأرض وجهٌ أبغض إلي من وجهك، فقد أصبح وجهك أحبَّ الوجوه إلي، ولا دين أبغض إليّ من دينك، فقد أصبح دينك أحب الدين إلي."
+      },
+      {
+        "order": 5,
+        "titleEn": "Returning to Yamamah as a Muslim leader",
+        "titleAr": "عودته إلى قومه مسلمًا",
+        "year": "Shortly after his Islam",
+        "descriptionEn": "Thumamah then returned to Yamamah to his people as a Muslim chief, calling Banu Hanifa to Islam and reorienting his political influence in support of the new faith.",
+        "descriptionAr": "رجع ثُمَامَةُ إلى دياره في اليمامة وهو يحمل في قلبه حبَّ الله ورسوله، ودعا قومه إلى الإسلام، فأسلم كثير منهم، وصار زعيمًا مسلمًا بعد أن كان زعيمًا مشركًا."
+      },
+      {
+        "order": 6,
+        "titleEn": "Economic pressure on Quraysh",
+        "titleAr": "حبس الميرة عن قريش",
+        "year": "After his return, post-Hudaybiyyah",
+        "descriptionEn": "In loyalty to Islam, he decided to stop sending grain shipments from Yamamah to Quraysh, causing severe hardship until the Meccans wrote to the Prophet ﷺ begging him by Allah and kinship ties to command Thumamah to resume trade; the Prophet ﷺ sent to him instructing that he let food reach them again.",
+        "descriptionAr": "أراد أن يري قريشًا أثر إسلامه، فحلف أن لا يحمل إليهم حبة حنطة من اليمامة حتى يأذن رسول الله ﷺ، فاشتد الجوع بمكة حتى كتب أهلها إلى النبي ﷺ يسألونه بالله والرحم أن يكتب إلى ثُمامة أن يُرسِل إليهم أقواتهم، فكتب إليه النبي ﷺ أن يُخلّي بينهم وبين الميرة، فاستجاب لأمره."
+      }
+    ]
+  },
+  "texts": {
+    "bookExcerpt": {
+      "arabic": "وَاللَّهِ يَا مُحَمَّدُ مَا كَانَ عَلَى وَجْهِ الْأَرْضِ وَجْهٌ أَبْغَضَ إِلَيَّ مِنْ وَجْهِكَ، فَقَدْ أَصْبَحَ وَجْهُكَ أَحَبَّ الْوُجُوهِ إِلَيَّ … وَاللَّهِ مَا كَانَ مِنْ دِينٍ أَبْغَضَ إِلَيَّ مِنْ دِينِكَ، فَقَدْ أَصْبَحَ دِينُكَ أَحَبَّ الدِّينِ إِلَيَّ.",
+      "translationEn": "“By Allah, O Muhammad, there was no face on the surface of the earth more hated to me than your face, but now your face has become the most beloved of faces to me… and by Allah, there was no religion more detested by me than your religion, but now your religion has become the most beloved religion to me.”",
+      "sourceRef": "صور من حياة الصحابة، ج١، ص٥٦–٦٢."
+    },
+    "fullChapter": {
+      "arabic": "[يُستكمل لاحقًا بالنص الكامل لقصة ثمامة بن أثال من الكتاب عند الإدخال التفصيلي].",
+      "translationEn": "[To be completed later with the full chapter on Thumamah ibn Uthal from the book once fully entered].",
+      "note": "الخلاصة مبنية على رواية المؤلف لقصة أسره وإسلامه وحبس الميرة عن قريش."
+    },
+    "hadithAboutThem": [],
+    "notableQuotes": [],
+    "quranReferences": []
+  },
+  "cardStats": {
+    "conversionEraScore": 2,
+    "conversionEraLabel": "بعد الهجرة (في بلده، لا مهاجر)",
+    "battlesCount": 0,
+    "distinctionsCount": 2,
+    "narrationsTier": "لا رواية",
+    "narrationsTierScore": 0,
+    "scholarlyRoles": [
+      "لا رواية"
+    ]
+  },
+  "additionalSources": [],
+  "lessonPlanTags": [],
+  "relatedCompanions": [
+    "sc-003-at-tufayl-ibn-amr"
+  ]
+}
