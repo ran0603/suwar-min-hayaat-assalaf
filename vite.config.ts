@@ -15,6 +15,7 @@ const config = defineConfig({
     tanstackStart(),
     viteReact(),
   ],
+  base: '/suwar-min-hayaat-assalaf/',
 })
 
 export default config
