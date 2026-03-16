@@ -21,10 +21,24 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'Suwar min Hayaat Assalaf',
       },
+      {
+        name: 'description',
+        content: 'Explore the life of Assalaf through a collection of cards and details.',
+      },
+      { name: 'theme-color', content: '#1A1408' },
     ],
     links: [
+      {
+        rel: 'icon',
+        href: '/favicon.ico',
+      },
+      {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/apple-touch-icon.png',
+      },
       {
         rel: 'stylesheet',
         href: appCss,
