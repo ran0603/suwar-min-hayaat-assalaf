@@ -1,8 +1,10 @@
 import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
+import { useEffect } from 'react'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
+import { ingestData } from '../db/seeds'
 
 import appCss from '../styles.css?url'
 
@@ -19,10 +21,24 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'Suwar min Hayaat Assalaf',
       },
+      {
+        name: 'description',
+        content: 'Explore the life of Assalaf through a collection of cards and details.',
+      },
+      { name: 'theme-color', content: '#1A1408' },
     ],
     links: [
+      {
+        rel: 'icon',
+        href: '/favicon.ico',
+      },
+      {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/apple-touch-icon.png',
+      },
       {
         rel: 'stylesheet',
         href: appCss,
@@ -33,6 +49,10 @@ export const Route = createRootRoute({
 })
 
 function RootDocument({ children }: { children: React.ReactNode }) {
+  useEffect(() => {
+    ingestData()
+  }, [])
+
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
